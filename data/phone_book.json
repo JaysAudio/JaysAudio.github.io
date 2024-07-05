@@ -1,0 +1,6263 @@
+[
+
+	{
+
+		"name": "64 Audio",
+
+		"phones": [
+
+			{
+
+				"name": "U4s",
+
+				"file": [
+
+					"64 Audio U4s mX Foam",
+
+					"64 Audio U4s m12 Foam",
+
+					"64 Audio U4s m15 Foam",
+
+					"64 Audio U4s m20 Foam"
+
+				],
+
+				"suffix": [
+
+					"mX (Foam)",
+
+					"m12 (Foam)",
+
+					"m15 (Foam)",
+
+					"m20 (Foam)"
+
+				]
+
+			}
+
+		]
+
+	},
+
+	{
+
+		"name": "7Hz",
+
+		"phones": [
+			{
+
+				"name": "Aurora",
+
+				"file": [
+
+					"7Hz Aurora Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+			{
+
+				"name": "Aurora Silicone",
+
+				"file": [
+
+					"7Hz Aurora Silicone"
+
+				],
+
+				"suffix": [
+
+				]
+
+			},
+			{
+
+				"name": "Legato",
+
+				"file": [
+
+					"7Hz Legato Foam",
+
+					"7Hz Legato SF W1",
+
+					"7Hz Legato Stock Silicon"
+
+				],
+
+				"suffix": [
+
+					"Foam",
+
+					"SF W1",
+
+					"Stock Silicon"
+
+				]
+
+			},
+			{
+
+				"name": "Salnotes Zero",
+
+				"file": [
+
+					"7Hz Salnotes Zero Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+			{
+
+				"name": "Salnotes Zero:2",
+
+				"file": [
+
+					"7Hz Salnotes Zero 2 Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+			{
+
+				"name": "Timeless",
+
+				"file": [
+
+					"7Hz Timeless Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+	
+			},
+			{
+
+				"name": "Sonus",
+
+				"file": [
+
+					"7Hz Sonus Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+				
+				]
+
+			}
+
+		]
+
+	},
+
+	{
+
+		"name": "7th Acoustics",
+
+		"phones": [
+
+			{
+
+				"name": "Stargazer",
+
+				"file": [
+
+					"7th Acoustics Stargazer Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+
+			{
+
+				"name": "Supernova",
+
+				"file": [
+
+					"7th Acoustics Supernova Stock"
+
+				],
+
+				"suffix": [
+
+					"Stock"
+
+				]
+
+			}		
+
+		]
+
+	},
+
+	{
+
+		"name": "AFUL",
+
+		"phones": [
+		
+			{
+
+				"name": "MagicOne",
+
+				"file": [
+
+					"AFUL MagicOne Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+
+			{
+
+				"name": "Performer5",
+
+				"file": [
+
+					"AFUL Performer5 Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+
+			{
+
+				"name": "Performer8",
+
+				"file": [
+
+					"AFUL Performer8 Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			}
+
+		]
+
+	},
+	
+	{
+
+		"name": "AKG",
+
+		"phones": [
+
+			{
+
+				"name": "N5005",
+
+				"file": [
+
+					"AKG N5005 f. Bass Foam",
+
+					"AKG N5005 f. High Foam",
+
+					"AKG N5005 f. Mid High Foam",
+
+					"AKG N5005 f. Reference Foam"
+
+				],
+
+				"suffix": [
+
+					"f.Bass (Foam)",
+
+					"f.High (Foam)",
+
+					"Mid High (Foam)",
+
+					"Reference (Foam)"
+
+				]
+
+			}
+
+		]
+
+	},
+
+	{
+
+		"name": "Audeze",
+
+		"phones": [
+
+			{
+
+				"name": "LCD-MX4",
+
+				"file": [
+
+					"Audeze LCD-MX4 Foam"
+
+				],
+
+				"suffix": [
+
+					"(Foam)"
+
+				]
+
+			}
+
+		]
+
+	},
+
+
+	{
+
+		"name": "Aur Audio",
+
+		"phones": [
+
+			{
+
+				"name": "Aure",
+
+				"file": [
+
+					"Aur Audio Aure Foam"
+
+				],
+
+				"suffix": [
+
+					"(Foam)"
+
+				]
+
+			},
+
+			{
+
+				"name": "Aurora",
+
+				"file": [
+
+					"Aur Audio Aurora Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+			
+			{
+
+				"name": "Neon Pro",
+
+				"file": [
+
+					"Aur Audio Neon Pro Bass Foam",
+
+					"Aur Audio Neon Pro Foam"
+
+				],
+
+				"suffix": [
+
+					"Bass (Foam)",
+
+					"(Foam)"
+
+				]
+
+			}
+
+		]
+
+	},
+
+	{
+
+		"name": "ARTTI",
+
+		"phones": [
+			
+			{
+
+				"name": "R1",
+
+				"file": [
+
+					"ARTTI R1 Foam"
+
+				],
+
+				"suffix": [
+
+					"(Foam)"
+
+				]
+
+			},	
+
+			{
+
+				"name": "R2",
+
+				"file": [
+
+					"ARTTI R2 Foam"
+
+				],
+
+				"suffix": [
+
+					"(Foam)"
+
+				]
+
+			},	
+
+			{
+
+				"name": "T10",
+
+				"file": [
+
+					"ARTTI T10 Foam"
+
+				],
+
+				"suffix": [
+
+					"(Foam)"
+
+				]
+
+			},	
+			{
+
+				"name": "T10 400 MESH",
+
+				"file": [
+
+					"ARTTI T10 400 MESH Foam"
+
+				],
+
+				"suffix": [
+
+					"(Foam)"
+
+				]
+
+			}
+
+
+		]
+
+	},
+
+	{
+
+		"name": "Blon",
+
+		"phones": [
+
+			{
+
+				"name": "BL03",
+
+				"file": [
+
+					"Blon BL03 Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+			{
+
+				"name": "Z300",
+
+				"collab": "HBB",
+
+				"file": [
+
+					"Blon X HBB Z300 Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			}
+
+		]
+
+	},
+
+	{
+
+		"name": "BQEYZ",
+
+		"phones": [
+
+			{
+
+				"name": "WIND",
+
+				"file": [
+
+					"BQEYZ WIND Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+		
+			{
+
+				"name": "WIND 500 Mesh",
+
+
+				"file": [
+
+					"BQEYZ WIND 500 Mesh Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			}
+
+		]
+
+	},
+
+
+	{
+
+		"name": "CCA",
+
+		"phones": [
+
+			{
+
+				"name": "CRA",
+
+				"file": [
+
+					"CCA CRA Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+			{
+
+				"name": "POLARIS 0000",
+
+				"file": [
+
+					"CCA POLARIS 0000 Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+			{
+
+				"name": "POLARIS 0001",
+
+				"file": [
+
+					"CCA POLARIS 0001 Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+			{
+
+				"name": "POLARIS 1001",
+
+				"file": [
+
+					"CCA POLARIS 1001 Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+			{
+
+				"name": "POLARIS 1101",
+
+				"file": [
+
+					"CCA POLARIS 1101 Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+
+			{
+
+				"name": "POLARIS ALL ON",
+
+				"file": [
+
+					"CCA POLARIS ALL ON Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+
+			{
+
+				"name": "TRIO 0000",
+
+				"file": [
+
+					"CCA CRA TRIO 0000 Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+			{
+
+				"name": "TRIO 0001",
+
+				"file": [
+
+					"CCA CRA TRIO 0001 Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+		
+			{
+
+				"name": "TRIO 1001",
+
+				"file": [
+
+					"CCA CRA TRIO 1001 Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+			{
+
+				"name": "TRIO 1101",
+
+				"file": [
+
+					"CCA CRA TRIO 1101 Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+			{
+
+				"name": "TRIO ALL ON",
+
+				"file": [
+
+					"CCA CRA TRIO ALL ON Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			}
+		
+		]
+
+	},
+
+	{
+
+		"name": "Debauche Bacchus",
+
+		"phones": [
+
+			{
+
+				"name": "Monroe",
+
+				"file": [
+
+					"Debauche Bacchus Monroe Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			}
+
+		]
+
+	},
+
+	{
+
+		"name": "DUNU",
+
+		"phones": [
+			{
+
+				"name": "Falcon Ultra BLUE",
+
+				"file": [
+
+					"Dunu Falcon Ultra BLUE Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},		
+			{
+
+				"name": "Falcon Ultra GOLD",
+
+				"file": [
+
+					"Dunu Falcon Ultra Gold Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},		
+
+		
+			{
+
+				"name": "Kima",
+
+				"file": [
+
+					"DUNU Kima Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},		
+
+			{
+
+				"name": "SA6",
+
+				"file": [
+
+					"DUNU SA6 s.Off Foam",
+
+					"DUNU SA6 s.On Foam"
+
+				],
+
+				"suffix": [
+
+					"-switch: off- (Foam)",
+
+					"-switch: on- (Foam)"
+
+				]
+
+			},
+
+			{
+
+				"name": "SA6 Ultra",
+
+				"file": [
+
+					"DUNU SA6 Ultra Foam",
+
+					"DUNU SA6 Ultra Bass Foam"
+
+				],
+
+				"suffix": [
+
+					"-switch: off- (Foam)",
+
+					"-switch: on- (Foam)"
+
+				]
+
+			},
+
+			{
+
+				"name": "Vulkan",
+
+				"file": [
+
+					"DUNU Vulcan Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			}
+
+		]
+
+	},
+
+	{
+
+		"name": "Elysian",
+
+		"phones": [
+
+			{
+
+				"name": "Diva",
+
+				"file": [
+
+					"Elysian Diva - Blue - Foam",
+
+					"Elysian Diva - Red - Foam",
+
+					"Elysian Diva - Yellow - Foam",
+
+					"Elysian Diva - 250m - Blue Foam",
+
+					"Elysian Diva - 250m - Red Foam",
+
+					"Elysian Diva - 250m - Yellow Foam"
+
+				],
+
+				"suffix": [
+
+					"- Blue - (Foam)",
+
+					"- Red - (Foam)",
+
+					"- Yellow - (Foam)",
+
+					"- 250m - Blue (Foam)",
+
+					"- 250m - Red (Foam)",
+
+					"- 250m - Yellow (Foam)"
+
+				]
+
+			},
+
+			{
+
+				"name": "GAEA",
+
+				"file": [
+
+					"Elysian Effect GAEA Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			}
+
+		]
+
+	},
+
+	{
+
+		"name": "Empire Ears",
+
+		"phones": [
+
+			{
+
+				"name": "EVO",
+
+				"file": [
+
+					"Empire Ears EVO Foam"
+					
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			}
+
+
+		]
+
+	},
+
+	{
+
+		"name": "EPZ",
+
+		"phones": [
+
+			{
+
+				"name": "530",
+
+				"file": [
+
+					"EPZ 530 Foam"
+					
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+
+			{
+
+				"name": "620",
+
+				"file": [
+
+					"EPZ 620 Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+
+			{
+
+				"name": "G10",
+
+				"file": [
+
+					"EPZ G10 Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+
+			{
+
+				"name": "K5",
+
+				"file": [
+
+					"EPZ K5 Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+			{
+
+				"name": "Q1 PRO",
+
+				"file": [
+
+					"EPZ Q1 PRO Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+			{
+
+				"name": "Q1 PRO 300 MESH",
+
+				"file": [
+
+					"EPZ Q1 PRO 300 MESH Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+
+			
+			{
+
+				"name": "Q1 PRO Tanya Filter",
+
+				"file": [
+
+					"EPZ Q1 PRO TANYA FILTER Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+
+			
+			{
+
+				"name": "Q5",
+
+				"file": [
+
+					"EPZ Q5 Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+
+			{
+
+				"name": "x Tipsy Star One",
+
+				"file": [
+
+					"EPZxTipsy Star One Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+
+			{
+
+				"name": "x Tipsy Star One 300 MESH",
+
+				"file": [
+
+					"EPZxTipsy Star One 300 Mesh Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			}
+
+
+		]
+
+	},
+
+	{
+
+		"name": "FATfreq",
+
+		"phones": [
+
+			{
+
+				"name": "Maestro Mini",
+
+				"file": [
+
+					"FATfreq Maestro Mini Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+			{
+
+				"name": "Scarlet Mini",
+
+				"file": [
+
+					"Fatfreq Scarlet Mini Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			}
+
+
+		]
+
+	},		
+
+	{
+
+		"name": "FiiO",
+
+		"phones": [
+
+			{
+
+				"name": "FD11",
+
+				"file": [
+
+					"FiiO FD11 Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+
+			{
+
+				"name": "JD7",
+
+				"file": [
+
+					"FiiO JD7 Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			}
+
+		]
+
+	},		
+
+	{
+
+		"name": "Gizaudio",
+
+		"phones": [
+
+			{
+
+				"name": "Chopin",
+
+				"file": [
+
+					"Gizaudio Chopin Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			}
+
+		]
+
+	},
+
+
+	{
+
+		"name": "GS Audio",
+
+		"phones": [
+
+			{
+
+				"name": "ST8B",
+
+				"file": [
+
+					"GS Audio ST8B Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+
+			{
+
+				"name": "GT12X",
+
+				"file": [
+
+					"GS Audio GT12X Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			}
+
+		]
+
+	},
+
+	{
+
+		"name": "Hidizs",
+
+		"phones": [
+
+			{
+
+				"name": "MS3",
+
+				"file": [
+
+					"Hidizs MS3 f.Gold Foam",
+
+					"Hidizs MS3 f.Red Foam",
+
+					"Hidizs MS3 f.Silver Foam"
+
+				],
+
+				"suffix": [
+
+					"f.Gold (Foam)",
+
+					"f.Red (Foam)",
+
+					"f.Silver (Foam)"
+
+				]
+
+			}
+
+		]
+
+	},
+
+	{
+
+		"name": "HiFri",
+
+		"phones": [
+
+			{
+
+				"name": "Aphex",
+
+				"file": [
+
+					"HiFri Aphex Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			}
+
+		]
+
+	},
+	{
+
+		"name": "HISENIOR",
+
+		"phones": [
+
+			{
+
+				"name": "MEGA5P ULTRA",
+
+				"file": [
+
+					"HISENIOR MEGA5P ULTRA Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+			{
+
+				"name": "T4 00 Foam",
+
+				"file": [
+
+					"HISENIOR T4 00 Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+			{
+
+				"name": "T4 02 Foam",
+
+				"file": [
+
+					"HISENIOR T4 02 Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+			{
+
+				"name": "T4 10 Foam",
+
+				"file": [
+
+					"HISENIOR T4 10 Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+			{
+
+				"name": "T4 12 Foam",
+
+				"file": [
+
+					"HISENIOR T4 12 Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			}			
+
+		]
+
+	},
+
+	{
+
+		"name": "Ikko",
+
+		"phones": [
+
+			{
+
+				"name": "OH10",
+
+				"file": [
+
+					"Ikko OH10 Foam",
+
+					"Ikko OH10 n.450 Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam",
+
+					"n.450 (Foam)"
+
+				]
+
+			}
+
+		]
+
+	},
+
+	{
+
+		"name": "IMR",
+
+		"phones": [
+
+			{
+
+				"name": "Elan+ n.Black",
+
+				"file": [
+
+					"IMR Elan+ n.Black f.Black Foam",
+
+					"IMR Elan+ n.Black f.Blue Foam",
+
+					"IMR Elan+ n.Black f.Gold Foam",
+
+					"IMR Elan+ n.Black f.Green Foam",
+
+					"IMR Elan+ n.Black f.Purple Foam",
+
+					"IMR Elan+ n.Black f.Red Foam"
+
+				],
+
+				"suffix": [
+
+					"f.Black Foam",
+
+					"f.Blue Foam",
+
+					"f.Gold Foam",
+
+					"f.Green Foam",
+
+					"f.Purple Foam",
+
+					"f.Red Foam"
+
+				]
+
+			},
+
+			{
+
+				"name": "Elan+ n.Blue",
+
+				"file": [
+
+					"IMR Elan+ n.Blue f.Black Foam",
+
+					"IMR Elan+ n.Blue f.Blue Foam",
+
+					"IMR Elan+ n.blue f.Gold Foam",
+
+					"IMR Elan+ n.blue f.Green Foam",
+
+					"IMR Elan+ n.Blue f.Purple Foam",
+
+					"IMR Elan+ n.Blue f.Red Foam"
+
+				],
+
+				"suffix": [
+
+					"f.Black Foam",
+
+					"f.Blue Foam",
+
+					"f.Gold Foam",
+
+					"f.Green Foam",
+
+					"f.Purple Foam",
+
+					"f.Red Foam"
+
+				]
+
+			},
+
+			{
+
+				"name": "Elan+ n.Gold",
+
+				"file": [
+
+					"IMR Elan+ n.Gold f.Black Foam",
+
+					"IMR Elan+ n.Gold f.Blue Foam",
+
+					"IMR Elan+ n.Gold f.Gold Foam",
+
+					"IMR Elan+ n.Gold f.Green Foam",
+
+					"IMR Elan+ n.Gold f.Purple Foam",
+
+					"IMR Elan+ n.Gold f.Red Foam"
+
+				],
+
+				"suffix": [
+
+					"f.Black Foam",
+
+					"f.Blue Foam",
+
+					"f.Gold Foam",
+
+					"f.Green Foam",
+
+					"f.Purple Foam",
+
+					"f.Red Foam"
+
+				]
+
+			},
+
+			{
+
+				"name": "Elan+ n.Gray",
+
+				"file": [
+
+					"IMR Elan+ n.Gray f.Black Foam",
+
+					"IMR Elan+ n.Gray f.Blue Foam",
+
+					"IMR Elan+ n.Gray f.Gold Foam",
+
+					"IMR Elan+ n.Gray f.Green Foam",
+
+					"IMR Elan+ n.Gray f.Purple Foam",
+
+					"IMR Elan+ n.Gray f.Red Foam"
+
+				],
+
+				"suffix": [
+
+					"f.Black Foam",
+
+					"f.Blue Foam",
+
+					"f.Gold Foam",
+
+					"f.Green Foam",
+
+					"f.Purple Foam",
+
+					"f.Red Foam"
+
+				]
+
+			},
+
+			{
+
+				"name": "Elan+ n.Green",
+
+				"file": [
+
+					"IMR Elan+ n.Green f.Black Foam",
+
+					"IMR Elan+ n.Green f.Blue Foam",
+
+					"IMR Elan+ n.Green f.Gold Foam",
+
+					"IMR Elan+ n.Green f.Green Foam",
+
+					"IMR Elan+ n.Green f.Purple Foam",
+
+					"IMR Elan+ n.Green f.Red Foam"
+
+				],
+
+				"suffix": [
+
+					"f.Black Foam",
+
+					"f.Blue Foam",
+
+					"f.Gold Foam",
+
+					"f.Green Foam",
+
+					"f.Purple Foam",
+
+					"f.Red Foam"
+
+				]
+
+			},
+
+			{
+
+				"name": "Elan+ n.Purple",
+
+				"file": [
+
+					"IMR Elan+ n.Purple f.Black Foam",
+
+					"IMR Elan+ n.Purple f.Blue Foam",
+
+					"IMR Elan+ n.Purple f.Gold Foam",
+
+					"IMR Elan+ n.Purple f.Green Foam",
+
+					"IMR Elan+ n.Purple f.Purple Foam",
+
+					"IMR Elan+ n.Purple f.Red Foam"
+
+				],
+
+				"suffix": [
+
+					"f.Black Foam",
+
+					"f.Blue Foam",
+
+					"f.Gold Foam",
+
+					"f.Green Foam",
+
+					"f.Purple Foam",
+
+					"f.Red Foam"
+
+				]
+
+			},
+
+			{
+
+				"name": "Elan+ n.Red",
+
+				"file": [
+
+					"IMR Elan+ n.Red f.Black Foam",
+
+					"IMR Elan+ n.Red f.Blue Foam",
+
+					"IMR Elan+ n.Red f.Gold Foam",
+
+					"IMR Elan+ n.Red f.Green Foam",
+
+					"IMR Elan+ n.Red f.Purple Foam",
+
+					"IMR Elan+ n.Red f.Red Foam"
+
+				],
+
+				"suffix": [
+
+					"f.Black Foam",
+
+					"f.Blue Foam",
+
+					"f.Gold Foam",
+
+					"f.Green Foam",
+
+					"f.Purple Foam",
+
+					"f.Red Foam"
+
+				]
+
+			},
+
+			{
+
+				"name": "Elan+ n.Silver",
+
+				"file": [
+
+					"IMR Elan+ n.Silver f.Black Foam",
+
+					"IMR Elan+ n.Silver f.Blue Foam",
+
+					"IMR Elan+ n.Silver f.Gold Foam",
+
+					"IMR Elan+ n.Silver f.Green Foam",
+
+					"IMR Elan+ n.Silver f.Purple Foam",
+
+					"IMR Elan+ n.Silver f. Red Foam"
+
+				],
+
+				"suffix": [
+
+					"f.Black Foam",
+
+					"f.Blue Foam",
+
+					"f.Gold Foam",
+
+					"f.Green Foam",
+
+					"f.Purple Foam",
+
+					"f.Red Foam"
+
+				]
+
+			},
+
+			{
+
+				"name": "Ozar n.Black",
+
+				"file": [
+
+					"IMR Ozar n.Black f.Black Foam",
+
+					"IMR Ozar n.Black f.Blue Foam",
+
+					"IMR Ozar n.Black f.Gold Foam",
+
+					"IMR Ozar n.Black f.Green Foam",
+
+					"IMR Ozar n.Black f.Purple Foam",
+
+					"IMR Ozar n.Black f.Red Foam"
+
+				],
+
+				"suffix": [
+
+					"f.Black Foam",
+
+					"f.Blue Foam",
+
+					"f.Gold Foam",
+
+					"f.Green Foam",
+
+					"f.Purple Foam",
+
+					"f.Red Foam"
+
+				]
+
+			},
+
+			{
+
+				"name": "Ozar n.Blue",
+
+				"file": [
+
+					"IMR Ozar n.Blue f.Black Foam",
+
+					"IMR Ozar n.Blue f.Blue Foam",
+
+					"IMR Ozar n.blue f.Gold Foam",
+
+					"IMR Ozar n.blue f.Green Foam",
+
+					"IMR Ozar n.Blue f.Purple Foam",
+
+					"IMR Ozar n.Blue Red Foam"
+
+				],
+
+				"suffix": [
+
+					"f.Black Foam",
+
+					"f.Blue Foam",
+
+					"f.Gold Foam",
+
+					"f.Green Foam",
+
+					"f.Purple Foam",
+
+					"f.Red Foam"
+
+				]
+
+			},
+
+			{
+
+				"name": "Ozar n.Gold",
+
+				"file": [
+
+					"IMR Ozar n.Gold f.Black Foam",
+
+					"IMR Ozar n.Gold f.Blue Foam",
+
+					"IMR Ozar n.Gold f.Gold Foam",
+
+					"IMR Ozar n.Gold f.Green Foam",
+
+					"IMR Ozar n.Gold f.Purple Foam",
+
+					"IMR Ozar n.Gold Red Foam"
+
+				],
+
+				"suffix": [
+
+					"f.Black Foam",
+
+					"f.Blue Foam",
+
+					"f.Gold Foam",
+
+					"f.Green Foam",
+
+					"f.Purple Foam",
+
+					"f.Red Foam"
+
+				]
+
+			},
+
+			{
+
+				"name": "Ozar n.Gray",
+
+				"file": [
+
+					"IMR Ozar n.Gray f.Black Foam",
+
+					"IMR Ozar n.Gray f.Blue Foam",
+
+					"IMR Ozar n.Gray f.Gold Foam",
+
+					"IMR Ozar n.Gray f.Green Foam",
+
+					"IMR Ozar n.Gray f.Purple Foam",
+
+					"IMR Ozar n.Gray Red Foam"
+
+				],
+
+				"suffix": [
+
+					"f.Black Foam",
+
+					"f.Blue Foam",
+
+					"f.Gold Foam",
+
+					"f.Green Foam",
+
+					"f.Purple Foam",
+
+					"f.Red Foam"
+
+				]
+
+			},
+
+			{
+
+				"name": "Ozar n.Green",
+
+				"file": [
+
+					"IMR Ozar n.Green f.Black Foam",
+
+					"IMR Ozar n.Green f.Blue Foam",
+
+					"IMR Ozar n.Green f.Gold Foam",
+
+					"IMR Ozar n.Green f.Green Foam",
+
+					"IMR Ozar n.Green f.Purple Foam",
+
+					"IMR Ozar n.Green Red Foam"
+
+				],
+
+				"suffix": [
+
+					"f.Black Foam",
+
+					"f.Blue Foam",
+
+					"f.Gold Foam",
+
+					"f.Green Foam",
+
+					"f.Purple Foam",
+
+					"f.Red Foam"
+
+				]
+
+			},
+
+			{
+
+				"name": "Ozar n.Purple",
+
+				"file": [
+
+					"IMR Ozar n.Purple f.Black Foam",
+
+					"IMR Ozar n.Purple f.Blue Foam",
+
+					"IMR Ozar n.Purple f.Gold Foam",
+
+					"IMR Ozar n.Purple f.Green Foam",
+
+					"IMR Ozar n.Purple f.Purple Foam",
+
+					"IMR Ozar n.Purple Red Foam"
+
+				],
+
+				"suffix": [
+
+					"f.Black Foam",
+
+					"f.Blue Foam",
+
+					"f.Gold Foam",
+
+					"f.Green Foam",
+
+					"f.Purple Foam",
+
+					"f.Red Foam"
+
+				]
+
+			},
+
+			{
+
+				"name": "Ozar n.Red",
+
+				"file": [
+
+					"IMR Ozar n.Red f.Black Foam",
+
+					"IMR Ozar n.Red f.Blue Foam",
+
+					"IMR Ozar n.Red f.Gold Foam",
+
+					"IMR Ozar n.Red f.Green Foam",
+
+					"IMR Ozar n.Red f.Purple Foam",
+
+					"IMR Ozar n.Red Red Foam"
+
+				],
+
+				"suffix": [
+
+					"f.Black Foam",
+
+					"f.Blue Foam",
+
+					"f.Gold Foam",
+
+					"f.Green Foam",
+
+					"f.Purple Foam",
+
+					"f.Red Foam"
+
+				]
+
+			},
+
+			{
+
+				"name": "Ozar n.Silver",
+
+				"file": [
+
+					"IMR Ozar n.Silver f.Black Foam",
+
+					"IMR Ozar n.Silver f.Blue Foam",
+
+					"IMR Ozar n.Silver f.Gold Foam",
+
+					"IMR Ozar n.Silver f.Green Foam",
+
+					"IMR Ozar n.Silver f.Purple Foam",
+
+					"IMR Ozar n.Silver Red Foam"
+
+				],
+
+				"suffix": [
+
+					"f.Black Foam",
+
+					"f.Blue Foam",
+
+					"f.Gold Foam",
+
+					"f.Green Foam",
+
+					"f.Purple Foam",
+
+					"f.Red Foam"
+
+				]
+
+			}
+
+		]
+
+	},
+
+	{
+
+		"name": "ISN",
+
+		"phones": [
+
+			{
+
+				"name": "EST50",
+
+				"file": [
+
+					"ISN EST50 Foam",
+
+					"ISN EST50 SF W1"
+
+				],
+
+				"suffix": [
+
+					"Foam",
+
+					"SF W1"
+
+				]
+
+			}
+
+		]
+
+	},
+
+	{
+
+		"name": "Juzear",
+
+		"phones": [
+
+			{
+
+				"name": "Clear",
+
+				"file": [
+
+					"Juzear Clear Foam"
+
+				],
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			}
+
+		]
+
+	},
+
+	{
+
+		"name": "KBear",
+
+		"phones": [
+
+			{
+
+				"name": "Aurora",
+
+				"file": [
+
+					"KBear Aurora - stock - Foam",
+
+					"KBear Aurora - v.Top Taped - Foam",
+
+					"KBear Aurora - v.Top Taped n.Olina - Foam"
+
+				],
+
+				"suffix": [
+
+					"- stock - (Foam)",
+
+					"- v.Top Taped - (Foam)",
+
+					"- v.Top Taped n.Olina - (Foam)"
+
+				]
+
+			},
+
+			{
+
+				"name": "Ormosia",
+
+				"file": [
+
+					"KBear Ormosia Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+
+			{
+
+				"name": "Pecker",
+
+				"file": [
+
+					"KBear Pecker Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+
+			{
+
+				"name": "Rosefinch",
+
+				"file": [
+
+					"KBear Rosefinch Silicon",
+
+					"KBear Rosefinch v.Micro Tape Silicon",
+
+					"KBear Rosefinch v.Micro Tape n.250 Silicon",
+
+					"KBear Rosefinch v.450 n.350 Silicon"
+
+				],
+
+				"suffix": [
+
+					"Stock - (Silicon)",
+
+					"v.MicroTape - (Silicon)",
+
+					"v.MicroTape n.250 Mesh - (Silicon)",
+
+					"v.450 Mesh/MicroTape n.350 Mesh - (Silicon)"
+
+				]
+
+			},
+
+			{
+
+				"name": "Storm",
+
+				"file": [
+
+					"KBear Storm Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			}
+
+		]
+
+	},
+
+	{
+
+		"name": "Kefine",
+
+		"phones": [
+
+			{
+
+				"name": "Klanar",
+
+				"file": [
+
+					"Kefine Klanar Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+			{
+
+				"name": "Delci",
+
+				"file": [
+
+					"Kefine Delci Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			}
+
+		]
+
+	},
+
+	{
+
+		"name": "Kinera",
+
+		"phones": [
+
+			{
+
+				"name": "Celest Gumiho",
+
+				"file": [
+
+					"Kinera Celest Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			}
+
+		]
+
+	},
+
+	{
+
+		"name": "Kinera",
+
+		"phones": [
+
+			{
+
+				"name": "Celest Dark Phoenix",
+
+				"file": [
+
+					"Kinera Celest Dark Phoenix Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+
+			{
+
+				"name": "Celest Pandamon 2.0",
+
+				"file": [
+
+					"Kinera Celest Pandamon 2.0 Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+
+
+			{
+
+				"name": "Celest Phoenixcall",
+
+				"file": [
+
+					"Kinera Celest Phoenixcall Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+
+			{
+
+				"name": "Celest Plutus Beast",
+
+				"file": [
+
+					"Kinera Celest Plutus Beast Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+
+			{
+
+				"name": "Imperial Loki",
+
+				"file": [
+
+					"Kinera Imperial Loki Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+			{
+
+				"name": "SKULD",
+
+				"file": [
+
+					"KINERA SKULD Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+
+	
+			{
+
+				"name": "Verdandi",
+
+				"file": [
+
+					"Kinera Verdandi Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			}
+
+		]
+
+	},
+
+	{
+
+		"name": "Kiwi Ears",
+
+		"phones": [
+
+			{
+
+				"name": "Cadenza",
+
+				"file": [
+
+					"Kiwi Ears Cadenza Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+
+			{
+
+				"name": "Dolce",
+
+				"file": [
+
+					"Kiwi Ears Dolce Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+			{
+
+				"name": "Melody",
+
+				"file": [
+
+					"Kiwi Ears Melody Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+
+
+			{
+
+				"name": "Prison Mike Mod",
+
+				"file": [
+
+					"Kiwi Ears Prison Mike Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam (Modded Cadenza)"
+
+				]
+
+			},
+
+			{
+
+				"name": "Quartet",
+
+				"file": [
+
+					"Kiwi Ears Quartet s.00 Foam",
+
+					"Kiwi Ears Quartet s.01 Foam",
+
+					"Kiwi Ears Quartet s.10 Foam",
+
+					"Kiwi Ears Quartet s.11 Foam"
+
+				],
+
+				"suffix": [
+
+					"s.00 (Foam)",
+
+					"s.01 (Foam)",
+
+					"s.10 (Foam)",
+
+					"s.11 (Foam)"
+
+				]
+
+			},
+			
+			{
+
+				"name": "x Crinacle Singolo",
+
+				"file": [
+
+					"Kiwi Ears x Crinacle Singolo Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},	
+			
+			{
+
+				"name": "x Crinacle Singolo 2nd Unit",
+
+				"file": [
+
+					"Kiwi Ears x Crinacle Singolo 2nd Unit Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			}	
+
+		]
+
+	},
+
+	{
+
+		"name": "KZ",
+
+		"phones": [
+
+			{
+
+				"name": "CASTOR ALL ON",
+
+				"file": [
+
+					"KZ CASTOR ALL ON Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+			{
+
+				"name": "CASTOR ALL ON TANYA FILTER",
+
+				"file": [
+
+					"KZ CASTOR ALL ON TANYA FILTER Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},	
+			{
+
+				"name": "KZ CASTOR ALL ON 500 MESH",
+
+				"file": [
+
+					"KZ CASTOR ALL ON 500 MESH Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+
+			{
+
+				"name": "CASTOR BASS ALL OFF",
+
+				"file": [
+
+					"KZ CASTOR BASS ALL OFF Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+			
+			{
+
+				"name": "CASTOR BASS ALL ON",
+
+				"file": [
+
+					"KZ CASTOR BASS ALL ON Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+			
+			{
+
+				"name": "CASTOR BASS 0011",
+
+				"file": [
+
+					"KZ CASTOR BASS 0011 Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+			{
+
+				"name": "CASTOR BASS 1100",
+
+				"file": [
+
+					"KZ CASTOR BASS 1100 Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+
+
+			{
+
+				"name": "EDXS",
+
+				"file": [
+
+					"KZ EDXS Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+
+			{
+
+				"name": "PR2",
+
+				"collab": "HBB",
+
+				"file": [
+
+					"KZ HBB PR2 Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			}
+
+		]
+
+	},
+
+	{
+
+		"name": "Letshuoer",
+
+		"phones": [
+			{
+
+				"name": "Cadenza 4",
+
+				"file": [
+
+					"Letshouer Cadenza 4 Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+
+
+			{
+
+				"name": "EJ07M Resin",
+
+				"file": [
+
+					"Letshuoer EJ07M Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+
+			
+			{
+
+				"name": "EJ07M Kinda Lava Resin",
+
+				"file": [
+
+					"Letshuoer EJ07M Kinda Lava Resin Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+			{
+
+				"name": "EJ07M Kinda Lava Yellow Custom",
+
+				"file": [
+
+					"LETSHOUER EJ07M KL GUY Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+
+
+			{
+
+				"name": "EJ07 OG",
+
+				"file": [
+
+					"Letshuoer EJ07 OG Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+
+			{
+			
+				"name": "S12",
+
+				"file": [
+
+					"Letshuoer S12 Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+
+			{
+
+				"name": "S12 Pro",
+
+				"file": [
+
+					"Letshuoer S12 Pro Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+	
+			{
+
+				"name": "S15",
+
+				"file": [
+
+					"Letshuoer S15 Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+    				]
+
+			}
+
+		]
+
+	},
+			 
+	{
+
+		"name": "Light Harmonic",
+
+		"phones": [
+
+			{
+
+				"name": "Mera",
+
+				"file": [
+
+					"Light Harmonic Mera Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			}
+
+		]
+
+	},
+
+	{
+
+		"name": "Meaoes",
+
+		"phones": [
+
+			{
+
+				"name": "Eagle",
+
+				"file": [
+
+					"Meaoes Eagle Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			}
+
+		]
+
+	},
+
+	{
+
+		"name": "MiM Audio",
+
+		"phones": [
+
+			{
+
+				"name": "Dark Magician (OG)",
+
+				"file": [
+
+					"MiM Audio OG Dark Magician Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			}
+
+		]
+
+	},
+
+	{
+
+		"name": "Moondrop",
+
+		"phones": [
+			{
+		
+				"name": "Aria 2",
+
+				"file": [
+
+					"Moondrop Aria 2 Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+
+			{
+		
+				"name": "Aria SE",
+
+				"file": [
+
+					"Moondrop Aria SE Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+
+			{
+
+				"name": "Blessing 3",
+
+				"file": [
+
+					"Moondrop Blessing 3 Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+
+			{
+
+				"name": "Blessing 3 300 MESH",
+
+				"file": [
+
+					"Moondrop Blessing 3 300 MESH Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+
+			{
+
+				"name": "Chu OG",
+
+				"file": [
+
+					"Moondrop Chu OG Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+
+			{
+
+				"name": "CHU II",
+
+				"file": [
+
+					"Moondrop CHU II Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+
+			{
+
+				"name": "CHU II DSP",
+
+				"file": [
+
+					"Moondrop Chu 2 DSP Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+
+
+			{
+
+				"name": "LAN",
+
+				"file": [
+
+					"Moondrop LAN Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+
+			{
+
+				"name": "MAY 3.5MM",
+
+				"file": [
+
+					"Moondrop MAY 3.5MM Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},			
+
+			{
+
+				"name": "Starfield II",
+
+				"file": [
+
+					"Moondrop Starfield II Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+			{
+
+				"name": "x Crinacle DUSK 3.5MM",
+
+				"file": [
+
+					"Moondrop x Crinacle DUSK 3.5MM Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			}
+	
+		]
+
+	},
+
+	{
+
+		"name": "ND",
+
+		"phones": [
+
+			{
+
+				"name": "001 Nano",
+
+				"file": [
+
+					"ND 001 Nano Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			}
+
+		]
+
+	},
+
+	{
+
+		"name": "Night Oblivion",
+
+		"phones": [	
+
+			{
+
+				"name": "Butastur",
+
+				"file": [
+
+					"Night Oblivion Butastur s.DD Foam",
+
+					"Night Oblivion Butastur s.DU Foam",
+
+					"Night Oblivion Butastur s.UD Foam",
+
+					"Night Oblivion Butastur s.UU Foam"
+
+				],
+
+				"suffix": [
+
+					"s.DD (Foam)",
+
+					"s.DU (Foam)",
+
+					"s.UD (Foam)",
+
+					"s.UU (Foam)"
+
+				]
+
+			}
+
+		]
+	
+	},
+
+	{
+
+		"name": "NICEHCK",
+
+		"phones": [
+
+			{
+
+				"name": "F1 PRO",
+
+				"file": [
+
+					"NICEHCK F1 PRO Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			}
+
+		]
+
+	},
+
+	{
+
+		"name": "NF Audio",
+
+		"phones": [
+
+			{
+
+				"name": "NM2",
+
+				"file": [
+
+					"NF Audio NM2 Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			}
+
+		]
+
+	},
+
+	{
+
+		"name": "NS Audio",
+
+		"phones": [
+
+			{
+
+				"name": "NS-2 Composer",
+
+				"file": [
+
+					"NS Audio NS-2 Composer Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			}
+
+		]
+
+	},
+	{
+
+		"name": "Oriolus",
+
+		"phones": [
+
+			{
+
+				"name": "Isabellae",
+
+				"file": [
+
+					"Oriolus Isabellae Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			}
+
+		]
+
+	},
+
+	{
+
+		"name": "Oriveti",
+
+		"phones": [
+
+			{
+
+				"name": "OD100",
+
+				"file": [
+
+					"Oriveti OD100 Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+			
+			{
+
+				"name": "OD200 BLACK",
+
+				"file": [
+
+					"Oriveti OD200 Black Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+			
+			{
+
+				"name": "OD200 SILVER",
+
+				"file": [
+
+					"Oriveti OD200 Silver Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+
+			{
+
+				"name": "OH700VB Back Position",
+
+				"file": [
+
+					"Oriveti OH700VB Back Position Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+		
+			
+			},
+			
+			{
+
+				"name": "OH700VB Forward Position",
+
+				"file": [
+
+					"Oriveti OH700VB Forward Position Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+		
+			
+			}	
+		
+
+		]
+
+	},
+
+
+	{
+
+		"name": "Penon",
+
+		"phones": [
+
+			{
+
+				"name": "10th Anniversary",
+
+				"file": [
+
+					"Penon 10th Anniversary Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+			
+			{
+
+				"name": "DOME",
+
+				"file": [
+
+					"PENON DOME FOAM"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+			
+			},
+
+			{
+
+				"name": "Fan 2",
+
+				"file": [
+
+					"Penon Fan 2 - S1 - Foam",
+
+					"Penon Fan 2 - S2 - Foam"
+
+				],
+
+				"suffix": [
+
+					"- S1 - (Foam)",
+
+					"- S2 - (Foam)"
+
+				]
+
+			},
+
+			{
+
+				"name": "Serial",
+
+				"file": [
+
+					"Penon Serial - n.No Filter - Foam"
+
+				],
+
+				"suffix": [
+
+					"- n.No Filter - (Foam)"
+
+				]
+			}
+
+		]
+
+	},
+	
+	{
+
+		"name": "Plunge",
+
+		"phones": [
+
+			{
+
+				"name": "UNITY",
+
+				"file": [
+
+					"Plunge UNITY Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+			}
+
+		]
+
+	},
+
+	{
+
+		"name": "PULA",
+
+		"phones": [
+
+			{
+
+				"name": "PA02",
+
+				"file": [
+
+					"PULA PA02 Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+			}
+
+		]
+
+	},
+	
+	{
+
+		"name": "QKZ",
+
+		"phones": [
+			{
+
+				"name": "HADES",
+
+				"collab": "HBB",
+
+				"file": [
+
+					"QKZ HBB HADES Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+
+			{
+
+				"name": "",
+
+				"collab": "HBB",
+
+				"file": [
+
+					"QKZ X HBB Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+
+			{
+
+				"name": "Khan",
+
+				"collab": "HBB",
+
+				"file": [
+
+					"QKZ X HBB Khan SF CP155"
+
+				],
+
+				"suffix": [
+
+					" SF CP155"
+
+				]
+
+			}
+
+		]
+
+	},
+
+	{
+
+		"name": "Raptgo",
+
+		"phones": [
+
+			{
+
+				"name": "Bridge f.Black",
+
+				"file": [
+
+					"Raptgo Bridge s.00 f.B Stock White",
+
+					"Raptgo Bridge s.01 f.B Stock White",
+
+					"Raptgo Bridge s.10 f.B Stock White",
+
+					"Raptgo Bridge s.11 f.B Stock White"
+
+				],
+
+				"suffix": [
+
+					"s.00 (White Silicon)",
+
+					"s.01 (White Silicon)",
+
+					"s.10 (White Silicon)",
+
+					"s.11 (White Silicon)"
+
+				]
+
+			},
+
+			{
+
+				"name": "Bridge f.Gold",
+
+				"file": [
+
+					"Raptgo Bridge s.00 f.G Stock White",
+
+					"Raptgo Bridge s.01 f.G Stock White",
+
+					"Raptgo Bridge s.10 f.G Stock White",
+
+					"Raptgo Bridge s.11 f.G Stock White"
+
+				],
+
+				"suffix": [
+
+					"s.00 (White Silicon)",
+
+					"s.01 (White Silicon)",
+
+					"s.10 (White Silicon)",
+
+					"s.11 (White Silicon)"
+
+				]
+
+			},
+
+			{
+
+				"name": "Bridge f.Silver",
+
+				"file": [
+
+					"Raptgo Bridge s.00 f.S Stock White",
+
+					"Raptgo Bridge s.01 f.S Stock White",
+
+					"Raptgo Bridge s.10 f.S Stock White",
+
+					"Raptgo Bridge s.11 f.S Stock White"
+
+				],
+
+				"suffix": [
+
+					"s.00 (White Silicon)",
+
+					"s.01 (White Silicon)",
+
+					"s.10 (White Silicon)",
+
+					"s.11 (White Silicon)"
+
+				]
+
+			},
+
+			{
+
+				"file": [
+
+					"Raptgo HBB Hook X Foam"
+
+				],
+
+				"name": "Hook-X",
+
+				"collab": "HBB",
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			}
+
+			
+
+		]
+
+	},
+
+	{
+
+		"name": "Rose Technics",
+
+		"phones": [
+
+			{
+
+				"name": "Quiet Sea",
+
+				"file": [
+
+					"Rose Technics Quiet Sea Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			}
+
+		]
+
+	},
+		
+
+	{
+
+		"name": "Sennheiser",
+
+		"phones": [
+
+			{
+
+				"file": [
+
+					"Sennheiser IE600 - o-ring - Foam",
+
+					"Sennheiser IE600 - no o-ring - Foam"
+
+				],
+
+				"name": "IE600",
+
+				"suffix": [
+
+					"- o-ring - (Foam)",
+
+					"- no o-ring - (Foam)"
+
+				]
+
+			}
+
+		]
+
+	},
+
+	{
+
+		"name": "SeeAudio",
+
+		"phones": [
+
+			{
+
+				"file": [
+
+					"SeeAudio Yume Foam"
+
+				],
+
+				"name": "Yume",
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			}
+
+		]
+
+	},
+
+	{
+
+		"name": "SGOR",
+
+		"phones": [
+
+			{
+
+				"file": [
+
+					"SGOR Venus Foam"
+
+				],
+
+				"name": "Venus",
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			}
+
+		]
+
+	},
+
+	{
+
+		"name": "Shortbus",
+
+		"phones": [
+			
+			{
+
+				"name": "Charmeleon GOLD Modded",
+
+				"file": [
+
+					"Shortbus Chameleon Gold Modded Foam"
+
+				],
+
+				"suffix": [
+
+					"Modded S12 (Foam)"
+
+				]
+
+			},
+			{
+
+				"name": "Charmeleon GOLD NO TAPE",
+
+				"file": [
+
+					"Shortbus Chameleon Gold NO TAPE Foam"
+
+				],
+
+				"suffix": [
+
+					"Modded S12 (Foam)"
+
+				]
+
+			},
+
+			{
+
+				"name": "Charmeleon SILVER Modded",
+
+				"file": [
+
+					"Shortbus Chameleon SILVER Modded Foam"
+
+				],
+
+				"suffix": [
+
+					"Modded S12 (Foam)"
+
+				]
+
+			},
+			{
+
+				"name": "Charmeleon SILVER NO TAPE",
+
+				"file": [
+
+					"Shortbus Chameleon Silver NO TAPE Foam"
+
+				],
+
+				"suffix": [
+
+					"Modded S12 (Foam)"
+
+				]
+
+			},
+
+
+			{
+
+				"name": "Eru",
+
+				"file": [
+
+					"Shortbus Eru Foam"
+
+				],
+
+				"suffix": [
+
+					"Modded S12 (Foam)"
+
+				]
+
+			},
+
+			{
+
+				"name": "Fat Earth",
+
+				"file": [
+
+					"Shortbus Fat Earth Foam"
+
+				],
+
+				"suffix": [
+
+					"Modded S12 (Foam)"
+
+				]
+
+			},
+
+						{
+
+				"name": "Fat Glam",
+
+				"file": [
+
+					"Shortbus Fat Glam Foam"
+
+				],
+
+				"suffix": [
+
+					"Modded S12 (Foam)"
+
+				]
+
+			},
+
+						{
+
+				"name": "Fat Goober",
+
+				"file": [
+
+					"Shortbus Fat Goober Foam"
+
+				],
+
+				"suffix": [
+
+					"Modded S12 (Foam)"
+
+				]
+
+			},
+
+
+			{
+
+				"name": "Glamdring",
+
+				"file": [
+
+					"Shortbus Glamdring S1 Foam",
+
+					"Shortbus Glamdring S2 Foam"
+
+				],
+
+				"suffix": [
+
+					"Modded S12 Pro S1 (Foam)",
+
+					"Modded S12 Pro S2 (Foam)"
+
+				]
+
+			}
+
+		]
+
+	},
+
+	{
+
+		"name": "SHOZY",
+
+		"phones": [
+
+			{
+
+				"file": [
+
+					"SHOZY P20 Foam"
+
+				],
+
+				"name": "P20",
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			}
+
+		]
+
+	},
+
+	{
+
+		"name": "Simgot",
+
+		"phones": [
+
+			{
+
+				"name": "EA500",
+
+				"file": [
+
+					"Simgot EA500 - n.Red Stock - Foam",
+
+					"Simgot EA500 - n.Red Dual L-HDF - Foam",
+
+					"Simgot EA500 - n.Black m.Olina - Foam"
+
+				],
+
+				"suffix": [
+
+					"- n.Red Stock - (Foam)",
+
+					"- n.Red Dual L-HDF - (Foam)",
+
+					"- n.Black m.Olina - (Foam)"
+
+				]
+
+			},
+			
+			{
+
+				"name": "EA500LM",
+
+				"file": [
+
+					"Simgot EA500LM - RED - Foam",
+
+					"Simgot EA500LM - BLACK - Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam",
+
+					"- BLACK - (Foam)",
+
+					"- RED - (Foam)"
+
+				]
+			
+			},		
+			
+			{
+
+				"name": "EA500LM Brass Nozzle RED",
+
+				"file": [
+
+					"Simgot EA500LM Brass RED Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+			
+			},
+
+			{
+
+				"name": "EA500LM Brass Nozzle + Tanya Filter",
+
+				"file": [
+
+					"Simgot EA500LM Brass Nozzle + Tanya Filter Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+			
+			},
+
+			{
+
+				"name": "EA500LM Brass Nozzle + 2 Tanya Filters",
+
+				"file": [
+
+					"Simgot EA500LM Brass Nozzle (x2 Tanya Filters) Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+			
+			},
+
+			{
+
+				"name": "EA500LM MOD (300 Mesh + Sponge + Silver RED Nozzles)",
+
+				"file": [
+
+					"Simgot EA500LM MOD (RED 300 MESH Black Sponge) Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+			
+			},
+
+			{
+
+				"name": "EA500LM BRASS NOZZLE (H570 TIPS + Tanya Filter + GREY SPONGE)",
+
+				"file": [
+
+					"Simgot EA500LM (300 Mesh + Grey Sponge + H570 TIPS) Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+			
+			},
+
+			{
+
+				"name": "EA500LM 2nd Unit",
+
+				"file": [
+
+					"Simgot EA500LM 2nd Unit Brass Red Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+			
+			},
+
+
+			{
+
+				"name": "EA1000 BLACK",
+
+				"file": [
+
+					"Simgot EA1000 - BLACK - Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+
+			},
+			
+			{
+
+				"name": "EA1000 RED",
+
+				"file": [
+
+					"Simgot EA1000 - RED - Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+
+			},
+				
+			{
+
+				"name": "EA1000 RED MOD",
+
+				"file": [
+
+					"Simgot EA1000 RED MOD (H570 Tips, 300 Mesh, Sponge) Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+
+			},
+			{
+
+				"name": "EA1000 ZEUS MOD (Black, 500 Mesh, H570 Tips, 2 Sponges)",
+
+				"file": [
+
+					"Simgot EA1000 Zeus MOD (500 Mesh, H570 Tips, 2 Sponge) Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+
+			},
+
+			{
+
+				"name": "EA2000",
+
+				"file": [
+
+					"Simgot EA2000 Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+
+			},
+			{
+
+				"name": "EA2000 500 Mesh + Tanya Filter",
+
+				"file": [
+
+					"Simgot EA2000 500 Mesh+Tanya Filter Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+
+			},
+			
+			{
+
+				"name": "EM6L",
+
+				"file": [
+
+					"Simgot EM6L Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+			},
+
+			{
+
+				"name": "EN1000",
+
+				"file": [
+
+					"Simgot EN1000 - stock - Foam",
+
+					"Simgot EN1000 - n.Olina - Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam",
+
+					"n. Olina (Foam)"
+
+				]
+
+			},
+
+			{
+
+				"name": "EW100P",
+
+				"file": [
+
+					"Simgot EW100P Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+
+			{
+
+				"name": "EW200",
+
+				"file": [
+
+					"Simgot EW200 Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+	
+			{
+
+				"name": "EW200 Unit 2",
+
+				"file": [
+
+					"SIMGOT EW200 Unit 2 Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+			
+			{
+
+				"name": "EW200 Unit 2 TANYA FILTER",
+
+				"file": [
+
+					"SIMGOT EW200 Unit 2 TANYA FILTER Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+			
+			{
+
+				"name": "SUPERMIX 4",
+
+				"file": [
+
+					"Simgot SUPERMIX4 Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+			}
+
+		]
+
+	},
+
+	{
+
+		"name": "SLIIVO",
+
+		"phones": [
+		
+			{
+
+				"name": "CKLVX",
+
+				"file": [
+
+					"SLIIVO CKLVX Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},	
+			{
+
+				"name": "SL41",
+
+				"file": [
+
+					"SLIIVO 1+4 Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			}
+	
+		]
+
+	},
+
+
+	{
+
+		"name": "Softears",
+
+		"phones": [
+		
+			{
+
+				"name": "RSV",
+
+				"file": [
+
+					"Softears RSV Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+
+			{
+
+				"name": "Twilight",
+
+				"file": [
+
+					"Softears Twilight Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			}
+
+		]
+
+	},
+
+	{
+
+		"name": "Sony",
+
+		"phones": [
+
+			{
+
+				"name": "MDR-EX800ST",
+
+				"file": [
+
+					"Sony MDR-EX800ST Stock Foam",
+
+					"Sony MDR-EX800ST TV Foam"
+
+				],
+
+				"suffix": [
+
+					"v.Stock (Foam)",
+
+					"v.Taped (Foam)"
+
+				]
+
+			},
+
+			{
+
+				"name": "MH755",
+
+				"file": [
+
+					"Sony MH755 Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},			
+
+			{
+
+				"name": "XBA-N3",
+
+				"file": [
+
+					"Sony XBA-N3 Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			}
+
+		]
+
+	},
+
+	{
+
+		"name": "Sound Rhyme",
+
+		"phones": [
+
+			{
+
+				"name": "DTE500",
+
+				"file": [
+
+					"Sound Rhyme DTE500 FA Type E",
+
+					"Sound Rhyme DTE500 Foam",
+
+					"Sound Rhyme DTE500 SF W1"
+
+				],
+
+				"suffix": [
+
+					"FA Type E",
+
+					"Foam",
+
+					"SF W1"
+
+				]
+
+			},
+
+			{
+
+				"name": "SR5",
+
+				"file": [
+
+					"Sound Rhyme SR5 Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			}
+
+		]
+
+	},
+	{
+
+		"name": "SUBTONIC",
+
+		"phones": [
+
+			{
+
+				"name": "STORM",
+
+				"file": [
+
+					"SUBTONIC STORM Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			}
+		]
+
+	},
+
+	{
+
+		"name": "Symphonium",
+
+		"phones": [
+
+			{
+
+				"name": "Helios SE",
+
+				"collab": "Elise Audio",
+
+				"file": [
+
+					"Symphonium Audio Helios SE Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+			{
+
+				"name": "Meteor QC",
+
+				"file": [
+
+					"Symphonium METEOR QC Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+
+
+			{
+
+				"name": "Meteor",
+
+				"file": [
+
+					"Symphonium Audio Meteor Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+			{
+
+				"name": "Titan",
+
+				"file": [
+
+					"Symphonium Titan Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			}
+
+		]
+
+	},
+
+	{
+
+		"name": "TANGZU",
+
+		"phones": [
+
+			{
+
+				"name": "FUDU",
+
+				"file": [
+
+					"TANGZU FUDU Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+
+			
+			{
+
+				"name": "x HBB NV",
+
+				"file": [
+
+					"HBB NV Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+			
+
+			{
+
+				"name": "Wan’er",
+
+				"file": [
+
+					"TANGZU Wan’er Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+
+			{
+
+				"name": "Wu Zetian",
+
+				"file": [
+
+					"Tangzu Wu Zetian Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			}
+
+		]
+
+	},
+
+	{
+
+		"name": "Tanchjim",
+
+		"phones": [
+
+			{
+
+				"name": "One",
+
+				"file": [
+
+					"Tanchjim One Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+			
+			{
+
+				"name": "Origin",
+
+				"file": [
+
+					"Tanchjim Origin Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+
+			{
+
+				"name": "Origin 400 Mesh",
+
+				"file": [
+
+					"Tanchjim Origin 400 Mesh Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+
+			{
+
+				"name": "Origin Tanya Filter",
+
+				"file": [
+
+					"Tanchjim Origin Tanya Filter Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+
+			{
+
+				"name": "Origin MOD (Tanya Filter, Sponge, H570 Tips) Foam",
+
+				"file": [
+
+					"Tanchjim Origin MOD (Tanya Filter + SPONGE + H570 TIPS) Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			}
+
+		]
+
+	},
+
+	{
+
+		"name": "ThieAudio",
+
+		"phones": [
+
+			{
+
+				"name": "Hype 2",
+
+				"file": [
+
+					"ThieAudio Hype 2 Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},	
+			
+			{
+
+				"name": "Hype 4",
+
+				"file": [
+
+					"Thieaudio Hype 4 Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+			
+			{
+
+				"name": "Hype 10",
+
+				"file": [
+
+					"Thieaudio Hype 10 Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+
+			{
+
+				"name": "Legacy 3",
+
+				"file": [
+
+					"ThieAudio Legacy 3 00 Foam",
+
+					"ThieAudio Legacy 3 01 Foam",
+
+					"ThieAudio Legacy 3 10 Foam",
+
+					"ThieAudio Legacy 3 11 Foam"
+
+				],
+
+				"suffix": [
+
+					"s.00 - (Foam)",
+
+					"s.01 - (Foam)",
+
+					"s.10 - (Foam)",
+
+					"s.11 - (Foam)"
+
+				]
+
+			},
+
+			{
+
+				"name": "Monarch MKII",
+
+				"file": [
+
+					"ThieAudio Monarch MK2 Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},	
+
+			{
+
+				"name": "Monarch MKIII",
+
+				"file": [
+
+					"ThieAudio Monarch MK3 Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+			
+			{
+
+				"name": "Oracle MK2",
+
+				"file": [
+
+					"ThieAudio Oracle MK2 Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+
+			{
+
+				"name": "Oracle MK2 500 MESH",
+
+				"file": [
+
+					"ThieAudio Oracle MK2 500 MESH Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},				
+
+			{
+
+				"name": "Prestige LTD",
+
+				"file": [
+
+					"ThieAudio Prestige LTD Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			}
+
+		]
+
+	},
+
+	{
+
+		"name": "TinHiFi",
+
+		"phones": [
+
+			{
+
+				"name": "C0",
+
+				"file": [
+
+					"TinHiFi C0 Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+
+			{
+
+				"name": "C2",
+
+				"file": [
+
+					"TinHiFi C2 Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+			
+			{
+
+				"name": "Flatland",
+
+				"file": [
+
+					"TinHiFi P1 Max v.Tape n.Rosefinch" 
+
+				],
+
+				"suffix": [
+
+					"Foam (Modded P1 Max)"
+
+				]
+
+			},
+
+			{
+
+				"name": "P1",
+
+				"file": [
+
+					"TinHiFi P1 - Deep Fit - Foam",
+
+					"TinHiFi P1 - Shallow Fit - Foam"
+
+				],
+
+				"suffix": [
+
+					"Deep Fit (Foam)",
+
+					"Shallow Fit (Foam)"
+
+				]
+
+			},
+
+			{
+
+				"name": "P1 Max",
+
+				"file": [
+
+					"TinHiFi P1 Max S1 Foam",
+
+					"TinHiFi P1 Max S2 Foam"
+
+				],
+
+				"suffix": [
+
+					"S1 (Foam)",
+
+					"S2 (Foam)"
+
+				]
+
+			},
+
+			{
+
+				"name": "P1 Max (re-tune)",
+
+				"file": [
+
+					"Tinhifi P1 Max (re-tune) Foam"
+
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+			{
+
+				"name": "P1 Max (300 Mesh re-tune)",
+
+				"file": [
+
+					"Tinhifi P1 Max (300 Mesh re-tune) Foam"
+
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+
+			
+			{
+
+				"name": "P1 Max (500 Mesh re-tune)",
+
+				"file": [
+
+					"Tinhifi P1 Max (500 Mesh re-tune) Foam"
+
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+
+
+			{
+
+				"name": "P1 Max 2",
+
+				"file": [
+
+					"Tinhifi P1 Max 2 Foam"
+
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+			
+			{
+
+				"name": "P1 Max 2 (300 Mesh Filter)",
+
+				"file": [
+
+					"Tinhifi P1 Max 300 Mesh Foam"
+
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+			{
+
+				"name": "P1 Max 2 (500 Mesh Filter)",
+
+				"file": [
+
+					"Tinhifi P1 Max 2 500 Mesh Foam"
+
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+
+			{
+
+				"name": "T2 MK2",
+
+				"file": [
+
+					"TinHifi T2 MK2 Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+
+			{
+
+				"name": "T5S",
+
+				"file": [
+
+					"TinHifi T5S Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+
+			{
+
+				"name": "T2 Plus",
+
+				"file": [
+
+					"TinHiFi T2 Plus Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			}
+
+		]
+
+	},
+
+	{
+
+		"name": "TRI",
+
+		"phones": [
+
+			{
+
+				"name": "Kai",
+
+				"collab": "HBB",
+
+				"file": [
+
+					"TRI HBB Kai Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+
+			{
+
+				"name": "Starsea",
+
+				"file": [
+
+					"TRI Starsea s.00 Foam",
+
+					"TRI Starsea s.01 Foam",
+
+					"TRI Starsea s.10 Foam",
+
+					"TRI Starsea s.11 Foam"
+
+				],
+
+				"suffix": [
+
+					"s.00 (Foam)",
+
+					"s.01 (Foam)",
+
+					"s.10 (Foam)",
+
+					"s.11 (Foam)"
+
+				]
+
+			}
+
+		]
+
+	},
+
+	{
+
+		"name": "Tripowin",
+
+		"phones": [
+
+			{
+
+				"name": "Kailua",
+
+				"collab": "HBB",
+
+				"file": [
+
+					"Tripowin Kailua Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+
+			{
+
+				"name": "Olina SE",
+
+				"collab": "HBB",
+
+				"file": [
+
+					"Tripowin Olina SE Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+
+			{
+
+				"name": "Piccolo",
+
+				"file": [
+
+					"Tripowin Piccolo Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			}		
+
+		]
+
+	},
+
+	{
+
+		"name": "TRN",
+
+		"phones": [
+
+			{
+
+				"name": "I3",
+
+				"file": [
+
+					"TRN I3 Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			}
+
+		]
+
+	},	
+
+	{
+
+		"name": "TruthEar",
+
+		"phones": [
+
+			{
+
+				"name": "Hexa",
+
+				"file": [
+
+					"Truthear Hexa Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+			{
+
+				"name": "Hola",
+
+				"file": [
+
+					"TruthEar Hola Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+
+			{
+
+				"name": "Nova",
+
+				"file": [
+
+					"Truthear Nova Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+
+
+			{
+
+				"name": "ZERO RED",
+
+				"collab": "Crinacle",
+
+				"file": [
+
+					"TruthEar ZERO RED 10 Ohm Foam",
+
+					"TruthEar ZERO RED Stock Foam"
+
+				],
+
+				"suffix": [
+
+					"10 Ohm (Foam)",
+
+					"Stock (Foam)"
+
+				]
+
+			}
+
+		]
+
+	},
+
+	{
+
+		"name": "Unique Melody",
+
+		"phones": [
+
+			{
+
+				"name": "MEST MKII",
+
+				"file": [
+
+					"Unique Melody MEST MKII FA Type E",
+
+					"Unique Melody MEST MKII Foam"
+
+				],
+
+				"suffix": [
+
+					"FA Type E",
+
+					"Foam"
+
+				]
+
+			}
+
+		]
+
+	},
+
+	{
+
+		"name": "Venture Electronics",
+
+		"phones": [
+
+			{
+
+				"name": "Bonus IE",
+
+				"file": [
+
+					"Venture Electronics Bonus IE Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			}
+
+		]
+
+	},
+
+	{
+
+		"name": "Whizzer",
+
+		"phones": [
+
+			{
+
+				"name": "BS1",
+
+				"file": [
+
+					"Whizzer BS1 Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+
+			{
+
+				"name": "HE10",
+
+				"file": [
+
+					"Whizzer HE10 Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			}		
+
+		]
+
+	},
+
+	{
+
+		"name": "XENNS",
+
+		"phones": [
+
+			{
+
+				"name": "Tea",
+
+				"file": [
+
+					"XENNS Tea Foam",
+
+					"XENNS Tea SF CP155"
+
+				],
+
+				"suffix": [
+
+					"Foam",
+
+					"SF CP155"
+
+				]
+
+			},
+			{
+
+				"name": "Tea 2nd unit",
+
+				"file": [
+
+					"XENNS Mangird Tea Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+
+			{
+
+				"name": "Top",
+
+				"file": [
+
+					"XENNS Top Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+
+			{
+
+				"name": "UP",
+
+				"file": [
+
+					"XENNS UP SF W1"
+
+				],
+
+				"suffix": [
+
+					"SF W1"
+
+				]
+
+			}
+
+		]
+
+	},
+
+	{
+
+		"name": "Yanyin",
+
+		"phones": [
+
+			{
+
+				"name": "Canon",
+
+				"file": [
+
+					"Yanyin Canon 000 Foam",
+
+					"Yanyin Canon 100 Foam",
+
+					"Yanyin Canon 010 Foam",
+
+					"Yanyin Canon 001 Foam"
+
+				],
+
+				"suffix": [
+
+					"s.000 - (Foam)",
+
+					"s.100 - (Foam)",
+
+					"s.010 - (Foam)",
+
+					"s.001 - (Foam)"
+
+				]
+
+			},
+
+			{
+
+				"name": "Mahina",
+
+				"collab": "HBB",
+
+				"file": [
+
+					"Yanyin X HBB Mahina Foam",
+
+					"Yanyin X HBB Mahina FA Type E"
+
+				],
+
+				"suffix": [
+
+					"Foam",
+
+					"FA Type E"
+				
+				]
+
+			}
+
+		]
+
+	},
+
+	{
+
+		"name": "ZIIGAAT",
+
+		"phones": [
+
+			{
+
+				"name": "CINNO",
+
+				"file": [
+
+					"ZIIGAAT CINNO Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+			{
+
+				"name": "CINCOTRES",
+
+				"file": [
+
+					"ZIIGAAT CINOCOTRES Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+			{
+
+				"name": "DOSCINCO",
+
+				"file": [
+
+					"ZIIGAAT DOSCINCO Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+			{
+
+				"name": "NUO",
+
+				"file": [
+
+					"ZIIGAAT NUO Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			}
+
+		]
+
+	}
+
+]
