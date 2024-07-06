@@ -34,7 +34,9 @@
     "extraEQEnabled": true,              
     "extraEQBands": 10,                 
     "extraEQBandsMax": 20,                
-    "extraToneGeneratorEnabled": true,  
+    "extraToneGeneratorEnabled": true,
+    "headerLogoText": null,
+    "headerLogoImgUrl": "img/logo.png",   	
     "advanced": {
         "headerLinks": [
             {
