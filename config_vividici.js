@@ -53,15 +53,15 @@ function watermark(svg) {
     
     if ( watermark_image_url ) {
         wm.append("image")
-            .attrs({x:-150, y:-150, width:300, height:300, "xlink:href":watermark_image_url});
+            .attrs({x:-150, y:-150, width:200, height:200, "xlink:href":watermark_image_url});
     }
     
     if ( watermark_text ) {
         wm.append("text")
-            .attrs({x:290, y:230, "font-size":18, "text-anchor":"middle", "class":"graph-name"})
+            .attrs({x:290, y:230, "font-size":16, "text-anchor":"middle", "class":"graph-name"})
             .text(watermark_text);
         wm.append("text")
-            .attrs({x:290, y:255, "font-size":18, "text-anchor":"middle", "class":"graph-name"})
+            .attrs({x:290, y:255, "font-size":16, "text-anchor":"middle", "class":"graph-name"})
             .text(watermark_text2);	
     }
 }
