@@ -15,7 +15,7 @@
     --font-color-secondary: hsl(0, 100%, 50%);
     --font-color-inputs: hsl(0, 0%, 0%);
     
-    --font-primary: 'Open Sans', sans-serif;
+    --font-primary: 'Open Sans', sans-serif; font-weight: bold;
     --font-secondary: monospace;
     
     --scrollbar-color: 255,255,255;
