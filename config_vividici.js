@@ -1,101 +1,99 @@
 // Configuration Options (Proceed with Caution)
-var config = {
-    "init_phones": ["MMagTech"],
-    "default_channels": ["L", "R"],
-    "default_normalization": "Hz",
-    "default_norm_db": 70,
-    "default_norm_hz": 500,
-    "max_channel_imbalance": 5,
-    "alt_layout": true,
-    "alt_sticky_graph": true,
-    "alt_animated": false,
-    "alt_header": true,
-    "alt_tutorial": true,
-    "site_url": "index.html",
-    "share_url": false,
-    "watermark_text": "Jays Audio",
-    "watermark_text2": "JaysAudio.github.io",
-    "watermark_image_url": "img/vividici.png",
-    "page_title": "Jays Audio",
-    "page_description": "View and compare frequency response graphs for IEMs",
-    "accessories": false,
-    "externalLinksBar": true,
-    "restricted": false,
-    "expandable": false,
-    "expandableOnly": false,
-    "headerHeight": "0px",
-    "darkModeButton": true,
-    "targetDashed": true,
-    "targetColorCustom": false,
-    "labelsPosition": "bottom-left",
-    "stickyLabels": true,
-    "analyticsEnabled": false,
-    "extraEnabled": true,
-    "extraUploadEnabled": true,
-    "extraEQEnabled": true,
-    "extraEQBands": 10,
-    "extraEQBandsMax": 20,
-    "extraToneGeneratorEnabled": true,
-    "headerLogoText": "Jays Audio",
-    "headerLogoImgUrl": null,
-    "advanced": {
-        "headerLinks": [
+const config = {
+    init_phones: ["MMagTech"],
+    default_channels: ["L", "R"],
+    default_normalization: "Hz",
+    default_norm_db: 70,
+    default_norm_hz: 500,
+    max_channel_imbalance: 5,
+    alt_layout: true,
+    alt_sticky_graph: true,
+    alt_animated: false,
+    alt_header: true,
+    alt_tutorial: true,
+    site_url: "index.html",
+    share_url: false,
+    watermark_text: "Jays Audio",
+    watermark_text2: "JaysAudio.github.io",
+    watermark_image_url: "img/vividici.png",
+    page_title: "Jays Audio",
+    page_description: "View and compare frequency response graphs for IEMs",
+    accessories: false,
+    externalLinksBar: true,
+    restricted: false,
+    expandable: false,
+    expandableOnly: false,
+    headerHeight: "0px",
+    darkModeButton: true,
+    targetDashed: true,
+    targetColorCustom: false,
+    labelsPosition: "bottom-left",
+    stickyLabels: true,
+    analyticsEnabled: false,
+    extraEnabled: true,
+    extraUploadEnabled: true,
+    extraEQEnabled: true,
+    extraEQBands: 10,
+    extraEQBandsMax: 20,
+    extraToneGeneratorEnabled: true,
+    advanced: {
+        headerLinks: [
             {
-                "name": "GitHub",
-                "url": "https://github.com/JaysAudio/JaysAudio.github.io"
+                name: "GitHub",
+                url: "https://github.com/JaysAudio/JaysAudio.github.io"
             },
             {
-                "name": "Head-Fi",
-                "url": "https://www.head-fi.org/members/jayaudio88.563753/"
+                name: "Head-Fi",
+                url: "https://www.head-fi.org/members/jayaudio88.563753/"
             },
             {
-                "name": "HiFiGuides",
-                "url": "https://forum.hifiguides.com/u/vividici_111/summary"
+                name: "HiFiGuides",
+                url: "https://forum.hifiguides.com/u/vividici_111/summary"
             },
             {
-                "name": "YouTube",
-                "url": "https://www.youtube.com/@jayyaudio"
+                name: "YouTube",
+                url: "https://www.youtube.com/@jayyaudio"
             }
         ],
-        "footerLinks": [
+        footerLinks: [
             {
-                "label": "More Databases",
-                "links": [
+                label: "More Databases",
+                links: [
                     {
-                        "name": "Bad Guy",
-                        "url": "https://hbbdatabase.github.io/"
+                        name: "Bad Guy",
+                        url: "https://hbbdatabase.github.io/"
                     },
                     {
-                        "name": "nymz",
-                        "url": "https://nymz.squig.link/"
+                        name: "nymz",
+                        url: "https://nymz.squig.link/"
                     },
                     {
-                        "name": "PaulWasabi",
-                        "url": "https://pw.squig.link/"
+                        name: "PaulWasabi",
+                        url: "https://pw.squig.link/"
                     },
                     {
-                        "name": "Precogvision",
-                        "url": "https://precog.squig.link/"
+                        name: "Precogvision",
+                        url: "https://precog.squig.link/"
                     },
                     {
-                        "name": "RikudouGoku",
-                        "url": "https://rg.squig.link/"
+                        name: "RikudouGoku",
+                        url: "https://rg.squig.link/"
                     },
                     {
-                        "name": "Super Review",
-                        "url": "https://squig.link/"
+                        name: "Super Review",
+                        url: "https://squig.link/"
                     }
                 ]
             }
         ],
-        "targets": [
+        targets: [
             {
-                "type": "Preference",
-                "files": ["Bad Guy", "MMagTech", "nymz", "PaulWasabi", "Precogvision", "RikudouGoku", "Rtings", "Sonarworks", "Super Review 21", "Super Review 22"]
+                type: "Preference",
+                files: ["Bad Guy", "MMagTech", "nymz", "PaulWasabi", "Precogvision", "RikudouGoku", "Rtings", "Sonarworks", "Super Review 21", "Super Review 22"]
             },
             {
-                "type": "Reference",
-                "files": ["Diffuse Field", "Etymotic", "IEF Neutral", "Harman 2019v2"]
+                type: "Reference",
+                files: ["Diffuse Field", "Etymotic", "IEF Neutral", "Harman 2019v2"]
             }
         ]
     }
@@ -203,8 +201,7 @@ let tutorialDefinitions = [
         description: 'A full <b>lower midrange</b>, tapering upward into the bass region, can lend a sense of thickness and warmth to the overall tone, while a "scooped" lower midrange can give a very clean sound at the cost of some thinness to the body. A lot of deep vocal micro detail depends on a well-executed lower midrange. But lower midrange is often sacrificed to create contrast between bass and treble for a typical "V-shaped" sound signature, which will commonly exhibit less natural vocal timbre than a more linear midrange tune.'
     },
     {
-        name
-        : 'Upper midrange',
+        name: 'Upper midrange',
         width: "20%",
         description: '<b>Upper midrange</b> is where a lot of "clarity" in a tune comes from. An elevated -- or "forward" -- upper midrange typically results in a forward vocal presentation, especially emphasizing higher-pitched vocals. Trumpets and guitars get their bite from upper midrange frequencies. Too much upper midrange can result in shrill or "shouty" vocals. Too little can result in a distant, recessed sound that\'s low on clarity. And uneven upper midrange emphasis can lead to oddly nasal or hollow vocals, with other odd timbral effects.'
     },
@@ -225,76 +222,10 @@ let tutorialDefinitions = [
     }
 ];
 
-// Specify which targets to display
-let targets = config.advanced.targets;
-
 // Parse fr text data from REW or AudioTool format with whatever separator
 function tsvParse(fr) {
     return fr.split(/[\r\n]/)
         .map(l => l.trim()).filter(l => l && l[0] !== '*')
-        .map(l => l.split(/[\s,]+/).map(e => parseFloat(e)).slice(0, 2))
+        .map(l => l.split(/[\s,;]+/).map(e => parseFloat(e)).slice(0, 2))
         .filter(t => !isNaN(t[0]) && !isNaN(t[1]));
 }
-
-// Apply stylesheet based layout options above
-function setLayout() {
-    function applyStylesheet(styleSheet) {
-        var docHead = document.querySelector("head"),
-            linkTag = document.createElement("link");
-
-        linkTag.setAttribute("rel", "stylesheet");
-        linkTag.setAttribute("type", "text/css");
-
-        linkTag.setAttribute("href", styleSheet);
-        docHead.append(linkTag);
-    }
-
-    if (!config.alt_layout) {
-        applyStylesheet("style.css");
-    } else {
-        applyStylesheet("style-alt.css");
-        applyStylesheet("style-alt-theme.css");
-    }
-}
-setLayout();
-
-// Set restricted mode
-function setRestricted() {
-    if (config.restricted) {
-        max_compare = 2;
-        restrict_target = false;
-        disallow_target = true;
-        premium_html = "<h2>You gonna pay for that?</h2><p>To use target curves, or more than two graphs, <a target='_blank' href='https://crinacle.com/wp-login.php?action=register'>subscribe</a> or upgrade to Patreon <a target='_blank' href='https://www.patreon.com/join/crinacle/checkout?rid=3775534'>Silver tier</a> and switch to <a target='_blank' href='https://crinacle.com/graphs/iems/graphtool/premium/'>the premium tool</a>.</p>";
-    }
-}
-setRestricted();
-
-// Configure HTML accessories to appear at the bottom of the page. Displayed only if accessories (above) is true
-const simpleAbout = `
-    <p class="center">This web software is based on the <a href="https://github.com/mlochbaum/CrinGraph">CrinGraph</a> open source software project.</p>
-`;
-
-// Which of the above variables to actually insert into the page
-const whichAccessoriesToUse = simpleAbout;
-
-// Set up analytics
-function setupGraphAnalytics() {
-    if (config.analyticsEnabled) {
-        const pageHead = document.querySelector("head"),
-            graphAnalytics = document.createElement("script"),
-            graphAnalyticsSrc = "graphAnalytics.js";
-
-        graphAnalytics.setAttribute("src", graphAnalyticsSrc);
-        pageHead.append(graphAnalytics);
-    }
-}
-setupGraphAnalytics();
-
-// Load the graphs
-function loadGraph() {
-    // Your existing graph loading logic here
-    let init_phones = config.init_phones;
-    let default_channels = config.default_channels;
-    // Continue using config properties directly
-}
-loadGraph();
