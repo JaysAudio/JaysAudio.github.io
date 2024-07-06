@@ -40,8 +40,8 @@ var init_phones = ["MMagTech"],                             // Optional. Which g
       extraEQBands = 10,                            // Default EQ bands available
       extraEQBandsMax = 20,                         // Max EQ bands available
       extraToneGeneratorEnabled = true;             // Enable tone generator function
-      headerLogoText: null,
-      headerLogoImgUrl: "img/logo.png", 
+      headerLogoText= null,
+      headerLogoImgUrl= "img/logo.png", 
 
 // *************************************************************
 // Functions to support config options set above; probably don't need to change these
