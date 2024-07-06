@@ -1,0 +1,101 @@
+{
+    "init_phones": ["MMagTech"],
+    "default_channels": ["L","R"],
+    "default_normalization": "Hz",
+    "default_norm_db": 70,
+    "default_norm_hz": 500,   
+    "max_channel_imbalance": 5,
+    "alt_layout": true,   
+    "alt_sticky_graph": true,   
+    "alt_animated": false,   
+    "alt_header": true,   
+    "alt_tutorial": true,  
+    "site_url": "index.html",
+    "share_url": false,
+    "watermark_text": "Jays Audio",   
+    "watermark_text2": "JaysAudio.github.io",	
+    "watermark_image_url": "img/vividici.png", 
+    "page_title": "Jays Audio",   
+    "page_description": "View and compare frequency response graphs for IEMs",
+    "accessories": false,  
+    "externalLinksBar": true,    
+    "restricted": false,  
+    "expandable": false,                   
+    "expandableOnly": false,   
+    "headerHeight": "0px",       
+    "darkModeButton": true,                
+    "targetDashed": true,                  
+    "targetColorCustom": false,               
+    "labelsPosition": "bottom-left",  
+    "stickyLabels": true,                           
+    "analyticsEnabled": false,         
+    "extraEnabled": true,               
+    "extraUploadEnabled": true,          
+    "extraEQEnabled": true,              
+    "extraEQBands": 10,                 
+    "extraEQBandsMax": 20,                
+    "extraToneGeneratorEnabled": true,   
+    "headerLogoText": "Jays Audio",
+    "headerLogoImgUrl": null,   
+    "advanced": {
+        "headerLinks": [
+            {
+                "name": "GitHub",
+                 "url": "https://github.com/JaysAudio/JaysAudio.github.io"
+            },
+            {
+                "name": "Head-Fi",
+                "url": "https://www.head-fi.org/members/jayaudio88.563753/"
+            },	
+            {
+                "name": "HiFiGuides",
+                "url": "https://forum.hifiguides.com/u/vividici_111/summary"
+            },
+			{
+				"name": "YouTube",
+                "url": "https://www.youtube.com/@jayyaudio"
+			}	
+        ],
+        "footerLinks": [
+            {
+                "label": "More Databases",
+                "links": [
+		            {
+                        "name": "Bad Guy",
+				        "url": "https://hbbdatabase.github.io/"
+                    },
+                    {
+                        "name": "nymz",
+                        "url": "https://nymz.squig.link/"
+                    },
+					{
+					    "name": "PaulWasabi",
+                        "url": "https://pw.squig.link/"
+					},
+						{
+					    "name": "Precogvision",
+                        "url": "https://precog.squig.link/"
+					},
+					{
+                        "name": "RikudouGoku",
+                        "url": "https://rg.squig.link/"
+					},
+										{
+                        "name": "Super Review",
+                        "url": "https://squig.link/"
+					}
+                ]
+            }
+        ],
+        "targets": [
+            {
+                "type": "Preference",
+                "files": ["Bad Guy","MMagTech","nymz","PaulWasabi","Precogvision","RikudouGoku","Rtings","Sonarworks","Super Review 21","Super Review 22"]
+            },
+            {
+                "type": "Reference",
+                "files": ["Diffuse Field","Etymotic","IEF Neutral","Harman 2019v2"]
+            }
+    ]
+    }
+}
