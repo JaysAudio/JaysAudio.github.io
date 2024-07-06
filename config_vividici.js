@@ -57,13 +57,26 @@ function watermark(svg) {
             .attrs({x:-150, y:-150, width:300, height:300, "xlink:href":watermark_image_url});
     }
     
-    if ( watermark_text ) {
+    if (watermark_text) {
         wm.append("text")
-            .attrs({x:400, y:350, "font-size":16, "text-anchor":"middle", "class":"graph-name"})
+            .attrs({
+                x: wmWidth - 10, // Positioned at the right edge of the wm group with some padding
+                y: wmHeight - 30, // Positioned 30 units above the bottom edge of the wm group
+                "font-size": 16,
+                "text-anchor": "end", // Align text to the right
+                "class": "graph-name"
+            })
             .text(watermark_text);
+
         wm.append("text")
-            .attrs({x:400, y:350, "font-size":16, "text-anchor":"middle", "class":"graph-name"})
-            .text(watermark_text2);	
+            .attrs({
+                x: wmWidth - 10, // Positioned at the right edge of the wm group with some padding
+                y: wmHeight - 10, // Positioned 10 units above the bottom edge of the wm group
+                "font-size": 16,
+                "text-anchor": "end", // Align text to the right
+                "class": "graph-name"
+            })
+            .text(watermark_text2);
     }
 }
 
