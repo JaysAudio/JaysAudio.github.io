@@ -18,9 +18,9 @@ var init_phones = ["MMagTech"],                             // Optional. Which g
       site_url = 'index.html',                              // URL of your graph "homepage"
       share_url = false,                             // If true, enables shareable URLs
       watermark_text = "Jays Audio",                 // Optional. Watermark appears behind graphs
-      watermark_text2 = "vividici.github.io",
+      watermark_text2 = "JaysAudio.github.io",
       watermark_image_url = "img/vividici.png",   // Optional. If image file is in same directory as config, can be just the filename
-      page_title = "frDB",                     // Optional. Appended to the page title if share URLs are enabled
+      page_title = "JaysAudio",                     // Optional. Appended to the page title if share URLs are enabled
       page_description = "View and compare frequency response graphs for IEMs",
       accessories = false,                          // If true, displays specified HTML at the bottom of the page. Configure further below
       externalLinksBar = true,                      // If true, displays row of pill-shaped links at the bottom of the page. Configure further below
@@ -54,7 +54,7 @@ function watermark(svg) {
     
     if ( watermark_image_url ) {
         wm.append("image")
-            .attrs({x:-64, y:-110, width:200, height:200, "xlink:href":watermark_image_url});
+            .attrs({x:-64, y:-110, width:300, height:300, "xlink:href":watermark_image_url});
     }
     
     if ( watermark_text ) {
@@ -72,7 +72,7 @@ let headerLogoText = "Jays Audio",
 headerLinks = [
 // {
 //     name: "GitHub",
-//     url: "https://github.com/MMagTech/MMagTech.github.io"
+//     url: "https://github.com/JaysAudio/JaysAudii.github.io"
 // },
 // {
 //     name: "Head-Fi",
