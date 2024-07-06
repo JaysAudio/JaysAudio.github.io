@@ -54,7 +54,7 @@ function watermark(svg) {
     
     if ( watermark_image_url ) {
         wm.append("image")
-            .attrs({x:-64, y:-110, width:300, height:300, "xlink:href":watermark_image_url});
+            .attrs({x:-10, y:-10, width:300, height:300, "xlink:href":watermark_image_url});
     }
     
     if ( watermark_text ) {
