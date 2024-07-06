@@ -13,9 +13,9 @@
     "site_url": "index.html",
     "share_url": false,
     "watermark_text": "Jays Audio",   
-    "watermark_text2": "vividici.github.io",	
+    "watermark_text2": "JaysAudio.github.io",	
     "watermark_image_url": "img/vividici.png", 
-    "page_title": "frDB",   
+    "page_title": "Jays Audio",   
     "page_description": "View and compare frequency response graphs for IEMs",
     "accessories": false,  
     "externalLinksBar": true,    
@@ -41,7 +41,7 @@
         "headerLinks": [
             {
                 "name": "GitHub",
-                 "url": "https://github.com/MMagTech/MMagTech.github.io"
+                 "url": "https://github.com/JaysAudio/JaysAudio.github.io"
             },
             {
                 "name": "Head-Fi",
