@@ -59,10 +59,10 @@ function watermark(svg) {
     
     if ( watermark_text ) {
         wm.append("text")
-            .attrs({x:200, y:141, "font-size":16, "text-anchor":"middle", "class":"graph-name"})
+            .attrs({x:290, y:230, "font-size":18, "text-anchor":"middle", "class":"graph-name"})
             .text(watermark_text);
         wm.append("text")
-            .attrs({x:200, y:161, "font-size":16, "text-anchor":"middle", "class":"graph-name"})
+            .attrs({x:290, y:255, "font-size":18, "text-anchor":"middle", "class":"graph-name"})
             .text(watermark_text2);	
     }
 }
@@ -76,7 +76,7 @@ headerLinks = [
 // },
 // {
 //     name: "Head-Fi",
-//     url: "https://www.head-fi.org/members/mmag1983.556792/"
+//     url: "https://www.head-fi.org/members/jayaudio88.563753/"
 // },
 // {
 //     name: "HifiGuides",
