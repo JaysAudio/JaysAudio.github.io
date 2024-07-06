@@ -59,10 +59,10 @@ function watermark(svg) {
     
     if ( watermark_text ) {
         wm.append("text")
-            .attrs({x:200, y:141, "font-size":16, "text-anchor":"middle", "class":"graph-name"})
+            .attrs({x:300, y:250, "font-size":16, "text-anchor":"middle", "class":"graph-name"})
             .text(watermark_text);
         wm.append("text")
-            .attrs({x:50, y:50, "font-size":16, "text-anchor":"middle", "class":"graph-name"})
+            .attrs({x:300, y:250, "font-size":16, "text-anchor":"middle", "class":"graph-name"})
             .text(watermark_text2);	
     }
 }
