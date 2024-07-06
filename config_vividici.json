@@ -35,8 +35,8 @@
     "extraEQBands": 10,                 
     "extraEQBandsMax": 20,                
     "extraToneGeneratorEnabled": true,   
-    "headerLogoText": "Jays Audio",
-    "headerLogoImgUrl": null,   
+    "headerLogoText": null,
+    "headerLogoImgUrl": "img/logo.png",   
     "advanced": {
         "headerLinks": [
             {
