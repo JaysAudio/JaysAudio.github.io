@@ -53,12 +53,12 @@ function watermark(svg) {
     
     if ( watermark_image_url ) {
         wm.append("image")
-            .attrs({x:-90, y:-70, width:175, height:175, "xlink:href":watermark_image_url});
+            .attrs({x:-90, y:-71, width:160, height:160, "xlink:href":watermark_image_url});
     }
     
     if ( watermark_text ) {
         wm.append("text")
-            .attrs({x:2275, y:230, "font-size":16, "text-anchor":"middle", "class":"graph-name"})
+            .attrs({x:275, y:230, "font-size":16, "text-anchor":"middle", "class":"graph-name"})
             .text(watermark_text);
         wm.append("text")
             .attrs({x:275, y:255, "font-size":16, "text-anchor":"middle", "class":"graph-name"})
