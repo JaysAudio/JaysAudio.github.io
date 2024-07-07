@@ -17,7 +17,7 @@ var init_phones = ["MMagTech"],                             // Optional. Which g
       alt_tutorial = true,                         // Display a configurable frequency response guide below the graph
       site_url = 'index.html',                              // URL of your graph "homepage"
       share_url = false,                             // If true, enables shareable URLs
-      watermark_text = "Jays Audio",                 // Optional. Watermark appears behind graphs
+      watermark_text = "",                 // Optional. Watermark appears behind graphs
       watermark_text2 = "JaysAudio.github.io",
       watermark_image_url = "img/vividici.png",   // Optional. If image file is in same directory as config, can be just the filename
       page_title = "JaysAudio",                     // Optional. Appended to the page title if share URLs are enabled
@@ -53,15 +53,15 @@ function watermark(svg) {
     
     if ( watermark_image_url ) {
         wm.append("image")
-            .attrs({x:-150, y:-150, width:200, height:200, "xlink:href":watermark_image_url});
+            .attrs({x:-90, y:-70, width:175, height:175, "xlink:href":watermark_image_url});
     }
     
     if ( watermark_text ) {
         wm.append("text")
-            .attrs({x:290, y:230, "font-size":16, "text-anchor":"middle", "class":"graph-name"})
+            .attrs({x:2275, y:230, "font-size":16, "text-anchor":"middle", "class":"graph-name"})
             .text(watermark_text);
         wm.append("text")
-            .attrs({x:290, y:255, "font-size":16, "text-anchor":"middle", "class":"graph-name"})
+            .attrs({x:275, y:255, "font-size":16, "text-anchor":"middle", "class":"graph-name"})
             .text(watermark_text2);	
     }
 }
