@@ -34,6 +34,12 @@ function loadGraph() {
             <svg id="fr-graph" viewBox="0 0 800 346" data-labels-position="`+ labelsPosition +`"></svg>
           </div>
     
+          <div class="tools collapseTools">
+            <div class="copy-url">
+              <button id="copy-url">Copy URL</button>
+              <button id="download-faux">Screenshot</button>
+            </div>
+    
             <div class="zoom">
               <span>Zoom:</span>
               <button>Bass</button>
@@ -837,7 +843,7 @@ function loadGraph() {
     
     let gpath = gr.insert("g",".dBScaler")
         .attr("fill","none")
-        .attr("stroke-width",2.1)
+        .attr("stroke-width",2.3)
         .attr("mask","url(#graphFade)");
     function hl(p, h) {
         gpath.selectAll("path").filter(c=>c.p===p).classed("highlight",h);
