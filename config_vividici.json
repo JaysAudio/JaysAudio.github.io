@@ -1,5 +1,5 @@
 {
-    "init_phones": ["MMagTech"],
+    "init_phones": ["Jays Audio"],
     "default_channels": ["L","R"],
     "default_normalization": "Hz",
     "default_norm_db": 70,
@@ -90,7 +90,7 @@
         "targets": [
             {
                 "type": "Preference",
-                "files": ["Bad Guy","MMagTech","nymz","PaulWasabi","Precogvision","RikudouGoku","Rtings","Sonarworks","Super Review 21","Super Review 22"]
+                "files": ["Bad Guy","Jays Audio","MMagTech","nymz","PaulWasabi","Precogvision","RikudouGoku","Rtings","Sonarworks","Super Review 21","Super Review 22"]
             },
             {
                 "type": "Reference",
