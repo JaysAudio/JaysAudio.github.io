@@ -2667,67 +2667,8 @@ function loadGraph() {
         });
         
     }
-	
-	// get average of all active headphones except targets
-	function getAvgAll() {
-		let v = activePhones.filter(p => !p.isTarget).map(p => getAvg(p));
-		return avgCurves(v);
-	}
-
-	// draw average of all active headphones
-	let avgAllBtn = document.querySelector("button#avg-all");
-
-	avgAllBtn.addEventListener("click", function() {
-		let avgAll = getAvgAll();
-		let p = { name: "Average of All SPLs"};
-		let ch = [avgAll];
-		let phone = addOrUpdatePhone({
-			fileName: "Average of All SPLs",
-			dispBrand: "Uploaded",
-			dispName: "Average of All SPLs",
-			isTarget: false,
-			channels: ch,
-			activeCurves: [],
-			id: getPhoneNumber(),
-			offset: 0,
-			norm: 0
-		});
-
-		// if avg-all button not classed with selected class
-		if (!avgAllBtn.classList.contains("selected")) {
-			showPhone(phone, false);
-			// add selected class to avg-all button
-			avgAllBtn.classList.add("selected");
-		} else {
-			// remove selected class from avg-all button
-			avgAllBtn.classList.remove("selected");
-			// remove avg-all phone
-			removePhone(phone);
-		}
-		updatePaths(true);
-	});
-	
-	function addOrUpdatePhone(phone) {
-		// Check if the phone already exists in the activePhones array
-		let existingPhone = activePhones.find(p => p.fileName === phone.fileName);
-
-		if (existingPhone) {
-			// Update the existing phone
-            Object.assign(existingPhone, phone);
-            console.log(`Phone ${phone.fileName} updated`);
-        } else {
-            // Add the new phone to the activePhones array
-            activePhones.push(phone);
-            console.log(`Phone ${phone.fileName} added`);
-        }
-
-        // Update the phone table and paths
-        updatePhoneTable();
-        updatePaths();
-        return phone;
-    }
-	addExtra();
-
+    addExtra();
+    
     // Add accessories to the bottom of the page, if configured
     function addAccessories() {
         let accessoriesBar = document.querySelector("div.accessories"),
