@@ -2667,32 +2667,6 @@ function loadGraph() {
         });
         
     }
-    // get average of all active headphones except targets
-    function getAvgAll() {
-        let v = activePhones.filter(p => !p.isTarget).map(p => getAvg(p));
-        return avgCurves(v);
-    }
-    // draw average of all active headphones
-    let avgAllBtn = document.querySelector("button#avg-all");
-
-    avgAllBtn.addEventListener("click", function() {
-        let avgAll = getAvgAll();
-        let p = { name: "Average of All SPLs"};
-        let ch = [avgAll];
-        let phone = addOrUpdatePhone(brandMap.Uploaded, p, ch);
-        // if avg-all button not classed with selected class
-        if (!avgAllBtn.classList.contains("selected")) {
-            showPhone(phone, false);
-            // add selected class to avg-all button
-            avgAllBtn.classList.add("selected");
-        } else {
-            // remove selected class from avg-all button
-            avgAllBtn.classList.remove("selected");
-            // remove avg-all phone
-            removePhone(phone);
-        }
-        updatePaths(true);
-    });
     addExtra();
     
     // Add accessories to the bottom of the page, if configured
