@@ -4,8 +4,8 @@
     --accent-color: hsl(215.25, 67.8%, 23.14%);
     --accent-color-contrast: hsl(0, 0%, 55%);
 
-    --background-color: hsl(220, 40.24%, 32.16%);
-    --background-color-contrast: hsl(226.3, 45.1%, 60%);
+    --background-color: hsl(220deg 40.24% 32.16%);
+    --background-color-contrast: hsl(222.11, 27.54%, 40.59%);
     --background-color-contrast-more: hsl(0deg 0% 0%);
     --background-color-graph: hsl(215.25, 67.8%, 23.14%);
     
