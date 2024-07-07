@@ -1,42 +1,44 @@
 // Set these variables to your own GTM ID and site name
-let analyticsSite = "MMagTech",                     // Site name for attributing analytics events to your site
-    analyticsGtmId = "GTM-N74Z5L8",                 // GTM ID used for analytics. If you don't already have one, you'' need to create a Google Tag Manager account
-    logAnalytics = true;                            // If true, events are logged in console
+let analyticsSite = "Jays Audio", // Site name for attributing analytics events to your site
+    analyticsGtmId = "G-PBQESZC8V4", // New GTM ID provided by Google
+    logAnalytics = true; // If true, events are logged in console
 
 // Load Google Tag Manager onto the page
 function setupGraphAnalytics() {
-    const gtmScriptContent = "(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','"+ analyticsGtmId +"');",
-        gtmIframeSrc = "https://www.googletagmanager.com/ns.html?id="+ analyticsGtmId,
-        gtmIframeStyle = "display: none; visibility: hidden;",
-        graphAnalyticsSrc = "graphAnalytics.js";
+    const gtmScriptUrl = "https://www.googletagmanager.com/gtag/js?id=" + analyticsGtmId;
+    const gtmScriptContent = `
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', '${analyticsGtmId}');
+    `;
+    
+    const pageHead = document.querySelector("head");
+    const gtmScript = document.createElement("script");
+    const inlineScript = document.createElement("script");
 
-    const pageHead = document.querySelector("head"),
-          pageBody = document.querySelector("body"),
-          gtmScript = document.createElement("script"),
-          gtmNoscript = document.createElement("noscript"),
-          gtmIframe = document.createElement("iframe"),
-          graphAnalytics = document.createElement("script");
+    gtmScript.async = true;
+    gtmScript.src = gtmScriptUrl;
+    inlineScript.textContent = gtmScriptContent;
 
-    gtmScript.textContent = gtmScriptContent;
-    pageHead.prepend(gtmScript);
+    pageHead.appendChild(gtmScript);
+    pageHead.appendChild(inlineScript);
 }
+
 setupGraphAnalytics();
 
-window.dataLayer = window.dataLayer || [];
-
-
-
-// *************************************************************
-// Functions to fire events
-// *************************************************************
-
-// For events related to specific phones, e.g. when a phone is displayed
-function pushPhoneTag(eventName, p, trigger) {
-    let eventTrigger = trigger ? trigger : "user",
-        phoneBrand = p.dispBrand ? p.dispBrand : "Target",
-        phoneModel = p.phone,
-        phoneVariant = p.dispName,
-        value = 1;
+/**
+ * Pushes a phone-related event to the data layer.
+ * @param {string} eventName - The name of the event.
+ * @param {object} p - The phone object containing phone details.
+ * @param {string} [trigger="user"] - The trigger for the event.
+ */
+function pushPhoneTag(eventName, p, trigger = "user") {
+    let eventTrigger = trigger;
+    let phoneBrand = p.dispBrand ? p.dispBrand : "Target";
+    let phoneModel = p.phone;
+    let phoneVariant = p.dispName;
+    let value = 1;
     
     window.dataLayer.push({
         "event" : eventName,
@@ -45,21 +47,33 @@ function pushPhoneTag(eventName, p, trigger) {
         "phoneBrand": phoneBrand,
         "phoneModel": phoneModel,
         "phoneVariant": phoneVariant,
-        "phoneName" : phoneBrand + ' ' + phoneModel,
+        "phoneName" : `${phoneBrand} ${phoneModel}`,
         "value": value
     });
     
-    if (logAnalytics) { console.log("Event:      "+ eventName +"\nTrigger:    "+ eventTrigger +"\nSite:       "+ analyticsSite +"\nPhone:      "+ phoneBrand +" "+ phoneModel +"\nVariant:    " + phoneVariant); }
+    if (logAnalytics) {
+        console.log(`Event:      ${eventName}
+                     Trigger:    ${eventTrigger}
+                     Site:       ${analyticsSite}
+                     Phone:      ${phoneBrand} ${phoneModel}
+                     Variant:    ${phoneVariant}`);
+    }
 }
 
-// For events not related to a specific phone, e.g. user clicked screenshot button
-function pushEventTag(eventName, targetWindow, other, trigger) {
-    let eventTrigger = trigger ? trigger : "user",
-        url = targetWindow.location.href,
-        par = "?share=",
-        value = 1,
-        activePhones = url.includes(par) ? decodeURI(url.replace(/_/g," ").split(par).pop().replace(/,/g, ", ")) : "null",
-        otherData = other ? other : "null";
+/**
+ * Pushes a general event to the data layer.
+ * @param {string} eventName - The name of the event.
+ * @param {Window} targetWindow - The target window object.
+ * @param {string} [other="null"] - Additional data for the event.
+ * @param {string} [trigger="user"] - The trigger for the event.
+ */
+function pushEventTag(eventName, targetWindow, other = "null", trigger = "user") {
+    let eventTrigger = trigger;
+    let url = targetWindow.location.href;
+    let par = "?share=";
+    let value = 1;
+    let activePhones = url.includes(par) ? decodeURI(url.replace(/_/g," ").split(par).pop().replace(/,/g, ", ")) : "null";
+    let otherData = other;
     
     window.dataLayer.push({
         "event" : eventName,
@@ -70,7 +84,15 @@ function pushEventTag(eventName, targetWindow, other, trigger) {
         "value": value
     });
     
-    if (logAnalytics) { console.log("Event:      "+ eventName +"\nTrigger:    "+ eventTrigger +"\nSite name:  "+ analyticsSite +"\nActive:     "+ activePhones +"\nOther:      "+ otherData); }
+    if (logAnalytics) {
+        console.log(`Event:      ${eventName}
+                     Trigger:    ${eventTrigger}
+                     Site name:  ${analyticsSite}
+                     Active:     ${activePhones}
+                     Other:      ${otherData}`);
+    }
 }
 
-if (logAnalytics) { console.log("... Analytics initialized ... "); }
+if (logAnalytics) {
+    console.log("... Analytics initialized ... ");
+}
