@@ -28,7 +28,7 @@
     "targetColorCustom": false,               
     "labelsPosition": "bottom-left",  
     "stickyLabels": true,                           
-    "analyticsEnabled": false,         
+    "analyticsEnabled": true,         
     "extraEnabled": true,               
     "extraUploadEnabled": true,          
     "extraEQEnabled": true,              
