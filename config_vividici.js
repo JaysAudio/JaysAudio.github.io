@@ -161,7 +161,7 @@ let tutorialDefinitions = [
 // Specify which targets to display
 let targets = [
     // { type:"Preference",   
-	//     files:["Bad Guy","Jays Audio","MMagTech","nymz","PaulWasabi","Precogvision","Rtings","Sonarworks","Super Review 21","Super Review 22"] },
+	//     files:["Jays Audio","Bad Guy","Goober [Neutral]","Goober [Pinna]","MMagTech","nymz","PaulWasabi","Precogvision","Rtings","Sonarworks","Super Review 21","Super Review 22"] },
     // { type:"Reference", 
 	//     files:["Diffuse Field","Etymotic","IEF Neutral","Harman 2019v2"] }
 ];
