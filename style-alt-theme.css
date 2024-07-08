@@ -29,6 +29,12 @@
     --svg-filter: none;
 }
 
+/* Style for the dropdown options */
+select option {
+    background-color: var(--background-color-contrast); /* Using your existing variable */
+    color: var(--font-color-primary); /* Using your existing variable */
+}
+
 body.dark-mode {
     --accent-color: hsl(0, 0%, 100%);
     --accent-color-contrast: hsl(0, 0%, 50%);
