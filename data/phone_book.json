@@ -2231,6 +2231,33 @@
 		]
 
 	},
+	{
+
+		"name": "INTUAURA",
+
+		"phones": [
+
+			{
+
+				"name": "SplendorII VIEW",
+
+				"file": [
+
+					"INTUAURA SplendorII VIEW Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			}
+
+		]
+
+	},
 
 	{
 
@@ -2552,6 +2579,40 @@
 				"file": [
 
 					"Kinera Celest Plutus Beast Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+			{
+
+				"name": "Celest Relentless",
+
+				"file": [
+
+					"Kinera Celest Relentless Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+			{
+
+				"name": "Celest Wyvern Abyss",
+
+				"file": [
+
+					"Kinera Celest Wyvern Abyss Foam"
 
 				],
 
@@ -3027,6 +3088,23 @@
 				"file": [
 
 					"Letshuoer EJ07 OG Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+			{
+
+				"name": "S08",
+
+				"file": [
+
+					"Letshuoer S08 Foam"
 
 				],
 
@@ -4015,6 +4093,23 @@
 				"file": [
 
 					"Rose Technics Quiet Sea Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+			{
+
+				"name": "Star City 5 Pro",
+
+				"file": [
+
+					"Rosetechnics Star City 5 Pro Foam"
 
 				],
 
