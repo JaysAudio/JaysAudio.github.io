@@ -843,7 +843,7 @@ function loadGraph() {
     
     let gpath = gr.insert("g",".dBScaler")
         .attr("fill","none")
-        .attr("stroke-width",2.0)
+        .attr("stroke-width",1.8)
         .attr("mask","url(#graphFade)");
     function hl(p, h) {
         gpath.selectAll("path").filter(c=>c.p===p).classed("highlight",h);
