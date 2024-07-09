@@ -3,7 +3,7 @@
 // Configuration options
 var init_phones = ["Jays Audio"],                             // Optional. Which graphs to display on initial load. Note: Share URLs will override this set
       DIR = "data/",                                // Directory where graph files are stored
-	  DBDIR = "data/audio_db/",
+      DBDIR = "data/audio_db/",
       TARGETDIR = "data/targets/",
       default_channels = ["L","R"],                     // Which channels to display. Avoid javascript errors if loading just one channel per phone
       default_normalization = "Hz",                 // Sets default graph normalization mode. Accepts "dB" or "Hz"
@@ -16,7 +16,7 @@ var init_phones = ["Jays Audio"],                             // Optional. Which
       alt_header = true,                            // Display a configurable header at the top of the alt layout
       alt_tutorial = true,                         // Display a configurable frequency response guide below the graph
       site_url = 'index.html',                              // URL of your graph "homepage"
-      share_url = false,                             // If true, enables shareable URLs
+      share_url = true,                             // If true, enables shareable URLs
       watermark_text = "JaysAudio.github.io",                 // Optional. Watermark appears behind graphs
       watermark_text2 = null,
       watermark_image_url = "img/vividici.png",   // Optional. If image file is in same directory as config, can be just the filename
