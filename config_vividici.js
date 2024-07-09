@@ -34,6 +34,7 @@ var init_phones = ["Jays Audio"],                             // Optional. Which
       labelsPosition = "bottom-left",                  // Up to four labels will be grouped in a specified corner. Accepts "top-left," bottom-left," "bottom-right," and "default"
       stickyLabels = true,                          // "Sticky" labels 
       analyticsEnabled = true,                     // Enables Google Analytics 4 measurement of site usage
+      exportableGraphs = true,                      // Enables export graph button
       extraEnabled = true,                          // Enable extra features
       extraUploadEnabled = true,                    // Enable upload function
       extraEQEnabled = true,                        // Enable parametic eq function
@@ -207,6 +208,7 @@ d3.json('config_vividici.json').then(function(mycfg){
     labelsPosition = mycfg.labelsPosition;   
     stickyLabels = mycfg.stickyLabels;          
     analyticsEnabled = mycfg.analyticsEnabled;  
+	exportableGraphs = mycfg.exportableGraphs;
     extraEnabled = mycfg.extraEnabled;       
     extraUploadEnabled = mycfg.extraUploadEnabled;     
     extraEQEnabled = mycfg.extraUploadEnabled;
