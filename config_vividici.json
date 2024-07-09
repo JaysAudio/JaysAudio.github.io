@@ -11,7 +11,7 @@
     "alt_header": true,   
     "alt_tutorial": true,  
     "site_url": "index.html",
-    "share_url": false,
+    "share_url": true,
     "watermark_text": "JaysAudio.github.io",   
     "watermark_text2": null,	
     "watermark_image_url": "img/vividici.png", 
