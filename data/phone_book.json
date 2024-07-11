@@ -947,6 +947,23 @@
 
 				]
 
+			},
+			{
+
+				"name": "x Gizaudio Davinci",
+
+				"file": [
+
+					"Dunu x Gizaudio Davinci Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
 			}
 
 		]
@@ -5088,6 +5105,23 @@
 		"name": "Symphonium",
 
 		"phones": [
+			{
+
+				"name": "Crimson",
+
+				"file": [
+
+					"Symphonium Crimson Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
 
 			{
 
