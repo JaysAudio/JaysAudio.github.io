@@ -685,6 +685,74 @@
 			},
 			{
 
+				"name": "HYDRO (DDDD)",
+
+				"file": [
+
+					"CCA HYDRO DDDD Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+			{
+
+				"name": "HYDRO (DDUU)",
+
+				"file": [
+
+					"CCA HYDRO DDUU Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+			{
+
+				"name": "HYDRO (UDUD)",
+
+				"file": [
+
+					"CCA HYDRO UDUD Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+			{
+
+				"name": "HYDRO (UUDD)",
+
+				"file": [
+
+					"CCA HYDRO UUDD Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+			{
+
 				"name": "POLARIS 0000",
 
 				"file": [
