@@ -47,6 +47,23 @@
 		"phones": [
 			{
 
+				"name": "Aero",
+
+				"file": [
+
+					"7hz Aero Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+			{
+
 				"name": "Aurora",
 
 				"file": [
@@ -5278,6 +5295,23 @@
 				]
 
 			},
+			{
+
+				"name": "Wan'er S.G",
+
+				"file": [
+
+					"TANGZU WANER SG Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
 
 			{
 
@@ -5616,6 +5650,23 @@
 				"file": [
 
 					"TinHiFi C2 Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+			{
+
+				"name": "DUDU",
+
+				"file": [
+
+					"TinHifi Dudu Foam"
 
 				],
 
