@@ -5416,6 +5416,74 @@
 		"name": "Tanchjim",
 
 		"phones": [
+			{
+
+				"name": "4U (Down)",
+
+				"file": [
+
+					"Tanchjim 4U (Down) Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+			{
+
+				"name": "4U (Middle, in)",
+
+				"file": [
+
+					"Tanchjim 4U (Mid, in) Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+			{
+
+				"name": "4U (Middle, out)",
+
+				"file": [
+
+					"Tanchjim 4U (Mid, out) Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+			{
+
+				"name": "4U (Up)",
+
+				"file": [
+
+					"Tanchjim 4U (Up) Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
 
 			{
 
