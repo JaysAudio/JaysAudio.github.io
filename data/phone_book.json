@@ -537,6 +537,33 @@
 		]
 
 	},
+	{
+
+		"name": "Binary",
+
+		"phones": [
+
+			{
+
+				"name": "Dynaquattro",
+
+				"file": [
+
+					"Binary Dynaquattro Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			}
+
+		]
+
+	},
 
 	{
 
@@ -964,7 +991,23 @@
 				]
 
 			},
+			{
 
+				"name": "Titan S2",
+
+				"file": [
+
+					"Dunu Titan S2 Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},		
 			{
 
 				"name": "Vulkan",
@@ -2363,6 +2406,22 @@
 
 				]
 
+			},
+			{
+
+				"name": "61t",
+
+				"file": [
+
+					"Juzear 61T Foam"
+
+				],
+				"suffix": [
+
+					"Foam"
+
+				]
+
 			}
 
 		]
@@ -3744,6 +3803,23 @@
 				"file": [
 
 					"Oriveti OD200 Silver Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+			{
+
+				"name": "Dynabird",
+
+				"file": [
+
+					"Oriveti Dynabird Foam"
 
 				],
 
@@ -6073,6 +6149,23 @@
 		"name": "TruthEar",
 
 		"phones": [
+			{
+
+				"name": "Gate",
+
+				"file": [
+
+					"Truthear Gate Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
 
 			{
 
