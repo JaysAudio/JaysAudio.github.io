@@ -6777,6 +6777,23 @@
 
 			},
 			{
+			
+
+				"name": "x JAY ESTRELLA FINAL",
+
+				"file": [
+
+					"ESTRELLA FINAL FOAM"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+			},
+			{
 
 				"name": "x JAY ESTRELLA Prototype",
 
@@ -6789,6 +6806,57 @@
 				"suffix": [
 
 					"Foam"
+
+				]
+			},
+			{
+			
+
+				"name": "x JAY ESTRELLA FINAL",
+
+				"file": [
+
+					"ESTRELLA FINAL CLEAR"
+
+				],
+
+				"suffix": [
+
+					"Divinus or Clear"
+
+				]
+			},
+			{
+			
+
+				"name": "x JAY ESTRELLA FINAL",
+
+				"file": [
+
+					"ESTRELLA FINAL SANCAI"
+
+				],
+
+				"suffix": [
+
+					"Sancai Regular"
+
+				]
+			},
+			{
+			
+
+				"name": "x JAY ESTRELLA FINAL",
+
+				"file": [
+
+					"ESTRELLA FINAL SANCAI wide"
+
+				],
+
+				"suffix": [
+
+					"Sancai Wide"
 
 				]
 			},
