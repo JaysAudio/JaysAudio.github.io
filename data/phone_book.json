@@ -2700,6 +2700,40 @@
 
 				]
 
+			},
+			{
+
+				"name": "Delci AE Bronze",
+
+				"file": [
+
+					"Kefine Delci AE Bronze"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+			{
+
+				"name": "Delci AE Silver",
+
+				"file": [
+
+					"Kefine Delci AE Silver"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
 			}
 
 		]
@@ -6766,6 +6800,23 @@
 				"file": [
 
 					"ZIIGAAT DOSCINCO Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+			{
+
+				"name": "DOSCINCO NEW UNIT",
+
+				"file": [
+
+					"DOSCINCO NEW Foam"
 
 				],
 
