@@ -6538,7 +6538,23 @@
 		"name": "TSMR",
 
 		"phones": [
+			{
 
+				"name": "MIRAI 10TH 000",
+
+				"file": [
+
+					"MIRAI 000 Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
 			{
 
 				"name": "MIRAI 10TH 001",
@@ -6580,23 +6596,6 @@
 				"file": [
 
 					"MIRAI 100 Foam"
-
-				],
-
-				"suffix": [
-
-					"Foam"
-
-				]
-
-			},
-			{
-
-				"name": "MIRAI 10TH 110",
-
-				"file": [
-
-					"MIRAI 110 Foam"
 
 				],
 
