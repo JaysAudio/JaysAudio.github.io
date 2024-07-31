@@ -91,7 +91,7 @@
         "targets": [
             {
                 "type": "Preference",
-			"files": ["Jays Audio","Bad Guy","Goober [Neutral]","Goober [Pinna]","MMagTech","nymz","PaulWasabi","Precogvision","RikudouGoku","Rtings","Sonarworks","Super Review 21","Super Review 22"]
+			"files": ["Bad Guy","Goober [Neutral]","Goober [Pinna]","MMagTech","nymz","PaulWasabi","Precogvision","RikudouGoku","Rtings","Sonarworks","Super Review 21","Super Review 22"]
             },
             {
                 "type": "Reference",
