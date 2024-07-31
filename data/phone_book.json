@@ -6532,6 +6532,100 @@
 		]
 
 	},
+	{
+
+		"name": "TSMR",
+
+		"phones": [
+			{
+
+				"name": "MIRAI 10TH 001",
+
+				"file": [
+
+					"TSMR MIRAI 001 Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+			{
+
+				"name": "MIRAI 10TH 010",
+
+				"file": [
+
+					"TSMR MIRAI 010 Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+			{
+
+				"name": "MIRAI 10TH 100",
+
+				"file": [
+
+					"TSMR MIRAI 100 Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+			{
+
+				"name": "MIRAI 10TH 110",
+
+				"file": [
+
+					"TSMR MIRAI 110 Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+			{
+
+				"name": "MIRAI 10TH 111",
+
+				"file": [
+
+					"TSMR MIRAI 111 Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			}
+
+		]
+
+	},
 
 	{
 
