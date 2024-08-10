@@ -5130,6 +5130,42 @@
 				]
 
 			},
+			{
+
+				"name": "EW300 RED NOZZLE",
+
+				"file": [
+
+					"EW300 RED Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+
+			},
+			{
+
+				"name": "EW300 PINK NOZZLE",
+
+				"file": [
+
+					"EW300 PINK Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+
+			},
 			
 			{
 
@@ -5138,6 +5174,22 @@
 				"file": [
 
 					"Simgot SUPERMIX4 Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+			},
+			{
+
+				"name": "SUPERMIX 4 2nd Unit",
+
+				"file": [
+
+					"SUPERMIX4 2ND"
 
 				],
 
