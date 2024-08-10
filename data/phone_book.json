@@ -5132,6 +5132,42 @@
 			},
 			{
 
+				"name": "EW300 DSP RED NOZZLE",
+
+				"file": [
+
+					"EW300 DSP RED"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+
+			},
+			{
+
+				"name": "EW300 DSP PINK NOZZLE",
+
+				"file": [
+
+					"EW300 DSP PINK"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+
+			},
+			{
+
 				"name": "EW300 RED NOZZLE",
 
 				"file": [
