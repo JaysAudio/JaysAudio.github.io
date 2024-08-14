@@ -3751,6 +3751,40 @@
 
 				]
 
+			},
+			{
+
+				"name": "QUARKS DSP",
+
+				"file": [
+
+					"QUARKS DPS"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+			{
+
+				"name": "QUARKS DSP 2",
+
+				"file": [
+
+					"QUARKS DPS 2"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
 			}
 	
 		]
