@@ -436,8 +436,9 @@
 	{
 
 		"name": "Aur Audio",
-
+		
 		"phones": [
+			
 			{
 
 				"name": Ascension
@@ -489,8 +490,7 @@
 
 				]
 
-			},
-			
+			},			
 			{
 
 				"name": "Neon Pro",
