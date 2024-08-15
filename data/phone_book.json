@@ -438,6 +438,23 @@
 		"name": "Aur Audio",
 
 		"phones": [
+			{
+
+				"name": Ascension
+
+				"file": [
+
+					"AuR Ascension"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
 
 			{
 
@@ -456,7 +473,6 @@
 				]
 
 			},
-
 			{
 
 				"name": "Aurora",
@@ -464,23 +480,6 @@
 				"file": [
 
 					"Aur Audio Aurora Foam"
-
-				],
-
-				"suffix": [
-
-					"Foam"
-
-				]
-
-			},
-			{
-
-				"name": Ascension
-
-				"file": [
-
-					"AuR Ascension"
 
 				],
 
