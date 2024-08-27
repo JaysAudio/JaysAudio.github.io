@@ -5485,6 +5485,67 @@
 		]
 
 	},
+	{
+
+		"name": "SoundPeat",
+
+		"phones": [
+
+			{
+
+				"name": "Capsule 3 Pro+",
+
+				"file": [
+
+					"Soundpeat Capsule 3 Pro+"
+
+				],
+
+				"suffix": [
+
+					"Wide Bore"
+
+				]
+
+			},
+			{
+
+				"name": "Capsule 3 Pro+ ANC",
+
+				"file": [
+
+					"Soundpeat Capsule 3 Pro+ ANC"
+
+				],
+
+				"suffix": [
+
+					"Wide Bore"
+
+				]
+
+			},
+			{
+
+				"name": "Capsule 3 Pro+ Pass Through",
+
+				"file": [
+
+					"Soundpeat Capsule 3 Pro+ Pass Through"
+
+				],
+
+				"suffix": [
+
+					"Wide Bore"
+
+				]
+
+			}
+
+		]
+
+	},						
 
 	{
 
