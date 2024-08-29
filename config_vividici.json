@@ -89,14 +89,15 @@
             }
         ],
         "targets": [
+	    {
+                "type": "Reference",
+                "files": ["Endgame IE 2024","Harman 2019","Diffuse Field","Etymotic","IEF Neutral"]
+            },
             {
                 "type": "Preference",
 			"files": ["Bad Guy","Goober [Neutral]","Goober [Pinna]","MMagTech","nymz","PaulWasabi","Precogvision","RikudouGoku","Rtings","Sonarworks","Super Review 21","Super Review 22"]
-            },
-            {
-                "type": "Reference",
-                "files": ["Endgame IE 2024","Harman 2019","Diffuse Field","Etymotic","IEF Neutral"]
             }
+            
     ]
     }
 }
