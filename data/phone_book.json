@@ -7049,7 +7049,7 @@
 			},
 			{
 
-				"name": "Tea 2 FOAM",
+				"name": "Tea 2",
 
 				"file": [
 
@@ -7059,24 +7059,7 @@
 
 				"suffix": [
 
-					"Tips"
-
-				]
-
-			},
-			{
-
-				"name": "Tea 2 CLEAR",
-
-				"file": [
-
-					"TEA 2 FOAM"
-
-				],
-
-				"suffix": [
-
-					"Tips"
+					"Foam"
 
 				]
 
