@@ -290,6 +290,23 @@
 		"phones": [
 			{
 
+				"name": "Cantor",
+
+				"file": [
+
+					"CANTOR"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+			{
+
 				"name": "Explorer",
 
 				"file": [
@@ -1730,6 +1747,23 @@
 		"name": "HISENIOR",
 
 		"phones": [
+			{
+
+				"name": "MEGA5-EST BASS",
+
+				"file": [
+
+					"M5EST BASS"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
 
 			{
 
@@ -3038,6 +3072,23 @@
 				"file": [
 
 					"Kiwi Ears Dolce Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+			{
+
+				"name": "KE4",
+
+				"file": [
+
+					"KE4"
 
 				],
 
