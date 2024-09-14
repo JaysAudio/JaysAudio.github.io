@@ -1678,6 +1678,33 @@
 		]
 
 	},
+	{
+
+		"name": "Heartfield",
+
+		"phones": [
+
+			{
+
+				"name": "Blanc",
+
+				"file": [
+
+					"BLANC"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			}
+
+		]
+
+	},
 
 	{
 
@@ -7438,6 +7465,22 @@
 
 			},
 			{
+
+				"name": "x JAY ESTRELLA Prototype",
+
+				"file": [
+
+					"JAY ESTRELLA FOAM"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+			},
+			{
 			
 
 				"name": "x JAY ESTRELLA FINAL",
@@ -7455,18 +7498,35 @@
 				]
 			},
 			{
+			
 
-				"name": "x JAY ESTRELLA Prototype",
+				"name": "x JAY ESTRELLA 2ND UNIT",
 
 				"file": [
 
-					"JAY ESTRELLA FOAM"
+					"ESTRELLA 2ND"
 
 				],
 
 				"suffix": [
 
-					"Foam"
+					"Foam Tips"
+
+				]
+			},
+			{
+
+				"name": "x JAY ESTRELLA FINAL TAPE MOD Foam",
+
+				"file": [
+
+					"ESTRELLA FINAL FOAM TAPE MOD"
+
+				],
+
+				"suffix": [
+
+					"Tips"
 
 				]
 			},
@@ -7528,22 +7588,6 @@
 				"file": [
 
 					"ESTRELLA TAPE MOD CLEAR"
-
-				],
-
-				"suffix": [
-
-					"Tips"
-
-				]
-			},
-			{
-
-				"name": "x JAY ESTRELLA FINAL TAPE MOD Foam",
-
-				"file": [
-
-					"ESTRELLA FINAL FOAM TAPE MOD"
 
 				],
 
