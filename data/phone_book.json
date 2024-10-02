@@ -2558,6 +2558,34 @@
 	},
 	{
 
+		"name": "InAwaken",
+
+		"phones": [
+
+			{
+
+				"name": "DAWN-M",
+
+				"file": [
+
+					"INAWAKEN DAWNM"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			}
+
+		]
+
+	},
+
+	{
+
 		"name": "INTUAURA",
 
 		"phones": [
@@ -5920,6 +5948,91 @@
 		"name": "TANGZU",
 
 		"phones": [
+			{
+
+				"name": "BAJIE AZLA CLEAR",
+
+				"file": [
+
+					"BAJIE AZLA CLEAR"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+
+			},
+			{
+
+				"name": "BAJIE",
+
+				"file": [
+
+					"BAJIE Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+			{
+
+				"name": "BAJIE SANCAI FLANGE",
+
+				"file": [
+
+					"BAJIE SANCAI FLANGE"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+
+			},
+			{
+
+				"name": "BAJIE SANCAI REGULAR",
+
+				"file": [
+
+					"BAJIE SANCAI REGULAR"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+
+			},
+			{
+
+				"name": "BAJIE SANCAI WIDE",
+
+				"file": [
+
+					"BAJIE SANCAI WIDE"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+
+			},
 
 			{
 
