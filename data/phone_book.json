@@ -6491,6 +6491,91 @@
 
 				]
 
+			},	
+			{
+
+				"name": "Origin",
+
+				"file": [
+
+					"Origin Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+			{
+
+				"name": "Origin AZLA CLEAR",
+
+				"file": [
+
+					"Origin AZLA CLEAR"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+
+			},
+			{
+
+				"name": "Origin Sancai Flange",
+
+				"file": [
+
+					"Origin Sancai Flange"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+
+			},
+			{
+
+				"name": "Origin Sancai Regular",
+
+				"file": [
+
+					"Origin Sancai Regular"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+
+			},
+			{
+
+				"name": "Origin Sancai Wide",
+
+				"file": [
+
+					"Origin Sancai Wide"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+
 			},				
 
 			{
