@@ -2956,6 +2956,23 @@
 				]
 
 			},
+			{
+
+				"name": "Celest Ignite X Beast",
+
+				"file": [
+
+					"Kinera Ignite"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
 
 			{
 
@@ -3885,6 +3902,23 @@
 				"file": [
 
 					"Moondrop Chu 2 DSP Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+			{
+
+				"name": "KATO",
+
+				"file": [
+
+					"KATO"
 
 				],
 
@@ -5601,6 +5635,23 @@
 				"file": [
 
 					"Softears RSV Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+			{
+
+				"name": "Studio 4",
+
+				"file": [
+
+					"STUDIO 4 FOAM"
 
 				],
 
