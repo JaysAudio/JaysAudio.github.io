@@ -2611,6 +2611,102 @@
 		]
 
 	},
+	{
+
+		"name": "IO",
+
+		"phones": [
+
+			{
+
+				"name": "SOGNO FOAM F49",
+
+				"file": [
+
+					"SOGNO FOAM F49"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+
+			},
+			{
+
+				"name": "SOGNO 1-TW45",
+
+				"file": [
+
+					"SOGNO 1-TW45"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+
+			},
+			{
+
+				"name": "SOGNO 2-TW40",
+
+				"file": [
+
+					"SOGNO 2-TW40"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+
+			},
+			{
+
+				"name": "SOGNO 3-ST50",
+
+				"file": [
+
+					"SOGNO 3-ST50"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+
+			},
+			{
+
+				"name": "SOGNO 4-TW43",
+
+				"file": [
+
+					"SOGNO 4-TW43"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+
+			}
+
+		]
+
+	},
+
 
 	{
 
