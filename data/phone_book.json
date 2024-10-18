@@ -4095,6 +4095,40 @@
 			},
 			{
 
+				"name": "KADENZ NOZZLE B",
+
+				"file": [
+
+					"KADENZ FOAM NOZZLE B"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+			{
+
+				"name": "KADENZ NOZZLE B",
+
+				"file": [
+
+					"KADENZ SPRING NOZZLE B"
+
+				],
+
+				"suffix": [
+
+					"Spring Tips"
+
+				]
+
+			},
+			{
+
 				"name": "KATO",
 
 				"file": [
