@@ -4095,7 +4095,7 @@
 			},
 			{
 
-				"name": "KADENZ NOZZLE B",
+				"name": "KADENZ",
 
 				"file": [
 
@@ -4112,7 +4112,7 @@
 			},
 			{
 
-				"name": "KADENZ NOZZLE B SPRING",
+				"name": "KADENZ SPRING",
 
 				"file": [
 
@@ -4127,23 +4127,7 @@
 				]
 
 			},
-			{
 
-				"name": "KADENZ NOZZLE C",
-
-				"file": [
-
-					"KADENZ FOAM NOZZLE C"
-
-				],
-
-				"suffix": [
-
-					"Foam"
-
-				]
-
-			},
 			{
 
 				"name": "KATO",
