@@ -4112,7 +4112,7 @@
 			},
 			{
 
-				"name": "KADENZ NOZZLE B",
+				"name": "KADENZ NOZZLE B SPRING",
 
 				"file": [
 
@@ -4122,7 +4122,24 @@
 
 				"suffix": [
 
-					"Spring Tips"
+					"Tips"
+
+				]
+
+			},
+			{
+
+				"name": "KADENZ NOZZLE C",
+
+				"file": [
+
+					"KADENZ FOAM NOZZLE C"
+
+				],
+
+				"suffix": [
+
+					"Foam"
 
 				]
 
