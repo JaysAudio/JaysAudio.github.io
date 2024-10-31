@@ -1504,6 +1504,23 @@
 
 			{
 
+				"name": "HBB DEUCE",
+
+				"file": [
+
+					"DEUCE"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+			{
+
 				"name": "Maestro Mini",
 
 				"file": [
@@ -1526,23 +1543,6 @@
 				"file": [
 
 					"Fatfreq Scarlet Mini Foam"
-
-				],
-
-				"suffix": [
-
-					"Foam"
-
-				]
-
-			}
-			{
-
-				"name": "x HBB DEUCE",
-
-				"file": [
-
-					"DEUCE"
 
 				],
 
