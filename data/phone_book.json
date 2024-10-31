@@ -1501,23 +1501,6 @@
 		"name": "FATfreq",
 
 		"phones": [
-			{
-
-				"name": "x HBB DEUCE",
-
-				"file": [
-
-					"DEUCE"
-
-				],
-
-				"suffix": [
-
-					"Foam"
-
-				]
-
-			},
 
 			{
 
@@ -1543,6 +1526,23 @@
 				"file": [
 
 					"Fatfreq Scarlet Mini Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			}
+			{
+
+				"name": "x HBB DEUCE",
+
+				"file": [
+
+					"DEUCE"
 
 				],
 
