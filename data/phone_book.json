@@ -3013,24 +3013,6 @@
 		"name": "Kefine",
 
 		"phones": [
-
-			{
-
-				"name": "Klanar",
-
-				"file": [
-
-					"Kefine Klanar Foam"
-
-				],
-
-				"suffix": [
-
-					"Foam"
-
-				]
-
-			},
 			{
 
 				"name": "Delci",
@@ -3081,8 +3063,59 @@
 
 				]
 
-			}
+			},
+			{
 
+				"name": "Klanar",
+
+				"file": [
+
+					"Kefine Klanar Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+			{
+
+				"name": "Klean",
+
+				"file": [
+
+					"KLEAN"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+			{
+
+				"name": "Klean Black Nozzle",
+
+				"file": [
+
+					"KLEAN BLACK NOZZLE"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			}
+			
 		]
 
 	},
