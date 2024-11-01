@@ -3696,7 +3696,24 @@
 		"name": "Letshuoer",
 
 		"phones": [
-	
+			{
+
+				"name": "Aoshida E20",
+
+				"file": [
+
+					"E20"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+		
 			{
 
 				"name": "Cadenza 4",
