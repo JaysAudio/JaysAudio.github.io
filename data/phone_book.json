@@ -141,6 +141,23 @@
 			},
 			{
 
+				"name": "G1",
+
+				"file": [
+
+					"7HZ G1"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+			{
+
 				"name": "Legato",
 
 				"file": [
@@ -8031,6 +8048,23 @@
 			},
 			{
 
+				"name": "HBB ARCADIA",
+
+				"file": [
+
+					"ARCADIA"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+			{
+
 				"name": "x JAY ESTRELLA Prototype",
 
 				"file": [
@@ -8202,6 +8236,23 @@
 				"file": [
 
 					"ZIIGAAT NUO Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+			{
+
+				"name": "ODYSSEY",
+
+				"file": [
+
+					"ODYSSEY"
 
 				],
 
