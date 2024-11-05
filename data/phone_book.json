@@ -378,6 +378,23 @@
 
 			{
 
+				"name": "Performer 5+2",
+
+				"file": [
+
+					"5+2"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+			{
+
 				"name": "Performer8",
 
 				"file": [
@@ -1109,7 +1126,24 @@
 
 				]
 
-			},		
+			},
+			{
+
+				"name": "Kima 2",
+
+				"file": [
+
+					"KIMA 2"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},			
 
 			{
 
@@ -1461,6 +1495,23 @@
 				"file": [
 
 					"EPZ Q5 Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+			{
+
+				"name": "Q5 PRO",
+
+				"file": [
+
+					"Q5 PRO"
 
 				],
 
