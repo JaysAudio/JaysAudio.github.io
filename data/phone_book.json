@@ -5908,6 +5908,50 @@
 		]
 
 	},
+	{
+
+		"name": "SIVGA",
+
+		"phones": [
+			{
+
+				"name": "NIGHTINGALE",
+
+				"file": [
+
+					"NIGHTINGALE"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+
+			{
+
+				"name": "QUE",
+
+				"file": [
+
+					"QUE"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			}
+	
+		]
+
+	},
 
 	{
 
