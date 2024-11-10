@@ -6554,6 +6554,74 @@
 			},
 			{
 
+				"name": "XUAN WU GATE",
+
+				"file": [
+
+					"XWG FOAM"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+			{
+
+				"name": "XUAN WU GATE AZLA",
+
+				"file": [
+
+					"XWG AZLA"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+
+			},
+			{
+
+				"name": "XUAN WU GATE SANCAI",
+
+				"file": [
+
+					"XWG SANCAI"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+
+			},
+			{
+
+				"name": "XUAN WU GATE SANCAI WIDE",
+
+				"file": [
+
+					"XWG SANCAI WIDE"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+
+			},
+			{
+
 				"name": "YU XUAN JI",
 
 				"file": [
