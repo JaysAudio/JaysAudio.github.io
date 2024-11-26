@@ -251,7 +251,7 @@
 			},
 			{
 
-				"name": "xHBB ELUA",
+				"name": "x HBB ELUA",
 
 				"file": [
 
@@ -261,6 +261,42 @@
 
 				"suffix": [
 
+					"Foam"
+				
+				]
+
+			},
+			{
+
+				"name": "x HBB ELUA SANCAI",
+
+				"file": [
+
+					"ELUA SANCAI"
+
+				],
+
+				"suffix": [
+
+					"tips"
+				
+				]
+
+			},
+			{
+
+				"name": "x HBB ELUA SANCAI WIDE",
+
+				"file": [
+
+					"ELUA SANCAI WIDE"
+
+				],
+
+				"suffix": [
+
+					"tips"
+				
 				]
 
 			}
