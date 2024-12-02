@@ -5759,6 +5759,40 @@
 				]
 
 			},
+			{
+
+				"name": "ET142 BLUE NOZZLE",
+
+				"file": [
+
+					"ET142 BLUE"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+			
+			},
+			{
+
+				"name": "ET142 SILVER NOZZLE",
+
+				"file": [
+
+					"ET142 SILVER"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+			
+			},
 
 			{
 
