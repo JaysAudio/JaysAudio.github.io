@@ -5778,6 +5778,91 @@
 			},
 			{
 
+				"name": "ET142 BLUE NOZZLE AZLA",
+
+				"file": [
+
+					"ET142 BLUE AZLA SEDNA"
+
+				],
+
+				"suffix": [
+
+					"tips"
+
+				]
+			
+			},
+			{
+
+				"name": "ET142 BLUE NOZZLE KIWIEARS",
+
+				"file": [
+
+					"ET142 BLUE KIWIEARS"
+
+				],
+
+				"suffix": [
+
+					"tips"
+
+				]
+			
+			},
+			{
+
+				"name": "ET142 BLUE NOZZLE KIWIEARS",
+
+				"file": [
+
+					"ET142 BLUE KIWIEARS"
+
+				],
+
+				"suffix": [
+
+					"tips"
+
+				]
+			
+			},
+			{
+
+				"name": "ET142 BLUE NOZZLE SANCAI REGULAR",
+
+				"file": [
+
+					"ET142 BLUE SANCAI"
+
+				],
+
+				"suffix": [
+
+					"tips"
+
+				]
+			
+			},
+			{
+
+				"name": "ET142 BLUE NOZZLE SANCAI WIDE",
+
+				"file": [
+
+					"ET142 BLUE SANCAI WIDE"
+
+				],
+
+				"suffix": [
+
+					"tips"
+
+				]
+			
+			},
+			{
+
 				"name": "ET142 SILVER NOZZLE",
 
 				"file": [
