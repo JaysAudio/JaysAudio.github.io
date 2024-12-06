@@ -232,6 +232,75 @@
 				]
 	
 			},
+			
+			{
+
+				"name": "Timeless 2 GOLD NOZZLE",
+
+				"file": [
+
+					"TIMELESS GOLD NOZZLE"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+	
+			},
+			{
+
+				"name": "Timeless 2 SILVER NOZZLE",
+
+				"file": [
+
+					"TIMELESS SILVER NOZZLE"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+	
+			},
+			{
+
+				"name": "Timeless 2 BIG GOLD NOZZLE",
+
+				"file": [
+
+					"BIG GOLD NOZZLE"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+	
+			},
+			{
+
+				"name": "Timeless 2 BIG SILVER NOZZLE",
+
+				"file": [
+
+					"BIG SILVER NOZZLE"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+	
+			},
 			{
 
 				"name": "Sonus",
