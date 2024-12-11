@@ -5915,6 +5915,23 @@
 			},
 			{
 
+				"name": "ET142 BLUE NOZZLE BAMBOO",
+
+				"file": [
+
+					"ET142 BAMBOO"
+
+				],
+
+				"suffix": [
+
+					"tips"
+
+				]
+			
+			},
+			{
+
 				"name": "ET142 BLUE NOZZLE KIWIEARS",
 
 				"file": [
@@ -5954,6 +5971,23 @@
 				"file": [
 
 					"ET142 BLUE SANCAI WIDE"
+
+				],
+
+				"suffix": [
+
+					"tips"
+
+				]
+			
+			},
+			{
+
+				"name": "ET142 BLUE-NOZ SANCAI WIDE 300 MESH",
+
+				"file": [
+
+					"ET142 SANCAI WIDE 300 MESH"
 
 				],
 
