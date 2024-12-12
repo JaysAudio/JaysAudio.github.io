@@ -1195,6 +1195,41 @@
 		"name": "DUNU",
 
 		"phones": [
+			
+ 			{
+
+				"name": "DK3001BD Braindance",
+
+				"file": [
+
+					"DUNU BD"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+			{
+
+				"name": "DK3001BD Braindance 80hms",
+
+				"file": [
+
+					"DUNU BD 80hms"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
 			{
 
 				"name": "Falcon Ultra BLUE",
