@@ -764,6 +764,23 @@
 
 				]
 
+			},
+			{
+
+				"name": "T10 Pro",
+
+				"file": [
+
+					"T10 PRO"
+
+				],
+
+				"suffix": [
+
+					"(Foam)"
+
+				]
+
 			}
 
 
@@ -3093,11 +3110,27 @@
 			},
 			{
 
-				"name": "61t",
+				"name": "61T",
 
 				"file": [
 
 					"Juzear 61T Foam"
+
+				],
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+			{
+
+				"name": "81T",
+
+				"file": [
+
+					"81T"
 
 				],
 				"suffix": [
@@ -4661,6 +4694,23 @@
 				"file": [
 
 					"NICEHCK F1 PRO Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+			{
+
+				"name": "NX8",
+
+				"file": [
+
+					"NX8"
 
 				],
 
