@@ -870,6 +870,40 @@
 
 			{
 
+				"name": "BQ10",
+
+				"file": [
+
+					"BQ10"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+			{
+
+				"name": "FROST",
+
+				"file": [
+
+					"FROST"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+			{
+
 				"name": "WIND",
 
 				"file": [
