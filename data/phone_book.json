@@ -3447,6 +3447,24 @@
 
 			{
 
+				"name": "Celest Adonis New",
+
+				"file": [
+
+					"ADONIS NEW"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+
+			{
+
 				"name": "Celest Dark Phoenix",
 
 				"file": [
@@ -3469,6 +3487,23 @@
 				"file": [
 
 					"Kinera Ignite"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+			{
+
+				"name": "Celest Mimosa",
+
+				"file": [
+
+					"MIMOSA"
 
 				],
 
@@ -3541,6 +3576,23 @@
 				"file": [
 
 					"Kinera Celest Relentless Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+			{
+
+				"name": "Celest Rue",
+
+				"file": [
+
+					"RUE"
 
 				],
 
