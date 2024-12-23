@@ -575,6 +575,34 @@
 		]
 
 	},
+	{
+
+		"name": "Apevoix",
+
+		"phones": [
+
+			{
+
+				"name": "GRIT",
+
+				"file": [
+
+					"GRIT"
+
+				],
+
+				"suffix": [
+
+					"(Foam)"
+
+				]
+
+			}
+
+		]
+
+	},
+
 
 	{
 
@@ -828,6 +856,23 @@
 				"file": [
 
 					"Blon BL03 Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+			{
+
+				"name": "BL03 2",
+
+				"file": [
+
+					"BLON 2"
 
 				],
 
@@ -7970,6 +8015,23 @@
 				"file": [
 
 					"TinHifi T5S Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+			{
+
+				"name": "T7",
+
+				"file": [
+
+					"T7"
 
 				],
 
