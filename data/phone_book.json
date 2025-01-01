@@ -6131,40 +6131,6 @@
 			},
 			{
 
-				"name": "ET142 BLUE NOZZLE BAMBOO",
-
-				"file": [
-
-					"ET142 BAMBOO"
-
-				],
-
-				"suffix": [
-
-					"tips"
-
-				]
-			
-			},
-			{
-
-				"name": "ET142 BLUE NOZZLE KIWIEARS",
-
-				"file": [
-
-					"ET142 BLUE KIWIEARS"
-
-				],
-
-				"suffix": [
-
-					"tips"
-
-				]
-			
-			},
-			{
-
 				"name": "ET142 BLUE NOZZLE SANCAI REGULAR",
 
 				"file": [
@@ -6199,7 +6165,7 @@
 			},
 			{
 
-				"name": "ET142 BLUE-NOZ SANCAI WIDE 300 MESH",
+				"name": "ET142 BLUE-NOZZLE SANCAI WIDE 300 MESH",
 
 				"file": [
 
@@ -6216,7 +6182,7 @@
 			},
 			{
 
-				"name": "ET142 SILVER NOZZLE",
+				"name": "ET142 NEW BLACK NOZZLE",
 
 				"file": [
 
@@ -6226,7 +6192,7 @@
 
 				"suffix": [
 
-					"Foam"
+					"SANCAI WIDE"
 
 				]
 			
