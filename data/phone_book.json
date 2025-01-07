@@ -6664,7 +6664,76 @@
 
 				]
 
+			},
+			{
+
+				"name": "Volume S",
+
+				"file": [
+
+					"VOLUME S FOAM"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+			{
+
+				"name": "Volume S CLEAR",
+
+				"file": [
+
+					"VOLUME S CLEAR"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+
 			}
+			{
+
+				"name": "Volume S USBC",
+
+				"file": [
+
+					"VOLUME S FOAM USBC"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			}
+			{
+
+				"name": "Volume S USBC CLEAR",
+
+				"file": [
+
+					"VOLUME S CLEAR USBC"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+
+			},
+
 
 		]
 
@@ -7156,6 +7225,40 @@
 				"suffix": [
 
 					"Foam"
+
+				]
+
+			},
+			{
+
+				"name": "Wu Zetian LEGEND",
+
+				"file": [
+
+					"WUZETIAN LEGEND FOAM"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+			{
+
+				"name": "Wu Zetian LEGEND SANCAI WIDE",
+
+				"file": [
+
+					"WUZETIAN LEGEND SW"
+
+				],
+
+				"suffix": [
+
+					"Tips"
 
 				]
 
