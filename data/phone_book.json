@@ -4679,8 +4679,42 @@
 
 				]
 
-			},			
+			},
+			{
 
+				"name": "METEOR Clear Stock",
+
+				"file": [
+
+					"METEOR CLEAR"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+
+			},			
+			{
+
+				"name": "METEOR",
+
+				"file": [
+
+					"METEOR FOAM"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+			
 			{
 
 				"name": "Starfield II",
