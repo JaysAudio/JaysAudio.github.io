@@ -1686,6 +1686,57 @@
 			},
 			{
 
+				"name": "P50",
+
+				"file": [
+
+					"P50"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+			{
+
+				"name": "P50 CLEAR",
+
+				"file": [
+
+					"P50 CLEAR"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+
+			},
+			{
+
+				"name": "P50 SANCAI WIDE",
+
+				"file": [
+
+					"P50 SW"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+
+			},
+			{
+
 				"name": "Q1 PRO",
 
 				"file": [
