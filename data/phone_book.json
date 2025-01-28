@@ -4218,6 +4218,64 @@
 
 				]
 
+			},
+			{
+
+				"name": "ZENITH 1100",
+
+				"collab": "HBB",
+
+				"file": [
+
+					"ZENITH 1100"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+
+			{
+
+				"name": "ZENITH ALL OFF",
+
+				"collab": "HBB",
+
+				"file": [
+
+					"ZENITH OFF"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+			{
+
+				"name": "ZENITH ALL ON",
+
+				"collab": "HBB",
+
+				"file": [
+
+					"ZENITH ON"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
 			}
 
 		]
@@ -5614,6 +5672,23 @@
 				],
 
 				"name": "Yume",
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+			{
+
+				"name": "YUME 4",
+
+				"file": [
+
+					"YUME 4"
+
+				],
 
 				"suffix": [
 
@@ -7971,7 +8046,7 @@
 
 				"file": [
 
-					"ThieAudio Prestige LTD Foam"
+					"LTD"
 
 				],
 
