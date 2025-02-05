@@ -4924,6 +4924,169 @@
 		]
 
 	},
+	{
+
+		"name": "MYER",
+
+		"phones": [
+		
+			{
+
+				"name": "CK2V",
+
+				"file": [
+
+					"CK2V"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+			{
+
+				"name": "CKLVX",
+
+				"file": [
+
+					"SLIIVO CKLVX Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+			{
+
+				"name": "CKLVX D62",
+
+				"file": [
+
+					"D62 FOAM"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+			{
+
+				"name": "CKLVX D62 AZLA",
+
+				"file": [
+
+					"D62 AZLA"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+
+			},
+			{
+
+				"name": "CKLVX D62 SANCAI",
+
+				"file": [
+
+					"D62 SANCAI"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+
+			},
+			{
+
+				"name": "CKLVX D62 SANCAI WIDE",
+
+				"file": [
+
+					"D62 SANCAI WIDE"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+
+			},
+			{
+
+				"name": "CKLVX D62 STOCK",
+
+				"file": [
+
+					"D62 STOCK"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+
+			},
+			{
+
+				"name": "SLIIVO SLA3",
+
+				"file": [
+
+					"SLA3"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},				
+			{
+
+				"name": "SLIIVO SL41",
+
+				"file": [
+
+					"SLIIVO 1+4 Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			}
+	
+		]
+
+	},
 
 	{
 
@@ -6673,137 +6836,6 @@
 		]
 
 	},
-
-	{
-
-		"name": "SLIIVO",
-
-		"phones": [
-		
-			{
-
-				"name": "CKLVX",
-
-				"file": [
-
-					"SLIIVO CKLVX Foam"
-
-				],
-
-				"suffix": [
-
-					"Foam"
-
-				]
-
-			},
-			{
-
-				"name": "CKLVX D62",
-
-				"file": [
-
-					"D62 FOAM"
-
-				],
-
-				"suffix": [
-
-					"Foam"
-
-				]
-
-			},
-			{
-
-				"name": "CKLVX D62 AZLA",
-
-				"file": [
-
-					"D62 AZLA"
-
-				],
-
-				"suffix": [
-
-					"Tips"
-
-				]
-
-			},
-			{
-
-				"name": "CKLVX D62 SANCAI",
-
-				"file": [
-
-					"D62 SANCAI"
-
-				],
-
-				"suffix": [
-
-					"Tips"
-
-				]
-
-			},
-			{
-
-				"name": "CKLVX D62 SANCAI WIDE",
-
-				"file": [
-
-					"D62 SANCAI WIDE"
-
-				],
-
-				"suffix": [
-
-					"Tips"
-
-				]
-
-			},
-			{
-
-				"name": "CKLVX D62 STOCK",
-
-				"file": [
-
-					"D62 STOCK"
-
-				],
-
-				"suffix": [
-
-					"Tips"
-
-				]
-
-			},				
-			{
-
-				"name": "SL41",
-
-				"file": [
-
-					"SLIIVO 1+4 Foam"
-
-				],
-
-				"suffix": [
-
-					"Foam"
-
-				]
-
-			}
-	
-		]
-
-	},
-
 
 	{
 
