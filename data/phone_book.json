@@ -7792,6 +7792,23 @@
 				]
 
 			},
+			{
+
+				"name": "Bunny DSP",
+
+				"file": [
+
+					"BUNNY DSP"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
 
 			{
 
@@ -7800,6 +7817,23 @@
 				"file": [
 
 					"Tanchjim One Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+			{
+
+				"name": "One ULTIMA",
+
+				"file": [
+
+					"ULTIMA"
 
 				],
 
@@ -8837,6 +8871,40 @@
 					"10 Ohm (Foam)",
 
 					"Stock (Foam)"
+
+				]
+
+			},
+			{
+
+				"name": "x Crinacle ZERO BLUE 2",
+
+				"file": [
+
+					"BLUE 2"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+			{
+
+				"name": "x Crinacle ZERO BLUE 2 (5OHMS IMPEDANCE)",
+
+				"file": [
+
+					"BLUE 2 IMP"
+
+				],
+
+				"suffix": [
+
+					"Foam"
 
 				]
 
