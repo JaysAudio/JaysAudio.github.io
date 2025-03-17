@@ -8684,6 +8684,57 @@
 
 				]
 
+			},
+			{
+
+				"name": "JAWS BLACK NOZZLE",
+
+				"file": [
+
+					"JAWS BLACK"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+			{
+
+				"name": "JAWS GREEN NOZZLE",
+
+				"file": [
+
+					"JAWS GREEN"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+			{
+
+				"name": "JAWS RED NOZZLE",
+
+				"file": [
+
+					"JAWS RED"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
 			}
 
 		]
