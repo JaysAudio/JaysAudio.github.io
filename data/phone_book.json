@@ -1600,6 +1600,23 @@
 
 				]
 
+			},
+			{
+
+				"name": "TRITON",
+
+				"file": [
+
+					"TRITON"
+					
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
 			}
 
 
@@ -5135,6 +5152,23 @@
 				"file": [
 
 					"ND 001 Nano Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+			{
+
+				"name": "PLANET",
+
+				"file": [
+
+					"ND PLANET"
 
 				],
 
@@ -9121,6 +9155,57 @@
 					"s.010 - (Foam)",
 
 					"s.001 - (Foam)"
+
+				]
+
+			},
+			{
+
+				"name": "Cannon Pro ALL OFF",
+
+				"file": [
+
+					"CANNON PRO ALL OFF"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+			{
+
+				"name": "Cannon Pro ALL ON",
+
+				"file": [
+
+					"CANNON PRO ALL ON"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+			{
+
+				"name": "Cannon Pro ON OFF",
+
+				"file": [
+
+					"CANNON PRO ON OFF"
+
+				],
+
+				"suffix": [
+
+					"Foam"
 
 				]
 
