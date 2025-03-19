@@ -1257,6 +1257,67 @@
 		]
 
 	},
+	{
+
+		"name": "CRINEAR",
+
+		"phones": [
+
+			{
+
+				"name": "META",
+
+				"file": [
+
+					"META STOCK"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+			{
+
+				"name": "META SANCAI REG",
+
+				"file": [
+
+					"META SANCAI REG"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+			{
+
+				"name": "META SANCAI WIDE",
+
+				"file": [
+
+					"META SANCAI WIDE"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			}
+
+		]
+
+	},
 
 	{
 
@@ -7827,23 +7888,6 @@
 				]
 
 			},
-			{
-
-				"name": "One ULTIMA",
-
-				"file": [
-
-					"ULTIMA"
-
-				],
-
-				"suffix": [
-
-					"Foam"
-
-				]
-
-			},
 			
 			{
 
@@ -7906,6 +7950,40 @@
 				"file": [
 
 					"Tanchjim Origin MOD (Tanya Filter + SPONGE + H570 TIPS) Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+			{
+
+				"name": "Zero ULTIMA 3.5MM",
+
+				"file": [
+
+					"ULTIMA 3.5"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+			{
+
+				"name": "Zero ULTIMA DSP",
+
+				"file": [
+
+					"ULTIMA"
 
 				],
 
