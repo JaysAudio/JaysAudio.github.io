@@ -1556,6 +1556,50 @@
 		]
 
 	},
+	{
+
+		"name": "EarAcoustic",
+
+		"phones": [
+			{
+
+				"name": "STA Hi-End",
+
+				"file": [
+
+					"STA HIEND SILVER"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+			
+ 			{
+
+				"name": "STA PRO",
+
+				"file": [
+
+					"STA PRO BLUE"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			}
+
+		]
+
+	},
 
 	{
 
@@ -7572,7 +7616,24 @@
 			},
 			{
 
-				"name": "Wan'er S.G",
+				"name": "Wan’er 2",
+
+				"file": [
+
+					"WANER 2 Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+			{
+
+				"name": "Wan'er Studio",
 
 				"file": [
 
