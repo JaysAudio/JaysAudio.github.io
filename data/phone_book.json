@@ -9606,6 +9606,23 @@
 
 			{
 
+				"name": "ARCANIS",
+
+				"file": [
+
+					"ARCANIS"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+			{
+
 				"name": "CINNO",
 
 				"file": [
@@ -9679,6 +9696,23 @@
 				"file": [
 
 					"ARCADIA"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+			{
+
+				"name": "LUSH",
+
+				"file": [
+
+					"LUSH"
 
 				],
 
