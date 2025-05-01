@@ -2322,6 +2322,23 @@
 		"phones": [
 			{
 
+				"name": "MEGA5-EST 7th",
+
+				"file": [
+
+					"M5EST"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+			{
+
 				"name": "MEGA5-EST BASS",
 
 				"file": [
@@ -3378,6 +3395,22 @@
 				"file": [
 
 					"Juzear Clear Foam"
+
+				],
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+			{
+
+				"name": "x ZEOS DEFIANT",
+
+				"file": [
+
+					"DEFIANT"
 
 				],
 				"suffix": [
@@ -6068,6 +6101,23 @@
 				"file": [
 
 					"YUME 4"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+			{
+
+				"name": "X ZEOS RINKO",
+
+				"file": [
+
+					"RINKO"
 
 				],
 
