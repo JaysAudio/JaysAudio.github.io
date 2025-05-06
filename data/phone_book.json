@@ -1563,11 +1563,62 @@
 		"phones": [
 			{
 
+				"name": "SPA Hi-End Max",
+
+				"file": [
+
+					"SPAHIENDMAX"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+			{
+
+				"name": "SPA Limited Edition",
+
+				"file": [
+
+					"SPALIMITED"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+			{
+
 				"name": "STA Hi-End",
 
 				"file": [
 
 					"STA HIEND SILVER"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+			{
+
+				"name": "STA Hi-End Max",
+
+				"file": [
+
+					"STAHIENDMAX"
 
 				],
 
