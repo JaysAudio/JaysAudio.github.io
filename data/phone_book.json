@@ -1421,7 +1421,57 @@
 				]
 
 			},		
+			{
 
+				"name": "Glacier",
+
+				"file": [
+
+					"GLACIER"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+			{
+
+				"name": "Glacier Sancai Regular",
+
+				"file": [
+
+					"GLACIER SR"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+
+			},
+			{
+
+				"name": "Glacier Sancai Wide",
+
+				"file": [
+
+					"GLACIER SW"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+
+			},				
 		
 			{
 
@@ -8350,6 +8400,23 @@
 				]
 
 			},
+			{
+
+				"name": "Monarch MKI",
+
+				"file": [
+
+					"MK1"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},	
 
 			{
 
