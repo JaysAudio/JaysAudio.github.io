@@ -9696,6 +9696,23 @@
 			},
 			{
 
+				"name": "UP",
+
+				"file": [
+
+					"XENNS UP SF W1"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			}
+			{
+
 				"name": "UP AZLA SEDNA",
 
 				"file": [
@@ -9711,24 +9728,24 @@
 				]
 
 			},
-
 			{
 
-				"name": "UP",
+				"name": "UP SPINTFIT",
 
 				"file": [
 
-					"XENNS UP SF W1"
+					"UP SPINFIT"
 
 				],
 
 				"suffix": [
 
-					"SF W1"
+					"Tips"
 
 				]
 
 			}
+
 
 		]
 
