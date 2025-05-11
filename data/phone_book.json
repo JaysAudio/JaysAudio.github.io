@@ -4301,6 +4301,23 @@
 				]
 
 			},
+			{
+
+				"name": "Orchestra Lite",
+
+				"file": [
+
+					"ORCHLITE"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
 
 
 			{
@@ -4350,7 +4367,40 @@
 				]
 
 			},
-			
+			{
+
+				"name": "Quintet",
+
+				"file": [
+
+					"QUINTET"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+			{
+
+				"name": "Septet",
+
+				"file": [
+
+					"SEPTET"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
 			{
 
 				"name": "x Crinacle Singolo",
