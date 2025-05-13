@@ -2335,6 +2335,31 @@
 		"phones": [
 			{
 
+				"name": "MK12",
+
+				"file": [
+
+					"MK12 BRONZE",
+
+					"MK12 RED",
+
+					"MK12 SILVER"
+
+				],
+
+				"suffix": [
+
+					"BRONZE (Foam)",
+
+					"RED (Foam)",
+
+					"SILVER (Foam)"
+
+				]
+
+			},
+			{
+
 				"name": "MP143",
 
 				"file": [
@@ -2380,6 +2405,23 @@
 					"f.Red (Foam)",
 
 					"f.Silver (Foam)"
+
+				]
+
+			},
+			{
+
+				"name": "ST12 PRO",
+
+				"file": [
+
+					"ST12 PRO"
+
+				],
+
+				"suffix": [
+
+					"Foam"
 
 				]
 
@@ -4223,6 +4265,23 @@
 				"file": [
 
 					"Kiwi Ears Dolce Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+			{
+
+				"name": "Etude",
+
+				"file": [
+
+					"ETUDE"
 
 				],
 
@@ -9121,6 +9180,23 @@
 				"file": [
 
 					"Tripowin Piccolo Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+			{
+
+				"name": "Ruta 10",
+
+				"file": [
+
+					"RUTA10"
 
 				],
 
