@@ -2335,7 +2335,25 @@
 		"phones": [
 			{
 
-				"name": "MK12",
+				"name": "MK12 TURRIS RED CLARION",
+
+				"file": [
+
+					"MK12 RED CLARION"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+
+			},
+
+			{
+
+				"name": "MK12 TURRIS",
 
 				"file": [
 
@@ -5094,6 +5112,23 @@
 				"file": [
 
 					"Moondrop Aria 2 Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+			{
+		
+				"name": "Aria 2 RED",
+
+				"file": [
+
+					"ARIA 2 RED"
 
 				],
 
