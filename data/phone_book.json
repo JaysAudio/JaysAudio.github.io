@@ -2146,8 +2146,110 @@
 
 				]
 
-			}
+			},
+			{
 
+				"name": "QUANTUM STOCK NOZZLE CLARION",
+
+				"file": [
+
+					"Q STOCK CLARION"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+
+			},
+			{
+
+				"name": "QUANTUM STOCK NOZZLE ULTRACLEAR",
+
+				"file": [
+
+					"Q STOCK UC"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+
+			},
+			{
+
+				"name": "QUANTUM BLACK NOZZLE CLARION",
+
+				"file": [
+
+					"Q BLACK CLARION"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+
+			},
+			{
+
+				"name": "QUANTUM BLACK NOZZLE ULTRACLEAR"
+
+				"file": [
+
+					"Q BLACK UC"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+
+			},
+			{
+
+				"name": "QUANTUM BLUE NOZZLE CLARION"
+
+				"file": [
+
+					"Q BLUE CLARION"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+
+			},
+			{
+
+				"name": "QUANTUM BLUE NOZZLE ULTRACLEAR"
+
+				"file": [
+
+					"Q BLUE UC"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+
+			}
+			
 
 		]
 
