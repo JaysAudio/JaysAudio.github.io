@@ -2132,23 +2132,6 @@
 			},
 			{
 
-				"name": "Scarlet Mini",
-
-				"file": [
-
-					"Fatfreq Scarlet Mini Foam"
-
-				],
-
-				"suffix": [
-
-					"Foam"
-
-				]
-
-			},
-			{
-
 				"name": "QUANTUM STOCK NOZZLE CLARION",
 
 				"file": [
@@ -2248,8 +2231,24 @@
 
 				]
 
-			}
-			
+			},
+			{
+
+				"name": "Scarlet Mini",
+
+				"file": [
+
+					"Fatfreq Scarlet Mini Foam"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			}	
 
 		]
 
