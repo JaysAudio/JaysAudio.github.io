@@ -6281,6 +6281,47 @@
 		]
 
 	},
+{
+
+		"name": "Punch Audio",
+
+		"phones": [
+			{
+
+				"name": "MARTILO",
+
+				"file": [
+
+					"MARTILO AZLA"
+
+				],
+
+				"suffix": [
+
+					"AZLA SEDNA Tips"
+
+				]
+			},
+			{
+
+				"name": "MARTILO",
+
+				"file": [
+
+					"MARTILO"
+
+				],
+
+				"suffix": [
+
+					"Ultra Clear Tips"
+
+				]
+			}
+
+		]
+
+	},
 	
 	{
 
