@@ -3995,7 +3995,58 @@
 
 				]
 
-			}
+			},
+			{
+
+				"name": "Quatio Black Nozzle",
+
+				"file": [
+
+					"QUATIO BLACK"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+			{
+
+				"name": "Quatio Gold Nozzle",
+
+				"file": [
+
+					"QUATIO GOLD"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+			{
+
+				"name": "Quatio Silver Nozzle",
+
+				"file": [
+
+					"QUATIO SILVER"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
 			
 		]
 
