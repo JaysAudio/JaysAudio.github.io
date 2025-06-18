@@ -1587,6 +1587,23 @@
 			},
 			{
 
+				"name": "Vulkan 2",
+
+				"file": [
+
+					"VULKAN 2"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+			{
+
 				"name": "x Gizaudio Davinci",
 
 				"file": [
