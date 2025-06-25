@@ -8757,7 +8757,7 @@
 			},
 			{
 
-				"name": "FISSION SILVER (DOWN)",
+				"name": "FISSION SILVER (S-DOWN)",
 
 				"file": [
 
@@ -8774,7 +8774,7 @@
 			},
 			{
 
-				"name": "FISSION SILVER (MIDDLE)",
+				"name": "FISSION SILVER (S-MIDDLE)",
 
 				"file": [
 
@@ -8791,11 +8791,62 @@
 			},
 			{
 
-				"name": "FISSION SILVER (UP)",
+				"name": "FISSION SILVER (S-UP)",
 
 				"file": [
 
 					"FISSION SILVER UP"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+			{
+
+				"name": "FISSION SILVER (T-DOWN)",
+
+				"file": [
+
+					"FISSION SILVER T DOWN"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+			{
+
+				"name": "FISSION SILVER (T-MIDDLE)",
+
+				"file": [
+
+					"FISSION SILVER T MIDDLE"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+			{
+
+				"name": "FISSION SILVER (T-UP)",
+
+				"file": [
+
+					"FISSION SILVER T UP"
 
 				],
 
