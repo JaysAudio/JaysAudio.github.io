@@ -8704,6 +8704,108 @@
 				]
 
 			},
+			{
+
+				"name": "FISSION GOLD (DOWN)",
+
+				"file": [
+
+					"FISSION GOLD DOWN"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+			{
+
+				"name": "FISSION GOLD (MIDDLE)",
+
+				"file": [
+
+					"FISSION GOLD MIDDLE"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+			{
+
+				"name": "FISSION GOLD (UP)",
+
+				"file": [
+
+					"FISSION GOLD UP"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+			{
+
+				"name": "FISSION SILVER (DOWN)",
+
+				"file": [
+
+					"FISSION SILVER DOWN"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+			{
+
+				"name": "FISSION SILVER (MIDDLE)",
+
+				"file": [
+
+					"FISSION SILVER MIDDLE"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+			{
+
+				"name": "FISSION SILVER (UP)",
+
+				"file": [
+
+					"FISSION SILVER UP"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
 
 			{
 
