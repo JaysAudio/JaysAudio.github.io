@@ -2474,7 +2474,25 @@
 
 				]
 
+			},
+			{
+
+				"name": "CU8",
+
+				"file": [
+
+					"CU8"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
 			}
+
 
 		]
 
@@ -10758,6 +10776,23 @@
 				"file": [
 
 					"ARCADIA"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+			{
+
+				"name": "LUNA",
+
+				"file": [
+
+					"LUNA"
 
 				],
 
