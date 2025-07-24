@@ -1265,7 +1265,7 @@
 			
 			{
 
-				"name": "DAYBREAK Clear",
+				"name": "DAYBREAK",
 
 				"file": [
 
@@ -1275,24 +1275,7 @@
 
 				"suffix": [
 
-					"Tips"
-
-				]
-
-			},
-			{
-
-				"name": "DAYBREAK Stock",
-
-				"file": [
-
-					"DAYBREAK STOCK"
-
-				],
-
-				"suffix": [
-
-					"Tips"
+					"Foam"
 
 				]
 
