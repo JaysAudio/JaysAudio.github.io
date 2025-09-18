@@ -96,6 +96,23 @@
 			},
 			{
 
+				"name": "ELUA ULTRA",
+
+				"file": [
+
+					"ELUA ULTRA"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+			{
+
 				"name": "FIVE",
 
 				"file": [
@@ -2520,6 +2537,57 @@
 		"name": "Hidizs",
 
 		"phones": [
+			{
+
+				"name": "MK10 Black Nozzles",
+
+				"file": [
+
+					"MK10 BLACK"
+
+				],
+
+				"suffix": [
+
+					"Ultra Clear Tips"
+
+				]
+
+			},
+			{
+
+				"name": "MK10 RED Nozzles",
+
+				"file": [
+
+					"MK10 RED"
+
+				],
+
+				"suffix": [
+
+					"Ultra Clear Tips"
+
+				]
+
+			},
+			{
+
+				"name": "MK10 White Nozzles",
+
+				"file": [
+
+					"MK10 WHITE"
+
+				],
+
+				"suffix": [
+
+					"Ultra Clear Tips"
+
+				]
+
+			},
 			{
 
 				"name": "MK12 TURRIS RED CLARION",
@@ -7403,7 +7471,24 @@
 
 
 			},
-			
+			{
+
+				"name": "EG280 Ultra Clear",
+
+				"file": [
+
+					"EG280"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+
+
+			},
 			{
 
 				"name": "EM6L",
@@ -8451,6 +8536,40 @@
 				"suffix": [
 
 					"Foam"
+
+				]
+
+			},
+			{
+
+				"name": "FUDU 2 Sancai Regular",
+
+				"file": [
+
+					"FUDU V2 SR"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+
+			},
+			{
+
+				"name": "FUDU 2 Sancai Wide",
+
+				"file": [
+
+					"FUDU V2 SW"
+
+				],
+
+				"suffix": [
+
+					"Tips"
 
 				]
 
