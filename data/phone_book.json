@@ -5073,6 +5073,75 @@
 			},
 			{
 
+				"name": "Cadenza 12",
+
+				"file": [
+
+					"CAD12"
+
+				],
+
+				"suffix": [
+
+					"Ultra Clear Tips"
+
+				]
+
+			},
+			{
+
+				"name": "Cadenza 12",
+
+				"file": [
+
+					"CAD12 SW"
+
+				],
+
+				"suffix": [
+
+					"Stock White Tips"
+
+				]
+
+			},
+			{
+
+				"name": "Cadenza 12",
+
+				"file": [
+
+					"CAD12 SB"
+
+				],
+
+				"suffix": [
+
+					"Stock Black Green Tips"
+
+				]
+
+			},
+			{
+
+				"name": "Cadenza 12",
+
+				"file": [
+
+					"CAD12 SO"
+
+				],
+
+				"suffix": [
+
+					"Stock Orange Black Tips"
+
+				]
+
+			},
+
+			{
+
 				"name": "DX1 CLEAR",
 
 				"file": [
@@ -6066,6 +6135,23 @@
 				"suffix": [
 
 					"Foam"
+
+				]
+
+			},
+			{
+
+				"name": "ROCKIES",
+
+				"file": [
+
+					"ROCKIES"
+
+				],
+
+				"suffix": [
+
+					"Clear Stock Tips"
 
 				]
 
@@ -9200,7 +9286,7 @@
 
 				"file": [
 
-					"MK1"
+					"MMK1"
 
 				],
 
@@ -11201,6 +11287,23 @@
 				"suffix": [
 
 					"Foam"
+
+				]
+
+			},
+			{
+
+				"name": "ODYSSEY 2",
+
+				"file": [
+
+					"ODYSSEY 2"
+
+				],
+
+				"suffix": [
+
+					"Clear Stock Tips"
 
 				]
 
