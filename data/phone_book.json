@@ -11162,6 +11162,40 @@
 			},
 			{
 
+				"name": "HORIZON Stock Clear",
+
+				"file": [
+
+					"HORIZON CLEAR"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+
+			},
+			{
+
+				"name": "HORIZON Stock Black",
+
+				"file": [
+
+					"HORIZON BLACK"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+
+			},
+			{
+
 				"name": "LUNA",
 
 				"file": [
