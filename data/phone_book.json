@@ -11246,22 +11246,6 @@
 
 			},
 			{
-
-				"name": "x JAY ESTRELLA Prototype",
-
-				"file": [
-
-					"JAY ESTRELLA FOAM"
-
-				],
-
-				"suffix": [
-
-					"Foam"
-
-				]
-			},
-			{
 			
 
 				"name": "x JAY ESTRELLA",
@@ -11376,6 +11360,22 @@
 				"suffix": [
 
 					"Tips"
+
+				]
+			},
+			{
+
+				"name": "x JAY ESTRELLA Prototype",
+
+				"file": [
+
+					"JAY ESTRELLA FOAM"
+
+				],
+
+				"suffix": [
+
+					"Foam"
 
 				]
 			},
