@@ -5777,7 +5777,41 @@
 				]
 
 			},
+			{
 
+				"name": "LAN 2 POP",
+
+				"file": [
+
+					"LAN 2 POP"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},
+			{
+
+				"name": "LAN 2 REF",
+
+				"file": [
+
+					"LAN 2 REF"
+
+				],
+
+				"suffix": [
+
+					"Foam"
+
+				]
+
+			},		
+			
 			{
 
 				"name": "MAY 3.5MM",
@@ -9178,6 +9212,23 @@
 				"suffix": [
 
 					"Tips"
+
+				]
+
+			},
+			{
+
+				"name": "Nora",
+
+				"file": [
+
+					"NORA CLEAR"
+
+				],
+
+				"suffix": [
+
+					"Foam"
 
 				]
 
