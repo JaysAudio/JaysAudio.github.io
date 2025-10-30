@@ -94,6 +94,7 @@
 				]
 
 			},
+		
 			{
 
 				"name": "ELUA ULTRA",
@@ -332,6 +333,40 @@
 
 					"Foam"
 				
+				]
+
+			},
+			{
+
+				"name": "x Crinacle Diablo Stock",
+
+				"file": [
+
+					"DIABLO"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+
+			},
+			{
+
+				"name": "x Crinacle Divine Stock",
+
+				"file": [
+
+					"DIVINE"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
 				]
 
 			},
@@ -3549,7 +3584,42 @@
 
 				]
 
+			},
+			{
+
+				"name": "Twilight Stock Black",
+
+				"file": [
+
+					"INAWAKEN TWILIGHT"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+
+			},
+			{
+
+				"name": "Twilight Stock Grey",
+
+				"file": [
+
+					"INAWAKEN TWILIGHT GREY"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+
 			}
+
 
 		]
 
@@ -9724,6 +9794,74 @@
 				"suffix": [
 
 					"Foam"
+
+				]
+
+			},
+			{
+
+				"name": "Valhalla Sancai Wide",
+
+				"file": [
+
+					"VALHALLA SW"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+
+			},
+			{
+
+				"name": "Valhalla Stock Foam",
+
+				"file": [
+
+					"VALHALLA FOAM"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+
+			},
+			{
+
+				"name": "Valhalla Stock White",
+
+				"file": [
+
+					"VALHALLA STOCK"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+
+			},
+			{
+
+				"name": "Valhalla Ultra Clear",
+
+				"file": [
+
+					"VALHALLA CLEAR"
+
+				],
+
+				"suffix": [
+
+					"Tips"
 
 				]
 
