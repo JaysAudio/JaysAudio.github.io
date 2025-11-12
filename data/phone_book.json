@@ -11555,11 +11555,79 @@
 			{
 			
 
-				"name": "x JAY ESTRELLA Baroque Eletech",
+				"name": "x JAY ESTRELLA AZLA SEDNA MITHRYL",
 
 				"file": [
 
-					"ELETECH"
+					"MITHRYL"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+			},
+			{
+			
+
+				"name": "x JAY ESTRELLA AZLA SEDNA XELASTEC 2",
+
+				"file": [
+
+					"XELASTEC 2"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+			},
+			{
+			
+
+				"name": "x JAY ESTRELLA AZLA SEDNA LIGHT-SHORT",
+
+				"file": [
+
+					"SEDNA LIGHT SHORT"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+			},
+			{
+			
+
+				"name": "x JAY ESTRELLA BGVP B01",
+
+				"file": [
+
+					"BGVP B01"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+			},
+			{
+			
+
+				"name": "x JAY ESTRELLA Divinus Prism",
+
+				"file": [
+
+					"DPRISM"
 
 				],
 
@@ -11606,11 +11674,79 @@
 			{
 			
 
+				"name": "x JAY ESTRELLA Eletech Baroque",
+
+				"file": [
+
+					"ELETECH"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+			},
+			{
+			
+
+				"name": "x JAY ESTRELLA Eletech Baroque Stage",
+
+				"file": [
+
+					"ESTAGE"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+			},
+			{
+			
+
 				"name": "x JAY ESTRELLA Final-E Fusion-G",
 
 				"file": [
 
 					"FINALE FUSIONG"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+			},
+			{
+			
+
+				"name": "x JAY ESTRELLA Harmonic Empire Sonic",
+
+				"file": [
+
+					"SONIC"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+			},
+			{
+			
+
+				"name": "x JAY ESTRELLA Pentaconn Coreir Aluminium",
+
+				"file": [
+
+					"PENTACONNALU"
 
 				],
 
@@ -11708,6 +11844,23 @@
 			{
 			
 
+				"name": "x JAY ESTRELLA Shanling SE100",
+
+				"file": [
+
+					"SHANLING SE100"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+			},
+			{
+			
+
 				"name": "x JAY ESTRELLA Softears Ultra Clear",
 
 				"file": [
@@ -11764,6 +11917,74 @@
 				"file": [
 
 					"SPINFIT 145"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+			},
+			{
+			
+
+				"name": "x JAY ESTRELLA Spinfit CP155",
+
+				"file": [
+
+					"CP155"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+			},
+			{
+			
+
+				"name": "x JAY ESTRELLA Spinfit CP500",
+
+				"file": [
+
+					"CP500"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+			},
+			{
+			
+
+				"name": "x JAY ESTRELLA Spinfit 360",
+
+				"file": [
+
+					"SPINFIT 360"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+			},
+			{
+			
+
+				"name": "x JAY ESTRELLA Spinfit W1",
+
+				"file": [
+
+					"SPINFIT W1"
 
 				],
 
