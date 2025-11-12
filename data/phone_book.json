@@ -11521,11 +11521,45 @@
 			{
 			
 
+				"name": "x JAY ESTRELLA AZLA SEDNA MAX",
+
+				"file": [
+
+					"SEDNA MAX"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+			},
+			{
+			
+
 				"name": "x JAY ESTRELLA AZLA SEDNA FOAMAX",
 
 				"file": [
 
 					"AZLA SEDNA FOAMAX"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+			},
+			{
+			
+
+				"name": "x JAY ESTRELLA Baroque Eletech",
+
+				"file": [
+
+					"ELETECH"
 
 				],
 
@@ -11674,11 +11708,28 @@
 			{
 			
 
-				"name": "x JAY ESTRELLA Spinfit 145",
+				"name": "x JAY ESTRELLA Spinfit CP100",
 
 				"file": [
 
-					"DV REGULAR"
+					"CP100"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+			},
+			{
+			
+
+				"name": "x JAY ESTRELLA Spinfit CP145",
+
+				"file": [
+
+					"SPINFIT 145"
 
 				],
 
