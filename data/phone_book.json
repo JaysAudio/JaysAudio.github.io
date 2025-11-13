@@ -11623,6 +11623,23 @@
 			{
 			
 
+				"name": "x JAY ESTRELLA DDHIFI ST35",
+
+				"file": [
+
+					"DPRISM"
+
+				],
+
+				"suffix": [
+
+					"DDHIFI ST35"
+
+				]
+			},
+			{
+			
+
 				"name": "x JAY ESTRELLA Divinus Prism",
 
 				"file": [
@@ -11679,6 +11696,23 @@
 				"file": [
 
 					"CANDY"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+			},
+			{
+			
+
+				"name": "x JAY ESTRELLA Dunu S&S",
+
+				"file": [
+
+					"DUNU SS"
 
 				],
 
@@ -11759,11 +11793,45 @@
 			{
 			
 
-				"name": "x JAY ESTRELLA Final-E Fusion-G",
+				"name": "x JAY ESTRELLA FiiO HS18",
+
+				"file": [
+
+					"FIIO HS18"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+			},
+			{
+			
+
+				"name": "x JAY ESTRELLA Final Audio Fusion-G",
 
 				"file": [
 
 					"FINALE FUSIONG"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+			},
+			{
+			
+
+				"name": "x JAY ESTRELLA Final Audio Type-E",
+
+				"file": [
+
+					"FINAL TYPE E"
 
 				],
 
@@ -11781,6 +11849,23 @@
 				"file": [
 
 					"SONIC"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+			},
+			{
+			
+
+				"name": "x JAY ESTRELLA Hifi GO ZEOS Render",
+
+				"file": [
+
+					"HIFIGOZEOS"
 
 				],
 
@@ -12155,6 +12240,23 @@
 				"file": [
 
 					"SPINFIT OMNI"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+			},
+			{
+			
+
+				"name": "x JAY ESTRELLA Spiral Dot",
+
+				"file": [
+
+					"SPIRAL DOT"
 
 				],
 
