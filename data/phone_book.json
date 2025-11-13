@@ -11725,6 +11725,23 @@
 			{
 			
 
+				"name": "x JAY ESTRELLA EPZ M100 Clear",
+
+				"file": [
+
+					"EPZ M100 CLEAR"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+			},
+			{
+			
+
 				"name": "x JAY ESTRELLA Feaulle H570",
 
 				"file": [
@@ -11776,11 +11793,62 @@
 			{
 			
 
-				"name": "x JAY ESTRELLA KBear 07",
+				"name": "x JAY ESTRELLA KBear Coffee",
+
+				"file": [
+
+					"KBEAR COFFEE"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+			},
+			{
+			
+
+				"name": "x JAY ESTRELLA KBear K07",
 
 				"file": [
 
 					"KBEAR 07"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+			},
+			{
+			
+
+				"name": "x JAY ESTRELLA KBear K08",
+
+				"file": [
+
+					"KBEAR 08"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+			},
+			{
+			
+
+				"name": "x JAY ESTRELLA KBear KT02",
+
+				"file": [
+
+					"KT02"
 
 				],
 
