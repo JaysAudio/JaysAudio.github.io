@@ -4849,8 +4849,74 @@
 				]
 
 			},
+			{
 
+				"name": "Orchestra 2 Stock Red",
 
+				"file": [
+
+					"ORCH RED"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+
+			},
+			{
+
+				"name": "Orchestra 2 Stock Wide Black",
+
+				"file": [
+
+					"ORCH 2 WB"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+
+			},
+			{
+
+				"name": "Orchestra 2 Stock White",
+
+				"file": [
+
+					"ORCH W"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+
+			},
+			{
+
+				"name": "Orchestra 2 Stock Yellow",
+
+				"file": [
+
+					"ORCH Y"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+
+			},
 			{
 
 				"name": "Prison Mike Mod",
@@ -6808,7 +6874,25 @@
 					"Tips"
 
 				]
+			},
+			{
+
+				"name": "PORTAZO Stock Black",
+
+				"file": [
+
+					"PORTAZO BLACK CLEAR"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+
 			}
+
 
 		]
 
