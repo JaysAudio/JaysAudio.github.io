@@ -4868,7 +4868,7 @@
 			},
 			{
 
-				"name": "Orchestra 2 Stock Red",
+				"name": "Orchestra 2 Stock Red/White",
 
 				"file": [
 
@@ -4890,23 +4890,6 @@
 				"file": [
 
 					"ORCH 2 WB"
-
-				],
-
-				"suffix": [
-
-					"Tips"
-
-				]
-
-			},
-			{
-
-				"name": "Orchestra 2 Stock White",
-
-				"file": [
-
-					"ORCH W"
 
 				],
 
