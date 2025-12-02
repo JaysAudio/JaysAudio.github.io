@@ -4851,6 +4851,23 @@
 			},
 			{
 
+				"name": "Orchestra 2 Stock Black Wide",
+
+				"file": [
+
+					"ORCH 2 WB"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+
+			},
+			{
+
 				"name": "Orchestra 2 Ultra Clear",
 
 				"file": [
@@ -4873,23 +4890,6 @@
 				"file": [
 
 					"ORCH RED"
-
-				],
-
-				"suffix": [
-
-					"Tips"
-
-				]
-
-			},
-			{
-
-				"name": "Orchestra 2 Stock Wide Black",
-
-				"file": [
-
-					"ORCH 2 WB"
 
 				],
 
