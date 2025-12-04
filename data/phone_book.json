@@ -11802,6 +11802,74 @@
 			{
 			
 
+				"name": "x JAY ESTRELLA ACOUSTUNE AET06 FLANGE",
+
+				"file": [
+
+					"acoustune flange aet06"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+			},
+			{
+			
+
+				"name": "x JAY ESTRELLA ACOUSTUNE AEX07",
+
+				"file": [
+
+					"acoustune aex07"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+			},
+			{
+			
+
+				"name": "x JAY ESTRELLA ACOUSTUNE AEX50",
+
+				"file": [
+
+					"acoustune aex50"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+			},
+			{
+			
+
+				"name": "x JAY ESTRELLA ACOUSTUNE AEX70",
+
+				"file": [
+
+					"acoustune aex70"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+			},
+			{
+			
+
 				"name": "x JAY ESTRELLA AZLA SEDNA MAX",
 
 				"file": [
@@ -11874,6 +11942,23 @@
 
 				"file": [
 
+					"AZLA SEDNA LIGHT"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+			},
+			{
+			
+
+				"name": "x JAY ESTRELLA AZLA SEDNA LIGHTSHORT",
+
+				"file": [
+
 					"SEDNA LIGHT SHORT"
 
 				],
@@ -11892,6 +11977,23 @@
 				"file": [
 
 					"BGVP B01"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+			},
+			{
+			
+
+				"name": "x JAY ESTRELLA CCZ ZT01",
+
+				"file": [
+
+					"CCZ ZT01"
 
 				],
 
@@ -12113,6 +12215,23 @@
 				"file": [
 
 					"FIIO HS20 CLEAR"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+			},
+			{
+			
+
+				"name": "x JAY ESTRELLA Final Audio E",
+
+				"file": [
+
+					"FINAL AUDIO E"
 
 				],
 
@@ -12606,6 +12725,23 @@
 				"file": [
 
 					"CP155"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+			},
+			{
+			
+
+				"name": "x JAY ESTRELLA Spinfit CP240 FLANGE",
+
+				"file": [
+
+					"SPINFIT CP240"
 
 				],
 
