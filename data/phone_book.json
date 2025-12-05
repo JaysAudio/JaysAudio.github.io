@@ -2869,6 +2869,40 @@
 			},
 			{
 
+				"name": "MEGA7 Stock 1",
+
+				"file": [
+
+					"MEGA7 S1"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+
+			},
+			{
+
+				"name": "MEGA7 Stock 2",
+
+				"file": [
+
+					"MEGA7 S2"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+
+			},
+			{
+
 				"name": "T4 00 Foam",
 
 				"file": [
@@ -3930,6 +3964,54 @@
 				"suffix": [
 
 					"Foam"
+
+				]
+
+			},
+			{
+
+				"name": "HARRIER Stock Clear Blue",
+
+				"file": [
+
+					"HARRIER STOCK BC"
+
+				],
+				"suffix": [
+
+					"Tips"
+
+				]
+
+			},
+			{
+
+				"name": "HARRIER Stock Red Black",
+
+				"file": [
+
+					"HARRIER STOCK RB"
+
+				],
+				"suffix": [
+
+					"Tips"
+
+				]
+
+			},
+			{
+
+				"name": "HARRIER Stock Wide White",
+
+				"file": [
+
+					"HARRIER STOCK W"
+
+				],
+				"suffix": [
+
+					"Tips"
 
 				]
 
