@@ -7254,17 +7254,15 @@
 				]
 
 			},
-		"phones": [
-
 			{
+
+				"name": "EO-IA500 2nd Unit",
 
 				"file": [
 
-					"EO-IA500 2nd Unit"
+					"EOIA5002"
 
 				],
-
-				"name": "EOIA5002",
 
 				"suffix": [
 
