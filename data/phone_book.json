@@ -2560,6 +2560,23 @@
 
 				]
 
+			},
+			{
+
+				"name": "Elephant Stock",
+
+				"file": [
+
+					"ELEPHANT STOCK"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+
 			}
 
 
@@ -8389,6 +8406,57 @@
 				]
 
 			},
+			{
+
+				"name": "NIGHTINGALE PRO Sancai Wide",
+
+				"file": [
+
+					"NIGHTINGALE PRO SW"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+
+			},
+			{
+
+				"name": "NIGHTINGALE PRO Stock Black",
+
+				"file": [
+
+					"NIGHTINGALE PRO STOCK BLACK"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+
+			},
+			{
+
+				"name": "NIGHTINGALE PRO Stock White",
+
+				"file": [
+
+					"NIGHTINGALE PRO STOCK White"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+
+			},
 
 			{
 
@@ -9311,6 +9379,40 @@
 				"file": [
 
 					"XWG SANCAI WIDE"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+
+			},
+			{
+
+				"name": "XUE TAO Sancai Regular",
+
+				"file": [
+
+					"XUE TAO SANCAI REG"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+
+			},
+			{
+
+				"name": "XUE TAO Stock Clear",
+
+				"file": [
+
+					"XUE TAO STOCK BLACK CLEAR"
 
 				],
 
@@ -11348,6 +11450,57 @@
 				"suffix": [
 
 					"Foam"
+
+				]
+
+			},
+			{
+
+				"name": "Tea PRO SE Stock Black",
+
+				"file": [
+
+					"TEA PRO SE STOCK BLACK"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+
+			},
+			{
+
+				"name": "Tea PRO SE Stock White",
+
+				"file": [
+
+					"TEA PRO SE STOCK WHITE"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+
+			},
+			{
+
+				"name": "Tea PRO SE Softears Ultra Clear",
+
+				"file": [
+
+					"TEA PRO SE ULTRA CLEAR"
+
+				],
+
+				"suffix": [
+
+					"Tips"
 
 				]
 
