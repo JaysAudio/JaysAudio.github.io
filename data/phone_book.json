@@ -5195,6 +5195,57 @@
 			},
 			{
 
+				"name": "DUONIC 1200 Switch Stock",
+
+				"file": [
+
+					"DUONIC 12 OFF OFF"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+
+			},
+			{
+
+				"name": "DUONIC ALL OFF Stock",
+
+				"file": [
+
+					"DUONIC ALL OFF"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+
+			},
+			{
+
+				"name": "DUONIC ALL ON Stock",
+
+				"file": [
+
+					"DUONIC ALL ON"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+
+			},
+			{
+
 				"name": "EDC PRO",
 
 				"file": [
@@ -5317,6 +5368,23 @@
 				]
 
 			},
+			{
+
+				"name": "Gale Stock",
+
+				"file": [
+
+					"GALE"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+
+			},
 
 			{
 
@@ -5333,6 +5401,57 @@
 				"suffix": [
 
 					"Foam"
+
+				]
+
+			},
+			{
+
+				"name": "Vader Pro 1200 Switch Stock",
+
+				"file": [
+
+					"VADER PRO 12 OFF OFF"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+
+			},
+			{
+
+				"name": "Vader Pro ALL OFF Stock",
+
+				"file": [
+
+					"VADER PRO ALL OFF"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+
+			},
+			{
+
+				"name": "Vader Pro ALL ON Stock",
+
+				"file": [
+
+					"VADER PRO ALL ON"
+
+				],
+
+				"suffix": [
+
+					"Tips"
 
 				]
 
@@ -5768,6 +5887,33 @@
 				"suffix": [
 
 					"Foam"
+
+				]
+
+			}
+
+		]
+
+	},
+	{
+
+		"name": "Meze",
+
+		"phones": [
+
+			{
+
+				"name": "Alba Stock",
+
+				"file": [
+
+					"MEZE ALBA"
+
+				],
+
+				"suffix": [
+
+					"Tips"
 
 				]
 
