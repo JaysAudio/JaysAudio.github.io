@@ -5640,7 +5640,57 @@
 				]
 
 			},
+			{
 
+				"name": "Ember Stock Black",
+
+				"file": [
+
+					"EMBER BLACK"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+
+			},
+			{
+
+				"name": "Ember Stock Black Wide",
+
+				"file": [
+
+					"EMBER BLACK WIDE"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+
+			},
+			{
+
+				"name": "Ember Stock Grey Black",
+
+				"file": [
+
+					"EMBER GREY BLACK"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+
+			},
 			{
 
 				"name": "EJ07M Resin",
