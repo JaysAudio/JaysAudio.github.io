@@ -2474,7 +2474,33 @@
 		]
 
 	},
+	{
 
+		"name": "GK",
+
+		"phones": [
+
+			{
+
+				"name": "Kunten Stock",
+
+				"file": [
+
+					"GK KUNTEN"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+
+			}
+
+		]
+
+	},
 
 	{
 
