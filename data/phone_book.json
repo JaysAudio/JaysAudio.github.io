@@ -12541,7 +12541,7 @@
 
 				"file": [
 
-					"AZLA SEDNA LIGHT"
+					"azla sedna light tips"
 
 				],
 
@@ -12576,6 +12576,23 @@
 				"file": [
 
 					"bgvp b01 clear tips"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+			},
+			{
+			
+
+				"name": "x JAY ESTRELLA BGVP COPPER CLEAR",
+
+				"file": [
+
+					"BGVP COPPER CLEAR"
 
 				],
 
