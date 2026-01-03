@@ -12299,23 +12299,6 @@
 			{
 			
 
-				"name": "x JAY ESTRELLA HifiGO ZEOS Render HYBRID",
-
-				"file": [
-
-					"HIFIGOZEOS"
-
-				],
-
-				"suffix": [
-
-					"Foam"
-
-				]
-			},
-			{
-			
-
 				"name": "x JAY ESTRELLA LETSHUOER ORANGE HYBRID",
 
 				"file": [
@@ -12384,33 +12367,17 @@
 			{
 			
 
-				"name": "x JAY ESTRELLA 2ND UNIT",
+				"name": "x JAY ESTRELLA ZEOS Render HYBRID",
 
 				"file": [
 
-					"ESTRELLA 2ND"
+					"zeos render tip"
 
 				],
 
 				"suffix": [
 
-					"Foam Tips"
-
-				]
-			},
-			{
-
-				"name": "x JAY ESTRELLA TAPE MOD Foam",
-
-				"file": [
-
-					"ESTRELLA FINAL FOAM TAPE MOD"
-
-				],
-
-				"suffix": [
-
-					"Tips"
+					"Foam"
 
 				]
 			},
@@ -13748,6 +13715,39 @@
 				"file": [
 
 					"STOCK WHITE WIDE"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+			},
+				{
+			
+
+				"name": "x JAY ESTRELLA 2ND UNIT",
+
+				"file": [
+
+					"ESTRELLA 2ND"
+
+				],
+
+				"suffix": [
+
+					"Foam Tips"
+
+				]
+			},
+			{
+
+				"name": "x JAY ESTRELLA TAPE MOD Foam",
+
+				"file": [
+
+					"ESTRELLA FINAL FOAM TAPE MOD"
 
 				],
 
