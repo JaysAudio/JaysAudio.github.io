@@ -12575,7 +12575,7 @@
 
 				"file": [
 
-					"BGVP B01 clear"
+					"bgvp b01 clear tips"
 
 				],
 
@@ -12609,13 +12609,13 @@
 
 				"file": [
 
-					"DPRISM"
+					"ddhifi st35 tips"
 
 				],
 
 				"suffix": [
 
-					"DDHIFI ST35"
+					"Tips"
 
 				]
 			},
