@@ -12643,24 +12643,7 @@
 
 				"file": [
 
-					"DPRISM"
-
-				],
-
-				"suffix": [
-
-					"Tips"
-
-				]
-			},
-			{
-			
-
-				"name": "x JAY ESTRELLA Divinus Velvet Wide",
-
-				"file": [
-
-					"DV WIDE"
+					"divinus prism tips"
 
 				],
 
@@ -12677,7 +12660,24 @@
 
 				"file": [
 
-					"DV REGULAR"
+					"divinus velvet regular"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+			},
+			{
+			
+
+				"name": "x JAY ESTRELLA Divinus Velvet Wide",
+
+				"file": [
+
+					"divinus velvet wide"
 
 				],
 
