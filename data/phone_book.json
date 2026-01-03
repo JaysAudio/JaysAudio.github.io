@@ -12983,7 +12983,7 @@
 
 				"file": [
 
-					"MOON SPRING"
+					"MD SPRING TIPS"
 
 				],
 
@@ -13000,7 +13000,7 @@
 
 				"file": [
 
-					"NICEHCK BLACK SILICONE"
+					"NH BLACK SILICONE"
 
 				],
 
@@ -13013,11 +13013,28 @@
 			{
 			
 
-				"name": "x JAY ESTRELLA NiceHCK C04",
+				"name": "x JAY ESTRELLA NiceHCK C03 Clear",
 
 				"file": [
 
-					"NICEHCK C04"
+					"NH C03"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+			},
+			{
+			
+
+				"name": "x JAY ESTRELLA NiceHCK C04 Clear",
+
+				"file": [
+
+					"NH C04"
 
 				],
 
