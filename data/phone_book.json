@@ -13387,23 +13387,6 @@
 			{
 			
 
-				"name": "x JAY ESTRELLA Spinfit W1",
-
-				"file": [
-
-					"SPINFIT W1"
-
-				],
-
-				"suffix": [
-
-					"Tips"
-
-				]
-			},
-			{
-			
-
 				"name": "x JAY ESTRELLA Spinfit Neo",
 
 				"file": [
@@ -13426,6 +13409,23 @@
 				"file": [
 
 					"SPINFIT OMNI TIPS"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+			},
+{
+			
+
+				"name": "x JAY ESTRELLA Spinfit W1",
+
+				"file": [
+
+					"SPINFIT W1"
 
 				],
 
