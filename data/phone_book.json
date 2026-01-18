@@ -10903,6 +10903,58 @@
 			},
 			{
 
+				"name": "T6 Black Ring Clear",
+
+				"file": [
+
+					"tinhifi black ring clear"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+
+			},
+			{
+
+				"name": "T6 Green Ring Clear",
+
+				"file": [
+
+					"tinhifi green black clear"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+
+			},
+			{
+
+				"name": "T6 Pink Ring Clear",
+
+				"file": [
+
+					"tinhifi pink ring clear"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+
+			},
+
+			{
+
 				"name": "T7",
 
 				"file": [
@@ -11893,6 +11945,40 @@
 
 		"phones": [
 
+			{
+
+				"name": "Baker Black Clear",
+
+				"file": [
+
+					"baker clear black"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+
+			},
+			{
+
+				"name": "Baker Clear",
+
+				"file": [
+
+					"baker clear"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+
+			},
 			{
 
 				"name": "Canon",
