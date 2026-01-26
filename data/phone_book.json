@@ -1387,6 +1387,67 @@
 		]
 
 	},
+	{
+
+		"name": "CVJ",
+
+		"phones": [
+
+			{
+
+				"name": "MYTHERA BLACK RED Stock",
+
+				"file": [
+
+					"CVJ MYTHERA RED STOCK"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+
+			},	
+			{
+
+				"name": "MYTHERA BLACK WIDE Stock",
+
+				"file": [
+
+					"CVJ MYTHERA BLACK WIDE"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+
+			},			
+			{
+
+				"name": "MYTHERA BGVP CLEAR",
+
+				"file": [
+
+					"CVJ MYTHERA BGVP CLEAR"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+
+			}
+
+		]
+
+	},
 
 	{
 
@@ -4889,6 +4950,23 @@
 			},
 			{
 
+				"name": "Cadenza 2 Stock",
+
+				"file": [
+
+					"CADENZA 2"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+
+			},
+			{
+
 				"name": "Canta",
 
 				"file": [
@@ -5320,7 +5398,24 @@
 
 				]
 
-			},	
+			},
+			{
+
+				"name": "EDZ Stock",
+
+				"file": [
+
+					"KZ EDZ"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+
+			},		
 			{
 
 				"name": "KZ CASTOR ALL ON 500 MESH",
@@ -8730,6 +8825,23 @@
 
 				]
 
+			},
+			{
+
+				"name": "SM100 Stock",
+
+				"file": [
+
+					"SM100"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+
 			}
 	
 		]
@@ -10149,6 +10261,40 @@
 				"suffix": [
 
 					"Foam"
+
+				]
+
+			},
+			{
+
+				"name": "SODA Bass Stock",
+
+				"file": [
+
+					"SODA BASS"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+
+			},
+			{
+
+				"name": "SODA Treble Stock",
+
+				"file": [
+
+					"SODA TREBLE"
+
+				],
+
+				"suffix": [
+
+					"Tips"
 
 				]
 
