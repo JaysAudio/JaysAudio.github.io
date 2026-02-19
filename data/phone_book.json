@@ -2942,11 +2942,62 @@
 			},
 			{
 
+				"name": "MP145 PRO Red Stock Anemone",
+
+				"file": [
+
+					"MP145 PRO RED ANEMONE"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+
+			},
+			{
+
 				"name": "MP145 PRO Red Stock Balanced",
 
 				"file": [
 
 					"MP145 PRO RED BALANCED"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+
+			},
+			{
+
+				"name": "MP145 PRO Red Stock Bass",
+
+				"file": [
+
+					"MP145 PRO RED BASS"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+
+			},
+			{
+
+				"name": "MP145 PRO Red Stock Vocal",
+
+				"file": [
+
+					"MP145 PRO RED VOCAL"
 
 				],
 
