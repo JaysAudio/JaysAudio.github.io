@@ -4550,6 +4550,57 @@
 		"phones": [
 			{
 
+				"name": "Arnar Black Nozzle Stock",
+
+				"file": [
+
+					"ARNAR BLACK"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+
+			},
+			{
+
+				"name": "Arnar Gold Nozzle Stock",
+
+				"file": [
+
+					"ARNAR GOLD"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+
+			},
+			{
+
+				"name": "Arnar Silver Nozzle Stock",
+
+				"file": [
+
+					"ARNAR SILVER"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+
+			},
+			{
+
 				"name": "Delci",
 
 				"file": [
@@ -5925,7 +5976,23 @@
 				]
 
 			},
-		
+			{
+
+				"name": "Astralis Stock",
+
+				"file": [
+
+					"ASTRALIS"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+
+			},
 			{
 
 				"name": "Cadenza 4",
@@ -7323,22 +7390,38 @@
 			},
 			{
 
-				"name": "Dynabird",
+				"name": "Dynabird Stock Black",
 
 				"file": [
 
-					"Oriveti Dynabird Foam"
+					"DYNABIRD"
 
 				],
 
 				"suffix": [
 
-					"Foam"
+					"Tips"
 
 				]
 
 			},
+			{
 
+				"name": "Dynabird Stock White",
+
+				"file": [
+
+					"DYNABIRD WHITE TIPS"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+
+			},
 			{
 
 				"name": "OH700VB Back Position",
@@ -7377,7 +7460,45 @@
 
 		
 			
-			}	
+			},
+			{
+
+				"name": "Purecaster Black Nozzle Stock",
+
+				"file": [
+
+					"PURECASTER BLACK"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+
+		
+			
+			},
+			{
+
+				"name": "Purecaster Silver Nozzle Stock",
+
+				"file": [
+
+					"PURECASTER SILVER"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+
+		
+			
+			}			
 		
 
 		]
@@ -7792,7 +7913,7 @@
 
 	{
 
-		"name": "Rose Technics",
+		"name": "Roseselsa",
 
 		"phones": [
 
@@ -7826,6 +7947,23 @@
 				"suffix": [
 
 					"Foam"
+
+				]
+
+			},
+			{
+
+				"name": "x AAV CJ20 Stock",
+
+				"file": [
+
+					"AV CJ20"
+
+				],
+
+				"suffix": [
+
+					"Tips"
 
 				]
 
