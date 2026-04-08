@@ -2711,6 +2711,50 @@
 	},
 	{
 
+		"name": "Harmonic Empire",
+
+		"phones": [
+
+			{
+
+				"name": "ZHANG LIAO Sancai Wide",
+
+				"file": [
+
+					"HE ZHANGLIAO SW"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+
+			},
+			{
+
+				"name": "ZHANG LIAO Sonic",
+
+				"file": [
+
+					"HE ZHANGLIAO SONIC"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+
+			}
+
+		]
+
+	},
+	{
+
 		"name": "Heartfield",
 
 		"phones": [
@@ -4040,7 +4084,108 @@
 		"name": "IO",
 
 		"phones": [
+			{
 
+				"name": "CIELO TIP 1",
+
+				"file": [
+
+					"CIELO Number 1"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+
+			},
+			{
+
+				"name": "CIELO Number 2",
+
+				"file": [
+
+					"CIELO TIP 2"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+
+			},
+			{
+
+				"name": "CIELO Number 3",
+
+				"file": [
+
+					"CIELO TIP 3"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+
+			},
+			{
+
+				"name": "CIELO Number 4",
+
+				"file": [
+
+					"CIELO TIP 4"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+
+			},
+			{
+
+				"name": "CIELO Number 5",
+
+				"file": [
+
+					"CIELO TIP 5"
+
+				],
+
+				"suffix": [
+
+					"Foam Tips"
+
+				]
+
+			},
+			{
+
+				"name": "CIELO Number 6",
+
+				"file": [
+
+					"CIELO TIP 6"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+
+			},
 			{
 
 				"name": "SOGNO FOAM F49",
