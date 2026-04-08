@@ -7320,6 +7320,84 @@
 	},
 	{
 
+		"name": "OopusX",
+
+		"phones": [
+
+			{
+
+				"name": "OP.22 HOLLOW SWITCH SMOOTH",
+
+				"file": [
+
+					"OOOPUSX OP.22 HOLLOW SMOOTH"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+
+			},
+			{
+
+				"name": "OP.22 HOLLOW SWITCH STICKY",
+
+				"file": [
+
+					"OOOPUSX OP.22 HOLLOW STICKY"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+
+			},
+			{
+
+				"name": "OP.22 SOLID SWITCH SMOOTH",
+
+				"file": [
+
+					"OOOPUSX OP.22 SOLID SMOOTH"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+
+			},
+			{
+
+				"name": "OP.22 SOLID SWITCH STICKY",
+
+				"file": [
+
+					"OOOPUSX OP.22 SOLID STICKY"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+
+			}
+
+		]
+
+	},
+	{
+
 		"name": "Oriolus",
 
 		"phones": [
@@ -10023,6 +10101,40 @@
 				"suffix": [
 
 					"Foam"
+
+				]
+
+			},
+			{
+
+				"name": "Wan’er 2 BASS Sancai Wide",
+
+				"file": [
+
+					"WANER 2 BASS SW"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+
+			},
+			{
+
+				"name": "Wan’er 2 BASS Sonic",
+
+				"file": [
+
+					"WANER 2 BASS SONIC"
+
+				],
+
+				"suffix": [
+
+					"Tips"
 
 				]
 
