@@ -4120,7 +4120,7 @@
 			},
 			{
 
-				"name": "CIELO Number 3",
+				"name": "CIELO ST50",
 
 				"file": [
 
@@ -4137,7 +4137,7 @@
 			},
 			{
 
-				"name": "CIELO Number 4",
+				"name": "CIELO TW43",
 
 				"file": [
 
@@ -4152,7 +4152,40 @@
 				]
 
 			},
+			{
 
+				"name": "CIELO F49",
+
+				"file": [
+
+					"CIELO TIP 5"
+
+				],
+
+				"suffix": [
+
+					"Foam Tips"
+
+				]
+
+			},
+			{
+
+				"name": "CIELO TW51",
+
+				"file": [
+
+					"CIELO TIP 6"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+
+			},
 			{
 
 				"name": "SOGNO FOAM F49",
