@@ -4154,7 +4154,7 @@
 			},
 			{
 
-				"name": "CIELO Number 5",
+				"name": "CIELO F49 Foam",
 
 				"file": [
 
@@ -4164,7 +4164,24 @@
 
 				"suffix": [
 
-					"Foam Tips"
+					"Tips"
+
+				]
+
+			},
+			{
+
+				"name": "CIELO TW51",
+
+				"file": [
+
+					"CIELO TIP 6"
+
+				],
+
+				"suffix": [
+
+					"Tips"
 
 				]
 
