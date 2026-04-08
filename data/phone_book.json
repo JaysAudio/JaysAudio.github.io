@@ -4086,11 +4086,11 @@
 		"phones": [
 			{
 
-				"name": "CIELO TIP 1",
+				"name": "CIELO Number 1",
 
 				"file": [
 
-					"CIELO Number 1"
+					"CIELO TIP 1"
 
 				],
 
@@ -4165,23 +4165,6 @@
 				"suffix": [
 
 					"Foam Tips"
-
-				]
-
-			},
-			{
-
-				"name": "CIELO Number 6",
-
-				"file": [
-
-					"CIELO TIP 6"
-
-				],
-
-				"suffix": [
-
-					"Tips"
 
 				]
 
