@@ -5450,6 +5450,57 @@
 			},
 			{
 
+				"name": "Halcyon BGVP B01 Clear",
+
+				"file": [
+
+					"HALCYON BGVP CLEAR"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+
+			},
+			{
+
+				"name": "Halcyon Stock Regular",
+
+				"file": [
+
+					"HALCYON STOCK"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+
+			},
+			{
+
+				"name": "Halcyon Stock Wide",
+
+				"file": [
+
+					"HALCYON WIDE"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+
+			},
+			{
+
 				"name": "HBB Punch",
 
 				"file": [
