@@ -1432,6 +1432,40 @@
 
 				]
 
+			},
+			{
+
+				"name": "Reference Stock",
+
+				"file": [
+
+					"Crin Ref Stock"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+
+			},
+			{
+
+				"name": "Reference Stock Wide",
+
+				"file": [
+
+					"Crin Ref Wide"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+
 			}
 
 		]
