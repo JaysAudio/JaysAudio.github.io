@@ -2118,7 +2118,40 @@
 				]
 
 			},
+			{
 
+				"name": "550 Clear Stock",
+
+				"file": [
+
+					"EPZ 550 CLEAR"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+
+			},
+			{
+
+				"name": "550 Pink Stock",
+
+				"file": [
+
+					"EPZ 550 PINK"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+
+			},
 			{
 
 				"name": "620",
@@ -2749,6 +2782,40 @@
 
 		"phones": [
 
+			{
+
+				"name": "XIAO QIAO Black Stock",
+
+				"file": [
+
+					"HE XIAO QIAO BLACK"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+
+			},
+			{
+
+				"name": "XIAO QIAO Clear Stock",
+
+				"file": [
+
+					"HE XIAO QIAO CLEAR"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+
+			},
 			{
 
 				"name": "ZHANG LIAO Sancai Wide",
