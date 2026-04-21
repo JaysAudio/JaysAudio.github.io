@@ -4185,98 +4185,14 @@
 		"name": "IO",
 
 		"phones": [
-			{
-
-				"name": "CIELO TW45",
-
-				"file": [
-
-					"CIELO TIPS 1"
-
-				],
-
-				"suffix": [
-
-					"Tips"
-
-				]
-
-			},
-			{
-
-				"name": "CIELO TW40",
-
-				"file": [
-
-					"CIELO TIPS 2"
-
-				],
-
-				"suffix": [
-
-					"Tips"
-
-				]
-
-			},
-			{
-
-				"name": "CIELO ST50",
-
-				"file": [
-
-					"CIELO TIPS 3"
-
-				],
-
-				"suffix": [
-
-					"Tips"
-
-				]
-
-			},
-			{
-
-				"name": "CIELO TW43",
-
-				"file": [
-
-					"CIELO TIPS 4"
-
-				],
-
-				"suffix": [
-
-					"Tips"
-
-				]
-
-			},
-			{
-
-				"name": "CIELO F49",
-
-				"file": [
-
-					"CIELO TIPS 5"
-
-				],
-
-				"suffix": [
-
-					"Foam Tips"
-
-				]
-
-			},
+		
 			{
 
 				"name": "CIELO TW51",
 
 				"file": [
 
-					"CIELO 6"
+					"CIELO TW51"
 
 				],
 
