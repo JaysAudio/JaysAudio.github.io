@@ -4289,11 +4289,11 @@
 		"phones": [
 			{
 
-				"name": "CIELO TW45",
+				"name": "CIELO Softear UCL Titanium",
 
 				"file": [
 
-					"CIELO TW45"
+					"CIELO UCT"
 
 				],
 
@@ -4306,11 +4306,11 @@
 			},
 			{
 
-				"name": "CIELO TW40",
+				"name": "CIELO Spinfit Omni",
 
 				"file": [
 
-					"CIELO TW40"
+					"CIELO OMNI"
 
 				],
 
@@ -4323,11 +4323,11 @@
 			},
 			{
 
-				"name": "CIELO ST50",
+				"name": "CIELO TangZu Sancai Regular",
 
 				"file": [
 
-					"CIELO ST50"
+					"CIELO SANCAI"
 
 				],
 
@@ -4340,41 +4340,7 @@
 			},
 			{
 
-				"name": "CIELO TW43",
-
-				"file": [
-
-					"CIELO TW43"
-
-				],
-
-				"suffix": [
-
-					"Tips"
-
-				]
-
-			},
-			{
-
-				"name": "CIELO F49",
-
-				"file": [
-
-					"CIELO F49"
-
-				],
-
-				"suffix": [
-
-					"Foams"
-
-				]
-
-			},
-			{
-
-				"name": "CIELO TW51",
+				"name": "CIELO TW51 Stock",
 
 				"file": [
 
