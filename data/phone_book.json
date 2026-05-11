@@ -4287,57 +4287,7 @@
 		"name": "IO",
 
 		"phones": [
-			{
-
-				"name": "CIELO Softear UCL Titanium",
-
-				"file": [
-
-					"CIELO UCT"
-
-				],
-
-				"suffix": [
-
-					"Tips"
-
-				]
-
-			},
-			{
-
-				"name": "CIELO Spinfit Omni",
-
-				"file": [
-
-					"CIELO OMNI"
-
-				],
-
-				"suffix": [
-
-					"Tips"
-
-				]
-
-			},
-			{
-
-				"name": "CIELO TangZu Sancai Regular",
-
-				"file": [
-
-					"CIELO SANCAI"
-
-				],
-
-				"suffix": [
-
-					"Tips"
-
-				]
-
-			},
+			
 			{
 
 				"name": "CIELO TW51 Stock",
@@ -6252,6 +6202,23 @@
 				"file": [
 
 					"VADER PRO ALL ON"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+
+			},
+			{
+
+				"name": "VIBE X Stock",
+
+				"file": [
+
+					"VIBE X"
 
 				],
 
