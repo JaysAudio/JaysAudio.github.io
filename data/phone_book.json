@@ -1781,7 +1781,41 @@
 
 				]
 
-			},		
+			},
+			{
+
+				"name": "Titan X Candy",
+
+				"file": [
+
+					"TITAN X CANDY"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+
+			},
+			{
+
+				"name": "Titan X Black",
+
+				"file": [
+
+					"TITAN X"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+
+			},					
 			{
 
 				"name": "Vulkan",
@@ -4668,6 +4702,38 @@
 			},
 			{
 
+				"name": "x ZEOS DEFIANT GAMING CLEAR",
+
+				"file": [
+
+					"DEFIANT GAMING CLEAR"
+
+				],
+				"suffix": [
+
+					"Tips"
+
+				]
+
+			},
+			{
+
+				"name": "x ZEOS DEFIANT GAMING STOCK",
+
+				"file": [
+
+					"DEFIANT GAMING STOCK"
+
+				],
+				"suffix": [
+
+					"Tips"
+
+				]
+
+			},
+			{
+
 				"name": "61T",
 
 				"file": [
@@ -5110,7 +5176,7 @@
 
 				]
 
-			}
+			},
 
 		]
 
@@ -5228,7 +5294,40 @@
 				]
 
 			},
+			{
 
+				"name": "Celest Phoenixcall 2.0 Black",
+
+				"file": [
+
+					"PHOENIXCALL 2 BLACK"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+
+			},
+			{
+
+				"name": "Celest Phoenixcall 2.0 White",
+
+				"file": [
+
+					"PHOENIXCALL 2 WHITE"
+
+				],
+
+				"suffix": [
+
+					"Tips"
+
+				]
+
+			},
 			{
 
 				"name": "Celest Plutus Beast",
@@ -5870,6 +5969,23 @@
 			},
 			{
 
+				"name": "x B_MEDIA CHORUS",
+
+				"file": [
+
+					"CHORUS"
+
+				],
+
+				"suffix": [
+
+					"Stock Tips"
+
+				]
+
+			},	
+			{
+
 				"name": "x Crinacle Singolo",
 
 				"file": [
@@ -5884,8 +6000,7 @@
 
 				]
 
-			},	
-			
+			},
 			{
 
 				"name": "x Crinacle Singolo 2nd Unit",
@@ -9717,6 +9832,23 @@
 				"suffix": [
 
 					"Foam"
+
+				]
+
+			},
+			{
+
+				"name": "SE6",
+
+				"file": [
+
+					"SE6"
+
+				],
+
+				"suffix": [
+
+					"Stock Tips"
 
 				]
 
